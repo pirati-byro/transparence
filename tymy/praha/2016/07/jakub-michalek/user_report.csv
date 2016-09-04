@@ -1,8 +1,8 @@
 ,Projekt,Uživatel,Aktivita,Úkol,Hodiny,Refundace,Datum
-31,republikové předsednictvo,Jakub Michálek,Studium podkladů,Dlouhodobý úkol #3377: Strategický tým,1.5,strana,2016-07-27
+31,republikové předsednictvo,Jakub Michálek,Studium podkladů,Dlouhodobý úkol #3377: Strategický tým,1.5,,2016-07-27
 38,zastupitelstvo hl. m. Prahy,Jakub Michálek,Příprava dokumentu,Dlouhodobý úkol #686: Šíření informací a sdílení zkušeností,3.0,,2016-07-26
 39,zastupitelstvo hl. m. Prahy,Jakub Michálek,E-mail,Dlouhodobý úkol #597: E-mailová komunikace,0.5,,2016-07-26
-98,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,2.5,strana,2016-07-21
+98,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,2.5,,2016-07-21
 99,zastupitelstvo hl. m. Prahy,Jakub Michálek,Administrativa,Schůzka #3517: Schůzka s Martinem Gillarem,0.3,,2016-07-21
 100,zastupitelstvo hl. m. Prahy,Jakub Michálek,Schůzky,Schůzka #3517: Schůzka s Martinem Gillarem,1.0,,2016-07-21
 101,zastupitelstvo hl. m. Prahy,Jakub Michálek,Cesta,Schůzka #3517: Schůzka s Martinem Gillarem,0.5,,2016-07-21
@@ -17,58 +17,56 @@
 140,zastupitelstvo hl. m. Prahy,Jakub Michálek,Administrativa,Dlouhodobý úkol #658: Administrativa,0.2,,2016-07-19
 141,zastupitelstvo hl. m. Prahy,Jakub Michálek,Diskuse,Úkol #3503: Prověřit zakázku na autobusy,0.33,,2016-07-19
 142,zastupitelstvo hl. m. Prahy,Jakub Michálek,Příprava dokumentu,Dlouhodobý úkol #1973: Vedení zastupitelského klubu,1.0,,2016-07-19
-143,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3384: Informační tým,2.2,strana,2016-07-19
+143,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3384: Informační tým,2.2,,2016-07-19
 144,zastupitelstvo hl. m. Prahy,Jakub Michálek,Vývoj software,Úkol #2099: Výkaz odměn zastupitele,2.0,,2016-07-19
 156,zastupitelstvo hl. m. Prahy,Jakub Michálek,Studium podkladů,Naše žádost #3361: Žádost o informace – smlouvy k Slovanskému domu,1.0,,2016-07-18
 157,zastupitelstvo hl. m. Prahy,Jakub Michálek,Vývoj software,Úkol #2099: Výkaz odměn zastupitele,2.0,,2016-07-18
-172,mediální odbor,Jakub Michálek,Administrativa,Dlouhodobý úkol #2817: Organizace a administrativa,2.0,strana,2016-07-18
+172,mediální odbor,Jakub Michálek,Administrativa,Dlouhodobý úkol #2817: Organizace a administrativa,2.0,,2016-07-18
 181,zastupitelstvo hl. m. Prahy,Jakub Michálek,Vývoj software,Úkol #2099: Výkaz odměn zastupitele,2.0,,2016-07-17
 182,zastupitelstvo hl. m. Prahy,Jakub Michálek,Návrh software,Úkol #2099: Výkaz odměn zastupitele,2.5,,2016-07-17
 189,zastupitelstvo hl. m. Prahy,Jakub Michálek,Školení a sebevzdělávání,Úkol #1998: Pomocník na byrokracii Byro,4.0,,2016-07-16
 192,zastupitelstvo hl. m. Prahy,Jakub Michálek,E-mail,Dlouhodobý úkol #597: E-mailová komunikace,0.3,,2016-07-16
-193,Praha,Jakub Michálek,Příprava dokumentu,Podání #3468: Schválení odměny zastupitelů hl. m. Prahy za Piráty za červen 2016,0.2,strana,2016-07-16
-194,Praha,Jakub Michálek,Příprava dokumentu,Podání #3467: Schválení odměny Vítka Šimrala za červen 2016,0.4,strana,2016-07-16
+193,Praha,Jakub Michálek,Příprava dokumentu,Podání #3468: Schválení odměny zastupitelů hl. m. Prahy za Piráty za červen 2016,0.2,,2016-07-16
+194,Praha,Jakub Michálek,Příprava dokumentu,Podání #3467: Schválení odměny Vítka Šimrala za červen 2016,0.4,,2016-07-16
 204,zastupitelstvo hl. m. Prahy,Jakub Michálek,Fyzické práce,Dlouhodobý úkol #299: Úklid a údržba kanceláře,0.85,,2016-07-15
 205,zastupitelstvo hl. m. Prahy,Jakub Michálek,Administrativa,Dlouhodobý úkol #2784: Odměňování zastupitelů ze strany Pirátů (2016),0.5,,2016-07-15
 206,zastupitelstvo hl. m. Prahy,Jakub Michálek,E-mail,Dlouhodobý úkol #597: E-mailová komunikace,0.25,,2016-07-15
-207,technický odbor,Jakub Michálek,Administrativa,Dlouhodobý úkol #1207: Administrativa,0.25,strana,2016-07-15
-208,parlamentní tým,Jakub Michálek,Příprava dokumentu,Úkol #3451: Umístění technických norem ve stavebnictví na web,2.25,strana,2016-07-15
+207,technický odbor,Jakub Michálek,Administrativa,Dlouhodobý úkol #1207: Administrativa,0.25,,2016-07-15
+208,parlamentní tým,Jakub Michálek,Příprava dokumentu,Úkol #3451: Umístění technických norem ve stavebnictví na web,2.25,,2016-07-15
 212,zastupitelstvo hl. m. Prahy,Jakub Michálek,E-mail,Programový cíl #112: Jednotný systém parkování,0.5,,2016-07-15
-224,administrativní odbor,Jakub Michálek,Schůzky,Úkol #3384: Informační tým,2.5,strana,2016-07-14
-225,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,1.75,strana,2016-07-14
-226,Praha,Jakub Michálek,Schůzky,Úkol #2639: Zaštítění lokálních iniciativ v městských částech,1.25,strana,2016-07-14
+224,administrativní odbor,Jakub Michálek,Schůzky,Úkol #3384: Informační tým,2.5,,2016-07-14
+225,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,1.75,,2016-07-14
+226,Praha,Jakub Michálek,Schůzky,Úkol #2639: Zaštítění lokálních iniciativ v městských částech,1.25,,2016-07-14
 227,zastupitelstvo hl. m. Prahy,Jakub Michálek,E-mail,Dlouhodobý úkol #597: E-mailová komunikace,0.25,,2016-07-14
-250,parlamentní tým,Jakub Michálek,Studium podkladů,Úkol #3456: Seznam mafiánů,2.5,strana,2016-07-13
+250,parlamentní tým,Jakub Michálek,Studium podkladů,Úkol #3456: Seznam mafiánů,2.5,,2016-07-13
 251,zastupitelstvo hl. m. Prahy,Jakub Michálek,Příprava dokumentu,Naše žádost #3455: Žádost o informace – bakalářský diplom Milan Chovanec ,1.66,,2016-07-13
-252,parlamentní tým,Jakub Michálek,Schůzky,Dlouhodobý úkol #3454: Asistence senátoru Liboru Michálkovi (asistent senátora Vít Šimral),1.7,strana,2016-07-13
-291,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,0.7,strana,2016-07-11
-292,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,2.5,strana,2016-07-11
-293,parlamentní tým,Jakub Michálek,Schůzky,Schůzka #3443: Oslovení JUDr. Hany Marvanové,1.5,strana,2016-07-11
-294,parlamentní tým,Jakub Michálek,Cesta,Schůzka #3443: Oslovení JUDr. Hany Marvanové,0.75,strana,2016-07-11
-316,Středočeský kraj,Jakub Michálek,Mediální výstupy,"Úkol #3248: Připravit volební program, povolební strategii a výcuc z programu pro voliče",3.5,strana,2016-07-09
-317,Středočeský kraj,Jakub Michálek,Příprava dokumentu,Úkol #3143: Vytvořit krajský program,3.5,strana,2016-07-09
-318,republikové předsednictvo,Jakub Michálek,Příprava dokumentu,Dlouhodobý úkol #3379: Parlamentní tým ,2.5,strana,2016-07-09
-320,mediální odbor,Jakub Michálek,Příprava dokumentu,Úkol #3417: Záměr krajské Pirátské listy,3.0,strana,2016-07-09
+252,parlamentní tým,Jakub Michálek,Schůzky,Dlouhodobý úkol #3454: Asistence senátoru Liboru Michálkovi (asistent senátora Vít Šimral),1.7,,2016-07-13
+291,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,0.7,,2016-07-11
+292,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3383: Byrokratický tým,2.5,,2016-07-11
+293,parlamentní tým,Jakub Michálek,Schůzky,Schůzka #3443: Oslovení JUDr. Hany Marvanové,1.5,,2016-07-11
+294,parlamentní tým,Jakub Michálek,Cesta,Schůzka #3443: Oslovení JUDr. Hany Marvanové,0.75,,2016-07-11
+316,Středočeský kraj,Jakub Michálek,Mediální výstupy,"Úkol #3248: Připravit volební program, povolební strategii a výcuc z programu pro voliče",3.5,,2016-07-09
+317,Středočeský kraj,Jakub Michálek,Příprava dokumentu,Úkol #3143: Vytvořit krajský program,3.5,,2016-07-09
+318,republikové předsednictvo,Jakub Michálek,Příprava dokumentu,Dlouhodobý úkol #3379: Parlamentní tým ,2.5,,2016-07-09
+320,mediální odbor,Jakub Michálek,Příprava dokumentu,Úkol #3417: Záměr krajské Pirátské listy,3.0,,2016-07-09
 327,zastupitelstvo hl. m. Prahy,Jakub Michálek,Školení a sebevzdělávání,Dlouhodobý úkol #693: Sebevzdělávání,5.0,,2016-07-08
-334,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3388: Výběrové řízení na asistenta pro administrativu,2.0,strana,2016-07-08
+334,administrativní odbor,Jakub Michálek,Příprava dokumentu,Úkol #3388: Výběrové řízení na asistenta pro administrativu,2.0,,2016-07-08
 337,zastupitelstvo hl. m. Prahy,Jakub Michálek,Mediální výstupy,Dlouhodobý úkol #165: Mediální výstupy,0.5,,2016-07-08
 338,zastupitelstvo hl. m. Prahy,Jakub Michálek,Příprava dokumentu,Naše žádost #3418: Žádost o informace – kde poskytuje informace Česká konference rektorů,2.0,,2016-07-08
 339,zastupitelstvo hl. m. Prahy,Jakub Michálek,Mediální výstupy,Dlouhodobý úkol #165: Mediální výstupy,0.5,,2016-07-08
-340,personální odbor,Jakub Michálek,Příprava dokumentu,Úkol #3389: Výběrové řízení na celostátního koordinátora dobrovolníků,2.33,strana,2016-07-08
-354,parlamentní tým,Jakub Michálek,Příprava dokumentu,Úkol #3410: Politické trafiky na celostátní úrovni,1.0,strana,2016-07-07
+340,personální odbor,Jakub Michálek,Příprava dokumentu,Úkol #3389: Výběrové řízení na celostátního koordinátora dobrovolníků,2.33,,2016-07-08
+354,parlamentní tým,Jakub Michálek,Příprava dokumentu,Úkol #3410: Politické trafiky na celostátní úrovni,1.0,,2016-07-07
 355,zastupitelstvo hl. m. Prahy,Jakub Michálek,Vývoj software,Úkol #933: Nový web Pirátů Praha,2.0,,2016-07-07
 356,zastupitelstvo hl. m. Prahy,Jakub Michálek,Administrativa,Dlouhodobý úkol #658: Administrativa,0.5,,2016-07-07
 357,zastupitelstvo hl. m. Prahy,Jakub Michálek,Mediální výstupy,Dlouhodobý úkol #165: Mediální výstupy,3.25,,2016-07-07
 358,zastupitelstvo hl. m. Prahy,Jakub Michálek,E-mail,Dlouhodobý úkol #597: E-mailová komunikace,0.5,,2016-07-07
 375,zastupitelstvo hl. m. Prahy,Jakub Michálek,Vývoj software,Úkol #933: Nový web Pirátů Praha,1.5,,2016-07-06
-382,republikové předsednictvo,Jakub Michálek,Studium podkladů,Dlouhodobý úkol #3390: Datový a analytický tým,2.0,strana,2016-07-05
+382,republikové předsednictvo,Jakub Michálek,Studium podkladů,Dlouhodobý úkol #3390: Datový a analytický tým,2.0,,2016-07-05
 383,zastupitelstvo hl. m. Prahy,Jakub Michálek,Vývoj software,Úkol #933: Nový web Pirátů Praha,2.0,,2016-07-05
-384,republikové předsednictvo,Jakub Michálek,Příprava dokumentu,Dlouhodobý úkol #3377: Strategický tým,0.75,strana,2016-07-05
-385,evidence rozhodčích řízení,Jakub Michálek,Příprava dokumentu,Stížnost #2810: Stížnost na obvinění týkající se nakládání s technickými systémy,6.0,,2016-07-05
-404,republikové předsednictvo,Jakub Michálek,Administrativa,Dlouhodobý úkol #3390: Datový a analytický tým,0.5,strana,2016-07-04
-411,republikové předsednictvo,Jakub Michálek,Jednání,Dlouhodobý úkol #3377: Strategický tým,0.5,strana,2016-07-02
-412,technický odbor,Jakub Michálek,Diskuse,Úkol #3382: Webařský tým - celostátní web,1.5,strana,2016-07-02
-413,evidence rozhodčích řízení,Jakub Michálek,Jednání,Stížnost #2810: Stížnost na obvinění týkající se nakládání s technickými systémy,1.0,,2016-07-02
-429,republikové předsednictvo,Jakub Michálek,Jednání,Dlouhodobý úkol #3377: Strategický tým,1.5,strana,2016-07-01
+384,republikové předsednictvo,Jakub Michálek,Příprava dokumentu,Dlouhodobý úkol #3377: Strategický tým,0.75,,2016-07-05
+404,republikové předsednictvo,Jakub Michálek,Administrativa,Dlouhodobý úkol #3390: Datový a analytický tým,0.5,,2016-07-04
+411,republikové předsednictvo,Jakub Michálek,Jednání,Dlouhodobý úkol #3377: Strategický tým,0.5,,2016-07-02
+412,technický odbor,Jakub Michálek,Diskuse,Úkol #3382: Webařský tým - celostátní web,1.5,,2016-07-02
+429,republikové předsednictvo,Jakub Michálek,Jednání,Dlouhodobý úkol #3377: Strategický tým,1.5,,2016-07-01
 432,zastupitelstvo hl. m. Prahy,Jakub Michálek,Studium podkladů,Podání #3364: Pavel Bém - Tarascota Ltd,4.0,,2016-07-01
-433,parlamentní tým,Jakub Michálek,Příprava dokumentu,Naše žádost #3363: Implementace - rejstřík konečných vlastníků,1.0,strana,2016-07-01
+433,parlamentní tým,Jakub Michálek,Příprava dokumentu,Naše žádost #3363: Implementace - rejstřík konečných vlastníků,1.0,,2016-07-01

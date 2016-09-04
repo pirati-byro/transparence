@@ -18,7 +18,7 @@ Jméno a příjmení:        | Adam Zábranský
 Funkce:                  | zastupitel hl. m. Prahy
 Tým:                     | zastupitelstvo hl. m. Prahy
 Smlouva:                 | [smlouva ze dne 3. 12. 2014][smlouva]
-Období:                  | 2016-07
+Období:                  | 2016-08
 Odměna dle smlouvy:      | 8500–13500 Kč
 
 Odvedená práce
@@ -30,9 +30,10 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                |   Počet hodin |
 |:--------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p15]**      |         23.40 |
-| [#2308 Zveřejnění faktur Magistrátu][t2308] |          7.10 |
-| **Celkem v uvedených projektech**           |         23.45 |
+| **[Zastupitelstvo hl. m. prahy][p15]**      |         21.70 |
+| [#184 Rada hl. m. Prahy (RHMP)][t184]       |          3.80 |
+| [#3594 Dořešit staré podněty občanů][t3594] |          3.20 |
+| **Celkem v uvedených projektech**           |         21.65 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -46,11 +47,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-A. Práce hrazená dle smlouvy           |  23.45
+A. Práce hrazená dle smlouvy           |  21.65
 B. Práce hrazená jinými subjekty       |   0.00
-**Celkový počet hodin**                |  23.45
-Dohodnutý rozsah práce                 | 114.00
-**Procento vytížení**                  |   21 %
+**Celkový počet hodin**                |  21.65
+Dohodnutý rozsah práce                 | 138.00
+**Procento vytížení**                  |   16 %
 
 Odměna
 ------
@@ -62,16 +63,16 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka příjmu                 | Přiznaná částka (Kč)
 -----------------             | --------------------:
-A.1 Pevná složka              |  1748.46
-A.2 Variabilní složka         |   542.31
+A.1 Pevná složka              |  1333.51
+A.2 Variabilní složka         |    24.61
 *z toho*                      |
-A.2.1 Odměna za rozsah práce  |    42.31
-A.2.2 Odměna za splněné úkoly |   500.00
+A.2.1 Odměna za rozsah práce  |    24.61
+A.2.2 Odměna za splněné úkoly |     0.00
 A.3 Odměna za přesčas         |     0.00
 A.4 Odpočet za výhrady        |     0.00
-**Celková odměna**            |  2290.78
+**Celková odměna**            |  1358.13
 
-Podle smlouvy činila pevná složka dohodnuté odměny 8500 Kč. Protože v měsíci 2016-07 bylo 19 dnů, činila hodinová sazba částku 74.56 Kč. Nedošlo k překročení dohodnutého počtu hodin. Za 23.45 hodin náleží pevná složka odměny ve výši 1748.46 Kč. 
+Podle smlouvy činila pevná složka dohodnuté odměny 8500 Kč. Protože v měsíci 2016-08 bylo 23 dnů, činila hodinová sazba částku 61.59 Kč. Nedošlo k překročení dohodnutého počtu hodin. Za 21.65 hodin náleží pevná složka odměny ve výši 1333.51 Kč. 
 
 ### Odměna od jiných subjektů
 
@@ -96,12 +97,14 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/praha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD_zastupitel%C5%AF
 
 
-[p15]: https://redmine.pirati.cz/time_entries.csv?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-07-01&v[spent_on][]=2016-07-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=15
+[p15]: https://redmine.pirati.cz/time_entries.csv?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-08-01&v[spent_on][]=2016-08-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=15
 
-[t2308]: https://redmine.pirati.cz/issues/2308/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-07-01&v[spent_on][]=2016-07-31&v[user_id][]=1&v[user_id][]=6
+[t184]: https://redmine.pirati.cz/issues/184/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-08-01&v[spent_on][]=2016-08-31&v[user_id][]=1&v[user_id][]=6
+
+[t3594]: https://redmine.pirati.cz/issues/3594/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-08-01&v[spent_on][]=2016-08-31&v[user_id][]=1&v[user_id][]=6
 
 
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-07-01&v[spent_on][]=2016-07-31&v[user_id][]=16
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-08-01&v[spent_on][]=2016-08-31&v[user_id][]=16
 
 [smlouva]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/
