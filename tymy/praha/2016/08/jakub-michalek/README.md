@@ -81,13 +81,13 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 Složka příjmu                 | Přiznaná částka (Kč)
 -----------------             | --------------------:
 A.1 Pevná složka              |  7864.35
-A.2 Variabilní složka         |   856.03
+A.2 Variabilní složka         |  4356.03
 *z toho*                      |
 A.2.1 Odměna za rozsah práce  |   856.03
-A.2.2 Odměna za splněné úkoly |     0.00
+A.2.2 Odměna za splněné úkoly |  3500.00
 A.3 Odměna za přesčas         |     0.00
-A.4 Odpočet za výhrady        |     0.00
-**Celková odměna**            |  8720.38
+A.4 Odpočet za výhrady        |  9658.00
+**Celková odměna**            |  2562.38
 
 Podle smlouvy činila pevná složka dohodnuté odměny 8500 Kč. Protože v měsíci 2016-08 bylo 23 dnů, činila hodinová sazba částku 61.59 Kč. Nedošlo k překročení dohodnutého počtu hodin. Za 127.68 hodin náleží pevná složka odměny ve výši 7864.35 Kč. 
 

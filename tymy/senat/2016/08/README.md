@@ -17,7 +17,7 @@ Období:                  | 2016-08
 
 | Jméno a příjmení          |   Odměna od strany (Kč) |
 |:--------------------------|------------------------:|
-| [Vít Šimral](vit-simral/) |                 6269.00 |
+| [Vít Šimral](vit-simral/) |                 8269.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/praha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD_zastupitel%C5%AF
