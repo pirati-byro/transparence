@@ -10,14 +10,14 @@ která obsahuje podrobnosti. U všech členů týmu je uveden odkaz na podrobný
 
 Tým:                     | administrativní odbor
 -----------------------  | --------------------
-Období:                  | 2016-10
+Období:                  | 2016-09
 
 Členové týmu
 --------------
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Elizabet Kovačeva](elizabet-kovaceva/) |                 3455.00 |
+| [Elizabet Kovačeva](elizabet-kovaceva/) |                  286.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/praha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD_zastupitel%C5%AF
