@@ -17,7 +17,7 @@ Období:                  | 2016-09
 
 | Jméno a příjmení                      |   Odměna od strany (Kč) |
 |:--------------------------------------|------------------------:|
-| [Barbora Hradečná](barbora-hradecna/) |                 1703.00 |
+| [Barbora Hradečná](barbora-hradecna/) |                 2903.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/praha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD_zastupitel%C5%AF
