@@ -71,10 +71,10 @@ A.1 Pevná složka              |  3350.00
 A.2 Variabilní složka         |   105.21
 *z toho*                      |
 A.2.1 Odměna za rozsah práce  |   105.21
-A.2.2 Odměna za splněné úkoly |     0.00
+A.2.2 Odměna za splněné úkoly |  1544.79
 A.3 Odměna za přesčas         |     0.00
 A.4 Odpočet za výhrady        |     0.00
-**Celková odměna**            |  3455.21
+**Celková odměna**            |  5000.00
 
 Podle smlouvy činila pevná složka dohodnuté odměny 8000 Kč. Protože v měsíci 2016-10 bylo 20 dnů, činila hodinová sazba částku 100.00 Kč. Nedošlo k překročení dohodnutého počtu hodin. Za 33.50 hodin náleží pevná složka odměny ve výši 3350.00 Kč. 
 
