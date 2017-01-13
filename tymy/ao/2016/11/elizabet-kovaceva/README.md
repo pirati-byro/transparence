@@ -30,12 +30,11 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                          |   Počet hodin |
 |:------------------------------------------------------|--------------:|
-| **[Republikové předsednictvo][p28]**                  |         23.90 |
-| [#4357 Schůzování republikového předsednictva][t4357] |         12.00 |
-| [#4081 Vedení kanceláře][t4081]                       |          6.90 |
-| **[Personální odbor][p43]**                           |          2.00 |
-| **[Republikový výbor][p62]**                          |          1.00 |
-| **Celkem v uvedených projektech**                     |         26.86 |
+| **[Republikové předsednictvo][p28]**                  |         26.00 |
+| [#4081 Vedení kanceláře][t4081]                       |         13.50 |
+| [#3936 Zaškolení administrativní pomoci AO][t3936]    |          5.50 |
+| [#4357 Schůzování republikového předsednictva][t4357] |          5.00 |
+| **Celkem v uvedených projektech**                     |         26.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,11 +48,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-A. Práce hrazená dle smlouvy           |  26.86
+A. Práce hrazená dle smlouvy           |  26.00
 B. Práce hrazená jinými subjekty       |   0.00
-**Celkový počet hodin**                |  26.86
+**Celkový počet hodin**                |  26.00
 Dohodnutý rozsah práce                 |  84.00
-**Procento vytížení**                  |   32 %
+**Procento vytížení**                  |   31 %
 
 Odměna
 ------
@@ -65,15 +64,15 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka příjmu                   | Přiznaná částka (Kč)
 -----------------               | --------------------:
-A.1 Pevná složka                |  2558.10
+A.1 Pevná složka                |  2476.19
 A.2 Variabilní složka           |     0.00
 *z toho*                        |
 A.2.1 Odměna za splněné úkoly   |   500.00
 A.2.2 Odpočet za výhrady        |     0.00
 A.2.3 Odměna nad rámec smlouvy  |     0.00
-**Celková odměna**              |  3058.10
+**Celková odměna**              |  2976.19
 
-Podle smlouvy činila pevná složka dohodnuté odměny 8000 Kč. Protože v měsíci 2016-11 bylo 21 dnů, činila hodinová sazba částku 95.24 Kč. Nedošlo k překročení dohodnutého počtu hodin. Za 26.86 hodin náleží pevná složka odměny ve výši 2558.10 Kč. 
+Podle smlouvy činila pevná složka dohodnuté odměny 8000 Kč. Protože v měsíci 2016-11 bylo 21 dnů, činila hodinová sazba částku 95.24 Kč. Nedošlo k překročení dohodnutého počtu hodin. Za 26.00 hodin náleží pevná složka odměny ve výši 2476.19 Kč. 
 
 ### Odměna od jiných subjektů
 
@@ -93,13 +92,11 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [p28]: https://redmine.pirati.cz/time_entries.csv?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-11-01&v[spent_on][]=2016-11-30&v[user_id][]=1&v[user_id][]=9&v[user_id][]=3&v[user_id][]=.&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=28
 
-[t4357]: https://redmine.pirati.cz/issues/4357/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-11-01&v[spent_on][]=2016-11-30&v[user_id][]=1&v[user_id][]=9&v[user_id][]=3&v[user_id][]=.&v[user_id][]=0
-
 [t4081]: https://redmine.pirati.cz/issues/4081/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-11-01&v[spent_on][]=2016-11-30&v[user_id][]=1&v[user_id][]=9&v[user_id][]=3&v[user_id][]=.&v[user_id][]=0
 
-[p43]: https://redmine.pirati.cz/time_entries.csv?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-11-01&v[spent_on][]=2016-11-30&v[user_id][]=1&v[user_id][]=9&v[user_id][]=3&v[user_id][]=.&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=43
+[t3936]: https://redmine.pirati.cz/issues/3936/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-11-01&v[spent_on][]=2016-11-30&v[user_id][]=1&v[user_id][]=9&v[user_id][]=3&v[user_id][]=.&v[user_id][]=0
 
-[p62]: https://redmine.pirati.cz/time_entries.csv?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-11-01&v[spent_on][]=2016-11-30&v[user_id][]=1&v[user_id][]=9&v[user_id][]=3&v[user_id][]=.&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=62
+[t4357]: https://redmine.pirati.cz/issues/4357/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2016-11-01&v[spent_on][]=2016-11-30&v[user_id][]=1&v[user_id][]=9&v[user_id][]=3&v[user_id][]=.&v[user_id][]=0
 
 
 
