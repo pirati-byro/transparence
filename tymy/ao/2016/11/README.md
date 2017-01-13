@@ -17,7 +17,7 @@ Období:                  | 2016-11
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Elizabet Kovačeva](elizabet-kovaceva/) |                 2476.00 |
+| [Elizabet Kovačeva](elizabet-kovaceva/) |                 2976.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/praha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD_zastupitel%C5%AF
