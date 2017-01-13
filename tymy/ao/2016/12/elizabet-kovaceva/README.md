@@ -68,10 +68,10 @@ Složka příjmu                   | Přiznaná částka (Kč)
 A.1 Pevná složka                |  2558.10
 A.2 Variabilní složka           |     0.00
 *z toho*                        |
-A.2.1 Odměna za splněné úkoly   |  1400.00
+A.2.1 Odměna za splněné úkoly   |  2400.00
 A.2.2 Odpočet za výhrady        |     0.00
 A.2.3 Odměna nad rámec smlouvy  |     0.00
-**Celková odměna**              |  3958.10
+**Celková odměna**              |  4958.10
 
 Podle smlouvy činila pevná složka dohodnuté odměny 8000 Kč. Protože v měsíci 2016-12 bylo 21 dnů, činila hodinová sazba částku 95.24 Kč. Nedošlo k překročení dohodnutého počtu hodin. Za 26.86 hodin náleží pevná složka odměny ve výši 2558.10 Kč. 
 
