@@ -99,7 +99,6 @@ Prohlášení o zdrojových datech
 Tento výkaz byl vygenerován na základě následujících dat, které jsou jeho součástí:
 
 * [Přehled plněných úkolů v daném období](user_report.csv)
-* [Stanovení úkolových odměn v týmu](../task_rewards.csv)
 
 [hodnoceni]: https://redmine.pirati.cz/issues/5228
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
