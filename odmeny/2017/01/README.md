@@ -65,4 +65,11 @@ Rozpis podle týmů
 | Praha      | Mzdy a odměny                            |  10334.00 |
 | Praha      | Odměny zastupitelů                       |  24602.00 |
 
+Strojově čitelná data
+-------------------
+
+* [zaměstnanci](zamestnanci.tsv)
+* [dodavatelé](dodavatele.tsv)
+* [čerpání rozpočtu](cerpani_rozpoctu.tsv)
+
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
