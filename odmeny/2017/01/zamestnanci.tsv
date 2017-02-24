@@ -1,8 +1,13 @@
 Tým	Jméno a příjmení	Typ	Odměna
 FO	Jaromír Beránek	SVF	4500.0
 FO	Martin Hrádela	DPP	1500.0
+<<<<<<< HEAD
 PO	Miroslav Brož	DPP	9206.0
 PO	Zuzana Dohnalová	DPP	10000.0
+=======
+PO	Miroslav Brož	DPČ	9206.0
+PO	Zuzana Dohnalová	DPP	8828.0
+>>>>>>> 43ad5a4daa0b8789af02fc8cc57a7333923224d5
 PO	Eliška Holšánová	DPP	10000.0
 PO	Jan Novák	SVF	22659.0
 PO	Jana Rohová	DPP	10000.0
