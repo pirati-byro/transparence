@@ -20,14 +20,14 @@ Seznam lidí
 | FO    | [Martin Hrádela](../../tymy/FO/2017/01/martin-hradela/)           |           0.00 |                 1500.00 |
 | PO    | [Miroslav Brož](../../tymy/PO/2017/01/miroslav-broz/)             |          48.00 |                 9206.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/01/daniela-bila/)               |          91.00 |                13482.00 |
-| PO    | [Zuzana Dohnalová](../../tymy/PO/2017/01/zuzana-dohnalova/)       |          63.00 |                 8828.00 |
-| PO    | [Eliška Holšánová](../../tymy/PO/2017/01/eliska-holsanova/)       |          94.00 |                12964.00 |
+| PO    | [Zuzana Dohnalová](../../tymy/PO/2017/01/zuzana-dohnalova/)       |          84.00 |                10000.00 |
+| PO    | [Eliška Holšánová](../../tymy/PO/2017/01/eliska-holsanova/)       |          94.00 |                10000.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/01/barbora-hradecna/)       |          98.00 |                16412.00 |
-| PO    | [Michal Jokeš](../../tymy/PO/2017/01/michal-jokes/)               |         135.00 |                16862.00 |
-| PO    | [Miluše Kotišová](../../tymy/PO/2017/01/miluse-kotisova/)         |           0.00 |                 5800.00 |
+| PO    | [Michal Jokeš](../../tymy/PO/2017/01/michal-jokes/)               |         135.00 |                18862.00 |
+| PO    | [Miluš Kotišová](../../tymy/PO/2017/01/milus-kotisova/)           |          91.00 |                12773.00 |
 | PO    | [Jan Novák](../../tymy/PO/2017/01/jan-novak/)                     |         223.00 |                22659.00 |
 | PO    | [Jana Rohová](../../tymy/PO/2017/01/jana-rohova/)                 |          72.00 |                10000.00 |
-| PO    | [Michaela Vodová](../../tymy/PO/2017/01/michaela-vodova/)         |           0.00 |                 7200.00 |
+| PO    | [Michaela Vodová](../../tymy/PO/2017/01/michaela-vodova/)         |          99.00 |                10000.00 |
 | PO    | [Jakub Vrzala](../../tymy/PO/2017/01/jakub-vrzala/)               |          59.00 |                 9550.00 |
 | PO    | [Michal Vít](../../tymy/PO/2017/01/michal-vit/)                   |          64.00 |                 9872.00 |
 | MO    | [Petra Dvořáková](../../tymy/MO/2017/01/petra-dvorakova/)         |          22.00 |                 3248.00 |
@@ -55,7 +55,7 @@ Rozpis podle týmů
 
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
-| Centrála   | Mzdy a odměny                            | 120176.00 |
+| Centrála   | Mzdy a odměny                            | 130157.00 |
 | Centrála   | Odměny vedoucích za výkon funkce         |  56614.00 |
 | Centrála   | Provozní výdaje administrativního odboru |   2058.00 |
 | Centrála   | Provozní výdaje finančního odboru        |   1500.00 |

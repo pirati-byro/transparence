@@ -32,7 +32,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 |:----------------------------------------|--------------:|
 | **[Republikové předsednictvo][p11]**    |         11.00 |
 | [#4952 Odměňování ve straně][t4952]     |         10.00 |
-| **[Volební štáb][p54]**                 |          6.00 |
+| **[Volební výbor][p62]**                |          6.00 |
 | [#4530 Volební manager - vybrat][t4530] |          6.00 |
 | **[Finanční odbor][p9]**                |          3.30 |
 | **[Personální odbor][p23]**             |          0.20 |
@@ -106,7 +106,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t4952]: https://redmine.pirati.cz/issues/4952/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=6&v[user_id][]=9
 
-[p54]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=6&v[user_id][]=9&f[]=project_id&op[project_id]==&v[project_id][]=54
+[p62]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=6&v[user_id][]=9&f[]=project_id&op[project_id]==&v[project_id][]=62
 
 [t4530]: https://redmine.pirati.cz/issues/4530/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=6&v[user_id][]=9
 

@@ -30,15 +30,16 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                              |   Počet hodin |
 |:----------------------------------------------------------|--------------:|
-| **[Středočeský kraj][p26]**                               |         30.50 |
+| **[Středočeský kraj][p26]**                               |         40.50 |
 | [#4782 Organizace schůze KS s RP][t4782]                  |         21.50 |
-| [#4925 Komunikace s dobrovolníky a příznivci][t4925]      |          7.00 |
-| **[Personální odbor][p23]**                               |         25.00 |
+| [#4925 Komunikace s dobrovolníky a příznivci][t4925]      |         14.00 |
+| **[Personální odbor][p23]**                               |         33.80 |
+| [#4450 Komunikace s ostatními Piráty][t4450]              |          8.80 |
 | [#4786 Úkoly z úvodního školení: technická práce][t4786]  |          7.00 |
 | [#4784 Úkoly z úvodního školení: Základní balíček][t4784] |          5.00 |
-| [#4450 Komunikace s ostatními Piráty][t4450]              |          4.00 |
+| [#5365 Hromadné ukoly pro KoDo][t5365]                    |          4.00 |
 | [#4787 Zpráva o fungování kraje][t4787]                   |          4.00 |
-| **Celkem v uvedených projektech**                         |         55.50 |
+| **Celkem v uvedených projektech**                         |         74.30 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -55,10 +56,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  88.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  55.50 hod
+Skutečně odvedená práce dle smlouvy    |  74.30 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  55.50 hod
-**Procento vytížení**                  |   63 %
+**Celkový počet hodin**                |  74.30 hod
+**Procento vytížení**                  |   84 %
 
 Odměna
 ------
@@ -80,12 +81,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  1500.00 Kč
-Hodinová odměna do odhadnutého rozsahu |  4828.50 Kč
+Hodinová odměna do odhadnutého rozsahu |  6464.10 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |  2500.00 Kč
 Mimořádná odměna                       |     0.00 Kč
-Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  8828.50 Kč
+Odpočet                                |   464.10 Kč
+**Celková odměna**                     | 10000.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -112,11 +113,13 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [p23]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=23
 
+[t4450]: https://redmine.pirati.cz/issues/4450/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=7
+
 [t4786]: https://redmine.pirati.cz/issues/4786/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=7
 
 [t4784]: https://redmine.pirati.cz/issues/4784/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=7
 
-[t4450]: https://redmine.pirati.cz/issues/4450/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=7
+[t5365]: https://redmine.pirati.cz/issues/5365/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=7
 
 [t4787]: https://redmine.pirati.cz/issues/4787/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-01-01&v[spent_on][]=2017-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=7
 
