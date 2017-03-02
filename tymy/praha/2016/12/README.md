@@ -19,7 +19,7 @@ Období:                  | 2016-12
 |:----------------------------------------|------------------------:|
 | [Jakub Michálek](jakub-michalek/)       |                11165.00 |
 | [Ondřej Profant](ondrej-profant/)       |                 9161.00 |
-| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                    0.00 |
+| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 6162.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 9191.00 |
 
 
