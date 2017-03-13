@@ -35,12 +35,12 @@ Seznam lidí
 | PO    | [Jakub Vrzala](../../tymy/PO/2017/02/jakub-vrzala/)               |          91.00 |                 9514.00 |
 | PO    | [Michal Vít](../../tymy/PO/2017/02/michal-vit/)                   |          82.00 |                 8385.00 |
 | MO    | [Petra Dvořáková](../../tymy/MO/2017/02/petra-dvorakova/)         |           6.00 |                  660.00 |
-| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/02/mikulas-ferjencik/)     |           0.00 |                 5000.00 |
+| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/02/mikulas-ferjencik/)     |         127.00 |                10098.00 |
 | MO    | [Věra Marušiaková](../../tymy/MO/2017/02/vera-marusiakova/)       |         101.00 |                11452.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/02/tobias-esner/)               |         145.00 |                17093.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/02/elizabet-kovaceva/)     |          62.00 |                 5254.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/02/martin-kucera/)             |         116.00 |                 7640.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/02/mikulas-ferjencik/)    |           1.00 |                 3681.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/02/mikulas-ferjencik/)    |          45.00 |                 5934.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/02/jakub-michalek/)          |         114.00 |                12063.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/02/ondrej-profant/)          |          72.00 |                 8673.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/02/adam-zabransky/)          |          53.00 |                 6301.00 |
@@ -60,13 +60,13 @@ Rozpis podle týmů
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
 | Centrála   | Mzdy a odměny                            | 149368.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  45900.00 |
+| Centrála   | Odměny vedoucích za výkon funkce         |  50998.00 |
 | Centrála   | Provozní výdaje administrativního odboru |  22347.00 |
 | Centrála   | Provozní výdaje finančního odboru        |   1080.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |  12112.00 |
 | Centrála   | Provozní výdaje předsednictva            |   8400.00 |
 | Centrála   | Výdaje na právní záležitosti             |   1962.00 |
-| Praha      | Odměny zastupitelů                       |  30718.00 |
+| Praha      | Odměny zastupitelů                       |  32971.00 |
 
 Strojově čitelná data
 -------------------

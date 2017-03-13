@@ -18,7 +18,7 @@ Období:                  | 2017-02
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Petra Dvořáková](petra-dvorakova/)     |                  660.00 |
-| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 5000.00 |
+| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                10098.00 |
 | [Věra Marušiaková](vera-marusiakova/)   |                11452.00 |
 
 

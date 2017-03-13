@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                      |   Počet hodin |
 |:----------------------------------------------------------------------------------|--------------:|
-| **[Personální odbor][p23]**                                                       |         40.10 |
+| **[Personální odbor][p23]**                                                       |         39.40 |
 | [#4898 Mediální školení KoDo][t4898]                                              |         12.50 |
 | [#5281 WorkShop 19.2.][t5281]                                                     |         11.00 |
 | [#5418 Zpracování únorové zprávy][t5418]                                          |          4.00 |
@@ -39,6 +39,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#5077 Krajský koordinátor OlK][t5077]                                            |         21.50 |
 | [#5327 zkusit rozjet mailchimp][t5327]                                            |          4.50 |
 | [#5220 oslovit lidi z facebooku ze zpráv a z diskuzí aby nám dali kontakt][t5220] |          3.70 |
+| **[Republikový výbor][p39]**                                                      |          0.80 |
 | **Celkem v uvedených projektech**                                                 |         72.57 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -122,6 +123,8 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [t5327]: https://redmine.pirati.cz/issues/5327/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-02-01&v[spent_on][]=2017-02-28&v[user_id][]=2&v[user_id][]=3&v[user_id][]=1
 
 [t5220]: https://redmine.pirati.cz/issues/5220/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-02-01&v[spent_on][]=2017-02-28&v[user_id][]=2&v[user_id][]=3&v[user_id][]=1
+
+[p39]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-02-01&v[spent_on][]=2017-02-28&v[user_id][]=2&v[user_id][]=3&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=39
 
 
 
