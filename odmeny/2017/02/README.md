@@ -40,10 +40,10 @@ Seznam lidí
 | AO    | [Tobias Esner](../../tymy/AO/2017/02/tobias-esner/)               |         145.00 |                17093.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/02/elizabet-kovaceva/)     |          62.00 |                 5254.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/02/martin-kucera/)             |         116.00 |                 7640.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/02/mikulas-ferjencik/)    |           1.00 |                   81.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/02/jakub-michalek/)          |         114.00 |                 8063.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/02/ondrej-profant/)          |          72.00 |                 5073.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/02/adam-zabransky/)          |          53.00 |                 2301.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/02/mikulas-ferjencik/)    |           1.00 |                 3681.00 |
+| Pha   | [Jakub Michálek](../../tymy/Pha/2017/02/jakub-michalek/)          |         114.00 |                12063.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/02/ondrej-profant/)          |          72.00 |                 8673.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2017/02/adam-zabransky/)          |          53.00 |                 6301.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/02/viktorie-kalhousova/) |         100.00 |                 1632.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/02/adam-kudrlicka/)           |         100.00 |                  330.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/02/vojtech-pikal/)             |          11.00 |                 6950.00 |
@@ -66,7 +66,7 @@ Rozpis podle týmů
 | Centrála   | Provozní výdaje mediálního odboru        |  12112.00 |
 | Centrála   | Provozní výdaje předsednictva            |   8400.00 |
 | Centrála   | Výdaje na právní záležitosti             |   1962.00 |
-| Praha      | Odměny zastupitelů                       |  15518.00 |
+| Praha      | Odměny zastupitelů                       |  30718.00 |
 
 Strojově čitelná data
 -------------------
