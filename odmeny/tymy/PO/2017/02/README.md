@@ -30,7 +30,7 @@ Období:                  | 2017-02
 | [Daniel Lebduška](daniel-lebduska/)       |                 8218.00 |
 | [Jan Novák](jan-novak/)                   |                14340.00 |
 | [Jana Rohová](jana-rohova/)               |                10000.00 |
-| [Michaela Vodová](michaela-vodova/)       |                 9068.00 |
+| [Michaela Vodová](michaela-vodova/)       |                10000.00 |
 | [Jakub Vrzala](jakub-vrzala/)             |                 9514.00 |
 | [Michal Vít](michal-vit/)                 |                 8385.00 |
 

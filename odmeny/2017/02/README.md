@@ -31,7 +31,7 @@ Seznam lidí
 | PO    | [Daniel Lebduška](../../tymy/PO/2017/02/daniel-lebduska/)         |          68.00 |                 8218.00 |
 | PO    | [Jan Novák](../../tymy/PO/2017/02/jan-novak/)                     |         142.00 |                14340.00 |
 | PO    | [Jana Rohová](../../tymy/PO/2017/02/jana-rohova/)                 |         100.00 |                10000.00 |
-| PO    | [Michaela Vodová](../../tymy/PO/2017/02/michaela-vodova/)         |          87.00 |                 9068.00 |
+| PO    | [Michaela Vodová](../../tymy/PO/2017/02/michaela-vodova/)         |          87.00 |                10000.00 |
 | PO    | [Jakub Vrzala](../../tymy/PO/2017/02/jakub-vrzala/)               |          91.00 |                 9514.00 |
 | PO    | [Michal Vít](../../tymy/PO/2017/02/michal-vit/)                   |          82.00 |                 8385.00 |
 | MO    | [Petra Dvořáková](../../tymy/MO/2017/02/petra-dvorakova/)         |           6.00 |                  660.00 |
@@ -59,7 +59,7 @@ Rozpis podle týmů
 
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
-| Centrála   | Mzdy a odměny                            | 148436.00 |
+| Centrála   | Mzdy a odměny                            | 149368.00 |
 | Centrála   | Odměny vedoucích za výkon funkce         |  41900.00 |
 | Centrála   | Provozní výdaje administrativního odboru |  22347.00 |
 | Centrála   | Provozní výdaje finančního odboru        |   1080.00 |
