@@ -48,7 +48,7 @@ Seznam lidí
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/02/adam-kudrlicka/)           |         100.00 |                  330.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/02/vojtech-pikal/)             |          11.00 |                 6950.00 |
 | RP    | [Vít Šimral](../../tymy/RP/2017/02/vit-simral/)                   |         107.00 |                 5900.00 |
-| TO    | [Ondřej Profant](../../tymy/TO/2017/02/ondrej-profant/)           |         124.00 |                 4470.00 |
+| TO    | [Ondřej Profant](../../tymy/TO/2017/02/ondrej-profant/)           |         124.00 |                 6970.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -60,7 +60,7 @@ Rozpis podle týmů
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
 | Centrála   | Mzdy a odměny                            | 149368.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  41900.00 |
+| Centrála   | Odměny vedoucích za výkon funkce         |  44400.00 |
 | Centrála   | Provozní výdaje administrativního odboru |  22347.00 |
 | Centrála   | Provozní výdaje finančního odboru        |   1080.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |  12112.00 |
