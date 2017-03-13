@@ -16,7 +16,7 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| FO    | [Jaromír Beránek](../../tymy/FO/2017/02/jaromir-beranek/)         |           0.00 |                 3500.00 |
+| FO    | [Jaromír Beránek](../../tymy/FO/2017/02/jaromir-beranek/)         |           0.00 |                 5000.00 |
 | FO    | [Julius Láni](../../tymy/FO/2017/02/julius-lani/)                 |         100.00 |                 1080.00 |
 | PO    | [Miroslav Brož](../../tymy/PO/2017/02/miroslav-broz/)             |          45.00 |                 6432.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/02/daniela-bila/)               |         156.00 |                13975.00 |
@@ -60,7 +60,7 @@ Rozpis podle týmů
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
 | Centrála   | Mzdy a odměny                            | 149368.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  44400.00 |
+| Centrála   | Odměny vedoucích za výkon funkce         |  45900.00 |
 | Centrála   | Provozní výdaje administrativního odboru |  22347.00 |
 | Centrála   | Provozní výdaje finančního odboru        |   1080.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |  12112.00 |

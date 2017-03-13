@@ -17,7 +17,7 @@ Období:                  | 2017-02
 
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
-| [Jaromír Beránek](jaromir-beranek/) |                 3500.00 |
+| [Jaromír Beránek](jaromir-beranek/) |                 5000.00 |
 | [Julius Láni](julius-lani/)         |                 1080.00 |
 
 
