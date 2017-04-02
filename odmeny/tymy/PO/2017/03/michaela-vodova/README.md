@@ -28,19 +28,20 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                                                    |   Počet hodin |
-|:----------------------------------------------------------------|--------------:|
-| **[Kraj vysočina][p56]**                                        |         49.20 |
-| [#5157 Organizace schůze v Havlíčkově Brodě (5.2. 2017)][t5157] |         13.00 |
-| [#5551 Účast na celostátní Pirátských aktivitách][t5551]        |         12.00 |
-| [#4826 Rozpočet kraje pro rok 2017][t4826]                      |          5.20 |
-| [#4652 Primární volby 2017 PSP][t4652]                          |          4.50 |
-| [#5008 Administrativa kraje][t5008]                             |          3.50 |
-| [#5158 Komunikace se členy KS Vysočina][t5158]                  |          3.20 |
-| **[Personální odbor][p23]**                                     |         20.50 |
-| [#4898 Mediální školení KoDo][t4898]                            |         11.50 |
-| [#5049 KoDo s KoDo][t5049]                                      |          5.00 |
-| **Celkem v uvedených projektech**                               |         69.75 |
+| Projekt/úkol                                                        |   Počet hodin |
+|:--------------------------------------------------------------------|--------------:|
+| **[Personální odbor][p37]**                                         |         45.20 |
+| [#5623 Ukliďme Česko][t5623]                                        |         14.80 |
+| [#5418 Zpracování únorové zprávy][t5418]                            |         11.50 |
+| [#5049 KoDo s KoDo][t5049]                                          |          9.00 |
+| [#4651 Administrativa PO][t4651]                                    |          5.80 |
+| **[Kraj vysočina][p70]**                                            |         39.80 |
+| [#5008 Administrativa kraje][t5008]                                 |         12.00 |
+| [#4799 Vrátka - šek][t4799]                                         |          6.00 |
+| [#5280 Organizace výjezdního zasedání v Jihlavě (5.3. 2017)][t5280] |          5.50 |
+| [#5691 Komunikace s médii][t5691]                                   |          5.20 |
+| [#5707 Svodka a newsletter za únor 2017][t5707]                     |          5.20 |
+| **Celkem v uvedených projektech**                                   |         85.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -57,10 +58,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  92.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  69.75 hod
+Skutečně odvedená práce dle smlouvy    |  85.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  69.75 hod
-**Procento vytížení**                  |   76 %
+**Celkový počet hodin**                |  85.00 hod
+**Procento vytížení**                  |   92 %
 
 Odměna
 ------
@@ -82,12 +83,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  1500.00 Kč
-Hodinová odměna do odhadnutého rozsahu |  6068.25 Kč
+Hodinová odměna do odhadnutého rozsahu |  7395.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  7568.25 Kč
+**Celková odměna**                     |  8895.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -106,25 +107,27 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p56]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=56
+[p37]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=37
 
-[t5157]: https://redmine.pirati.cz/issues/5157/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+[t5623]: https://redmine.pirati.cz/issues/5623/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[t5551]: https://redmine.pirati.cz/issues/5551/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+[t5418]: https://redmine.pirati.cz/issues/5418/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[t4826]: https://redmine.pirati.cz/issues/4826/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+[t5049]: https://redmine.pirati.cz/issues/5049/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[t4652]: https://redmine.pirati.cz/issues/4652/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+[t4651]: https://redmine.pirati.cz/issues/4651/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+
+[p70]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=70
 
 [t5008]: https://redmine.pirati.cz/issues/5008/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[t5158]: https://redmine.pirati.cz/issues/5158/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+[t4799]: https://redmine.pirati.cz/issues/4799/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[p23]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=23
+[t5280]: https://redmine.pirati.cz/issues/5280/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[t4898]: https://redmine.pirati.cz/issues/4898/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+[t5691]: https://redmine.pirati.cz/issues/5691/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[t5049]: https://redmine.pirati.cz/issues/5049/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
+[t5707]: https://redmine.pirati.cz/issues/5707/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
 
 

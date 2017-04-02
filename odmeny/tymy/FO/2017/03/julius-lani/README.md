@@ -28,11 +28,9 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                           |   Počet hodin |
-|:---------------------------------------|--------------:|
-| **[Finanční odbor][p9]**               |         12.00 |
-| [#5326 Julius - pomocná agenda][t5326] |         12.00 |
-| **Celkem v uvedených projektech**      |         12.00 |
+| Projekt/úkol                      |   Počet hodin |
+|:----------------------------------|--------------:|
+| **Celkem v uvedených projektech** |          0.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,9 +47,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  12.00 hod
+Skutečně odvedená práce dle smlouvy    |   0.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  12.00 hod
+**Celkový počet hodin**                |   0.00 hod
 **Procento vytížení**                  |  100 %
 
 Odměna
@@ -75,11 +73,11 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
-Hodinová odměna nad odhadnutý rozsah   |  1080.00 Kč
+Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  1080.00 Kč
+**Celková odměna**                     |     0.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -97,10 +95,6 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [hodnoceni]: https://redmine.pirati.cz/issues/5326
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
-
-[p9]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=2&v[user_id][]=6&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=9
-
-[t5326]: https://redmine.pirati.cz/issues/5326/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=2&v[user_id][]=6&v[user_id][]=8
 
 
 

@@ -18,7 +18,7 @@ Období:                  | 2017-03
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
 | [Jaromír Beránek](jaromir-beranek/) |                 1500.00 |
-| [Julius Láni](julius-lani/)         |                 1080.00 |
+| [Julius Láni](julius-lani/)         |                    0.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

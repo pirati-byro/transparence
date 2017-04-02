@@ -30,12 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                 |   Počet hodin |
 |:---------------------------------------------|--------------:|
-| **[Technický odbor][p38]**                   |         29.70 |
-| [#5666 Docker][t5666]                        |          5.20 |
-| [#3278 Databáze (datový sklad, DB)][t3278]   |          5.00 |
-| [#3275 Redmine][t3275]                       |          4.50 |
-| [#3382 Webařský tým - celostátní web][t3382] |          4.50 |
-| **Celkem v uvedených projektech**            |         29.70 |
+| **[Technický odbor][p52]**                   |         24.60 |
+| [#3382 Webařský tým - celostátní web][t3382] |         20.50 |
+| **Celkem v uvedených projektech**            |         24.60 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu technický odbor. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -54,10 +51,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   6.00 hod/týdně =  27.60 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  29.70 hod
+Skutečně odvedená práce dle smlouvy    |  24.60 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  29.70 hod
-**Procento vytížení**                  |  108 %
+**Celkový počet hodin**                |  24.60 hod
+**Procento vytížení**                  |   89 %
 
 Odměna
 ------
@@ -79,12 +76,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  1500.00 Kč
-Hodinová odměna do odhadnutého rozsahu |  2760.00 Kč
-Hodinová odměna nad odhadnutý rozsah   |   210.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  2460.00 Kč
+Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  4470.00 Kč
+**Celková odměna**                     |  3960.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -103,13 +100,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p38]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=38
-
-[t5666]: https://redmine.pirati.cz/issues/5666/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=3
-
-[t3278]: https://redmine.pirati.cz/issues/3278/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=3
-
-[t3275]: https://redmine.pirati.cz/issues/3275/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=3
+[p52]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=52
 
 [t3382]: https://redmine.pirati.cz/issues/3382/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=3
 

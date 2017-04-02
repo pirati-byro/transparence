@@ -28,12 +28,11 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                         |   Počet hodin |
-|:-------------------------------------|--------------:|
-| **[Personální odbor][p23]**          |         15.50 |
-| [#5281 WorkShop 19.2.][t5281]        |          9.00 |
-| [#4898 Mediální školení KoDo][t4898] |          5.50 |
-| **Celkem v uvedených projektech**    |         15.50 |
+| Projekt/úkol                      |   Počet hodin |
+|:----------------------------------|--------------:|
+| **[Liberecký kraj][p78]**         |          5.50 |
+| **[Personální odbor][p37]**       |          4.50 |
+| **Celkem v uvedených projektech** |         10.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -50,10 +49,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  10.00 hod/týdně =  46.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  15.50 hod
+Skutečně odvedená práce dle smlouvy    |  10.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  15.50 hod
-**Procento vytížení**                  |   34 %
+**Celkový počet hodin**                |  10.00 hod
+**Procento vytížení**                  |   22 %
 
 Odměna
 ------
@@ -67,7 +66,7 @@ Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
 Paušální odměna                        |   750.00 Kč
 Hodinová odměna                        |    87.00 Kč/hod
-Úkolová odměna                         |  2500.00 Kč
+Úkolová odměna                         |  5000.00 Kč
 Odpočet                                |     0.00 Kč
 
 ### Skutečná odměna podle odvedené práce
@@ -75,12 +74,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |   750.00 Kč
-Hodinová odměna do odhadnutého rozsahu |  1348.50 Kč
+Hodinová odměna do odhadnutého rozsahu |   870.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  2098.50 Kč
+**Celková odměna**                     |  1620.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -99,11 +98,9 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p23]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=2&v[user_id][]=7&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=23
+[p78]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=2&v[user_id][]=7&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=78
 
-[t5281]: https://redmine.pirati.cz/issues/5281/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=2&v[user_id][]=7&v[user_id][]=8
-
-[t4898]: https://redmine.pirati.cz/issues/4898/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=2&v[user_id][]=7&v[user_id][]=8
+[p37]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=2&v[user_id][]=7&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=37
 
 
 

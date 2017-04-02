@@ -17,8 +17,8 @@ Období:                  | 2017-03
 
 | Jméno a příjmení                            |   Odměna od strany (Kč) |
 |:--------------------------------------------|------------------------:|
-| [Viktorie Kalhousová](viktorie-kalhousova/) |                 1632.00 |
-| [Adam Kudrlička](adam-kudrlicka/)           |                  330.00 |
+| [Viktorie Kalhousová](viktorie-kalhousova/) |                   80.00 |
+| [Adam Kudrlička](adam-kudrlicka/)           |                  120.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
