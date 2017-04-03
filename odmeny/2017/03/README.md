@@ -42,13 +42,13 @@ Seznam lidí
 | AO    | [Martin Kučera](../../tymy/AO/2017/03/martin-kucera/)             |          85.00 |                 5420.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/03/mikulas-ferjencik/)    |           0.00 |                    0.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/03/jakub-michalek/)          |         120.00 |                 9500.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/03/ondrej-profant/)          |          43.00 |                 2304.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/03/ondrej-profant/)          |          74.00 |                 4888.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/03/adam-zabransky/)          |          45.00 |                 2652.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/03/viktorie-kalhousova/) |         100.00 |                   80.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/03/adam-kudrlicka/)           |         100.00 |                  120.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/03/vojtech-pikal/)             |          12.00 |                 2050.00 |
 | RP    | [Vít Šimral](../../tymy/RP/2017/03/vit-simral/)                   |         106.00 |                 6745.00 |
-| TO    | [Ondřej Profant](../../tymy/TO/2017/03/ondrej-profant/)           |          89.00 |                 3960.00 |
+| TO    | [Ondřej Profant](../../tymy/TO/2017/03/ondrej-profant/)           |         116.00 |                 4710.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -60,13 +60,13 @@ Rozpis podle týmů
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
 | Centrála   | Mzdy a odměny                            | 112495.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  26470.00 |
+| Centrála   | Odměny vedoucích za výkon funkce         |  27220.00 |
 | Centrála   | Provozní výdaje administrativního odboru |  20007.00 |
 | Centrála   | Provozní výdaje finančního odboru        |      0.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |  12466.00 |
 | Centrála   | Provozní výdaje předsednictva            |   6745.00 |
 | Centrála   | Výdaje na právní záležitosti             |    200.00 |
-| Praha      | Odměny zastupitelů                       |  14456.00 |
+| Praha      | Odměny zastupitelů                       |  17040.00 |
 
 Strojově čitelná data
 -------------------
