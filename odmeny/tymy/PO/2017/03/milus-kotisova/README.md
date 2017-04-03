@@ -112,4 +112,4 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=233
 
-[smlouva]: není dodána
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-kotisova/
