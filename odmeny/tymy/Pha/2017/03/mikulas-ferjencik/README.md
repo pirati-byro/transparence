@@ -28,9 +28,17 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                      |   Počet hodin |
-|:----------------------------------|--------------:|
-| **Celkem v uvedených projektech** |          0.00 |
+| Projekt/úkol                                             |   Počet hodin |
+|:---------------------------------------------------------|--------------:|
+| **[Zastupitelstvo hl. m. prahy][p17]**                   |         74.50 |
+| [#5811 Zasedání zastupitelstva dne 30. 3. 2017][t5811]   |         17.50 |
+| [#165 Mediální výstupy][t165]                            |         13.30 |
+| [#597 E-mailová komunikace][t597]                        |         10.50 |
+| [#4830 Jednání klubu v roce 2017][t4830]                 |         10.00 |
+| [#5895 Schůzka s Vladislavou Hujovou, 9. 3. 2017][t5895] |          3.80 |
+| [#804 Výbor pro dopravu (doprava, dopravní)][t804]       |          3.70 |
+| [#5834 Zasedání zastupitelstva dne 23. 3. 2017][t5834]   |          3.50 |
+| **Celkem v uvedených projektech**                        |         74.49 |
 
 Smlouva se vztahuje na všechny projekty. Výjimkou je pouze oddělený projekt mediální odbor. Oddělené projekty ovšem mohou být odměňovány podle zvláštní smlouvy.
 
@@ -47,10 +55,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  30.00 hod/týdně = 138.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   0.00 hod
-Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   0.00 hod
-**Procento vytížení**                  |    0 %
+Skutečně odvedená práce dle smlouvy    |  56.49 hod
+Práce hrazená jinými subjekty          |  18.00 hod
+**Celkový počet hodin**                |  74.49 hod
+**Procento vytížení**                  |   54 %
 
 Odměna
 ------
@@ -72,12 +80,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
-Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  3671.85 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |     0.00 Kč
+**Celková odměna**                     |  3671.85 Kč
 
 
 ### Odměna od jiných subjektů
@@ -86,8 +94,8 @@ Zastupitel hl. m. prahy má dále z titulu své funkce za tento měsíc nárok n
 
 | Typ příjmu                                        | Sazba           |   Měsíční částka (Kč) |
 |:--------------------------------------------------|:----------------|----------------------:|
-| paušální odměna člena Zastupitelstva hl. m. Prahy | 5651 Kč měsíčně |                  5651 |
-| náhrada výdělku za dobu výkonu funkce             | 450 Kč hodinově |                     0 |
+| paušální odměna člena Zastupitelstva hl. m. Prahy | 5651 Kč měsíčně |                5651.0 |
+| náhrada výdělku za dobu výkonu funkce             | 450 Kč hodinově |                8100.0 |
 
 Částky vyplácené jinými subjekty jsou uvedeny v přibližné výši.
 
@@ -102,6 +110,22 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [hodnoceni]: https://redmine.pirati.cz/issues/
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
+
+[p17]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=17
+
+[t5811]: https://redmine.pirati.cz/issues/5811/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7
+
+[t165]: https://redmine.pirati.cz/issues/165/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7
+
+[t597]: https://redmine.pirati.cz/issues/597/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7
+
+[t4830]: https://redmine.pirati.cz/issues/4830/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7
+
+[t5895]: https://redmine.pirati.cz/issues/5895/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7
+
+[t804]: https://redmine.pirati.cz/issues/804/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7
+
+[t5834]: https://redmine.pirati.cz/issues/5834/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=7
 
 
 

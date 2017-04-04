@@ -28,7 +28,7 @@ Období:                  | 2017-03
 | [Miluš Kotišová](milus-kotisova/)         |                 3710.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                 1620.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                 3588.00 |
-| [Jan Novák](jan-novak/)                   |                12040.00 |
+| [Jan Novák](jan-novak/)                   |                14040.00 |
 | [Jana Rohová](jana-rohova/)               |                 9556.00 |
 | [Michaela Vodová](michaela-vodova/)       |                 8895.00 |
 | [Jakub Vrzala](jakub-vrzala/)             |                 5024.00 |

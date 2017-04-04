@@ -17,7 +17,7 @@ Období:                  | 2017-03
 
 | Jméno a příjmení                |   Odměna od strany (Kč) |
 |:--------------------------------|------------------------:|
-| [Vojtěch Pikal](vojtech-pikal/) |                 2050.00 |
+| [Vojtěch Pikal](vojtech-pikal/) |                 4050.00 |
 | [Vít Šimral](vit-simral/)       |                 6745.00 |
 
 
