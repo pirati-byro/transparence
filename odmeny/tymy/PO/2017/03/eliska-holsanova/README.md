@@ -31,7 +31,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | Projekt/úkol                                                                                  |   Počet hodin |
 |:----------------------------------------------------------------------------------------------|--------------:|
 | **[Zlínský kraj][p73]**                                                                       |         56.60 |
-| [#5031 Komunikace s ostatními Piráty][t5031]                                                  |         12.20 |
+| [#5031 Komunikace s Piráty][t5031]                                                            |         12.20 |
 | [#5115 Administrativa][t5115]                                                                 |         10.40 |
 | [#5485 Krajská schůze ZlK v březnu][t5485]                                                    |          8.00 |
 | [#5479 Systematické rozšíření členské základny, příznivců a dobrovolníku Pirátů v ZlK][t5479] |          5.80 |
