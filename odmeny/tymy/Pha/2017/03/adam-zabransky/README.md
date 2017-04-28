@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                              |   Počet hodin |
 |:------------------------------------------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p17]**                                                    |         57.50 |
+| **[Zastupitelstvo hl. m. prahy][p18]**                                                    |         57.50 |
 | [#5811 Zasedání zastupitelstva dne 30. 3. 2017][t5811]                                    |         14.80 |
 | [#4830 Jednání klubu v roce 2017][t4830]                                                  |          6.90 |
 | [#5834 Zasedání zastupitelstva dne 23. 3. 2017][t5834]                                    |          5.70 |
@@ -38,7 +38,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#4586 Aplikace pro poskytování informací][t4586]                                         |          4.00 |
 | [#184 Rada hl. m. Prahy (RHMP)][t184]                                                     |          4.00 |
 | [#716 Výbor pro legislativu, veřejnou správu, protikorupční opatření a informatiku][t716] |          3.60 |
-| **[Parlamentní tým][p30]**                                                                |          5.00 |
+| **[Parlamentní tým][p31]**                                                                |          5.00 |
 | [#3379 Program pro sněmovní volby 2017][t3379]                                            |          5.00 |
 | **Celkem v uvedených projektech**                                                         |         62.45 |
 
@@ -113,7 +113,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p17]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=17
+[p18]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=18
 
 [t5811]: https://redmine.pirati.cz/issues/5811/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6
 
@@ -129,7 +129,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t716]: https://redmine.pirati.cz/issues/716/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6
 
-[p30]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=30
+[p31]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=31
 
 [t3379]: https://redmine.pirati.cz/issues/3379/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6
 

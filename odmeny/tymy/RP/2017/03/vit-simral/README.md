@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                       |   Počet hodin |
 |:-----------------------------------------------------------------------------------|--------------:|
-| **[Parlamentní tým][p30]**                                                         |         93.80 |
+| **[Parlamentní tým][p31]**                                                         |         93.80 |
 | [#3454 Asistence senátoru Liboru Michálkovi (asistent senátora Vít Šimral)][t3454] |         90.80 |
-| **[Personální odbor][p37]**                                                        |          4.00 |
+| **[Personální odbor][p38]**                                                        |          4.00 |
 | [#5054 Piráti do hospod][t5054]                                                    |          4.00 |
 | **Celkem v uvedených projektech**                                                  |         97.75 |
 
@@ -78,10 +78,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  6348.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |   396.75 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  2800.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  6744.75 Kč
+**Celková odměna**                     |  9544.75 Kč
 
 
 ### Odměna od jiných subjektů
@@ -100,11 +100,11 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p30]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=30
+[p31]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=31
 
 [t3454]: https://redmine.pirati.cz/issues/3454/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4
 
-[p37]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=37
+[p38]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=38
 
 [t5054]: https://redmine.pirati.cz/issues/5054/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-03-01&v[spent_on][]=2017-03-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4
 

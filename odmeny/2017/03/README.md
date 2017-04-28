@@ -47,7 +47,7 @@ Seznam lidí
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/03/viktorie-kalhousova/) |         100.00 |                   80.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/03/adam-kudrlicka/)           |         100.00 |                  120.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/03/vojtech-pikal/)             |          12.00 |                 4050.00 |
-| RP    | [Vít Šimral](../../tymy/RP/2017/03/vit-simral/)                   |         106.00 |                 6745.00 |
+| RP    | [Vít Šimral](../../tymy/RP/2017/03/vit-simral/)                   |         106.00 |                 9545.00 |
 | TO    | [Ondřej Profant](../../tymy/TO/2017/03/ondrej-profant/)           |         116.00 |                 7710.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
@@ -64,7 +64,7 @@ Rozpis podle týmů
 | Centrála   | Provozní výdaje administrativního odboru |  29907.00 |
 | Centrála   | Provozní výdaje finančního odboru        |      0.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |  16766.00 |
-| Centrála   | Provozní výdaje předsednictva            |   6745.00 |
+| Centrála   | Provozní výdaje předsednictva            |   9545.00 |
 | Centrála   | Výdaje na právní záležitosti             |    200.00 |
 | Praha      | Odměny zastupitelů                       |  35573.00 |
 
