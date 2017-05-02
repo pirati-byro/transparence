@@ -40,7 +40,7 @@ Seznam lidí
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/04/mikulas-ferjencik/)     |          19.00 |                 2200.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/04/roman-kucera/)               |           0.00 |                   18.00 |
 | MO    | [Věra Marušiaková](../../tymy/MO/2017/04/vera-marusiakova/)       |          15.00 |                  966.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/04/tobias-esner/)               |         136.00 |                10986.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/04/tobias-esner/)               |         141.00 |                11325.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/04/elizabet-kovaceva/)     |         120.00 |                 7958.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/04/martin-kucera/)             |         155.00 |                 7070.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |           2.00 |                  162.00 |
@@ -68,7 +68,7 @@ Rozpis podle týmů
 |:-----------|:-----------------------------------------|----------:|
 | Centrála   | Mzdy a odměny                            |  78906.00 |
 | Centrála   | Odměny vedoucích za výkon funkce         |  27895.00 |
-| Centrála   | Provozní výdaje administrativního odboru |  18944.00 |
+| Centrála   | Provozní výdaje administrativního odboru |  19283.00 |
 | Centrála   | Provozní výdaje finančního odboru        |      0.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |   4848.00 |
 | Centrála   | Provozní výdaje předsednictva            |   7159.00 |
