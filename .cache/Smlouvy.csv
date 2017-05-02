@@ -1,0 +1,43 @@
+,,Odměňovaný,,,Hodin,Výše odměny,,,,,metodika odměňování
+Zkratka,Jméno,Příjmení,Funkce,Typ,týdně,Paušál,Kč/hod,Úkolovka,Max,Odpočet,Smlouva,Úkol,Filtr,Zodpovídá,Platnost,Platí od,Platí do,Zatřídění
+AO,Tobias,Esner,Administrativní podpora,IČO,20,1500,97,5000,,,https://smlouvy.pirati.cz/smlouvy/2017/02/07/AO-esner/,,,Martin Kučera,platný,42773,,Provozní výdaje administrativního odboru
+AO,Elizabet,Kovačeva,asistentka republikového předsednictva,IČO,20,0,92,3000,,,https://smlouvy.pirati.cz/smlouvy/2016/09/12/asistent-AO/,,,Vojtěch Pikal,platný,42625,,Provozní výdaje administrativního odboru
+AO,Martin,Kučera,vedoucí administrativního odboru,SVF,10,1500,100,4000,,,https://smlouvy.pirati.cz/smlouvy/2016/10/31/fce-kucera/,,,Vojtěch Pikal,platný,42674,,Odměny vedoucích za výkon funkce
+FO,Julius,Láni,pomocné práce,SoD,0,0,90,0,,,https://smlouvy.pirati.cz/smlouvy/2017/02/10/sod-lani/,5326,,Tobias Esner,platný,42776,,Provozní výdaje finančního odboru
+FO,Jaromír,Beránek,vedoucí finančního odboru,SVF,8,3000,0,5000,,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/fce-fo/,,,Vojtěch Pikal,platný,42721,43439,Odměny vedoucích za výkon funkce
+MO,Petra,Dvořáková,psavkyně mediálního odboru,IČO,20,0,92,4000,,,https://smlouvy.pirati.cz/smlouvy/2016/08/09/oprava-zadavaciho-listu-petra-dvorakova/,,,Mikuláš Ferjenčík,platný,42464,,Provozní výdaje mediálního odboru
+MO,Věra,Marušiaková,psavkyně mediálního odboru,IČO,20,0,92,4000,,,https://smlouvy.pirati.cz/smlouvy/2016/03/09/zl_Marusiakova/,,,Mikuláš Ferjenčík,platný,42438,42832,Provozní výdaje mediálního odboru
+MO,Mikuláš,Ferjenčík,vedoucí mediálního odboru,SVF,10,1500,100,4000,,,https://smlouvy.pirati.cz/smlouvy/2016/10/31/fce-ferjencik/,,mediální odbor,Ivan Bartoš,platný,42674,,Odměny vedoucích za výkon funkce
+Pha,Mikuláš,Ferjenčík,zastupitel hl. m. Prahy,IČO,30,0,65,5000,,,https://smlouvy.pirati.cz/smlouvy/2014/11/13/mikulas-ferjencik/,,,Tomáš Murňák,platný,41956,,Odměny zastupitelů
+Pha,Jakub,Michálek,zastupitel hl. m. Prahy,IČO,30,0,65,5000,,,https://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/,,,Tomáš Murňák,platný,41956,,Odměny zastupitelů
+Pha,Ondřej,Profant,zastupitel hl. m. Prahy,IČO,30,0,65,5000,,,https://smlouvy.pirati.cz/smlouvy/2014/11/13/ondrej-profant/,,,Tomáš Murňák,platný,41956,,Odměny zastupitelů
+Pha,Adam,Zábranský,zastupitel hl. m. Prahy,IČO,30,0,65,5000,,339,https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/,,,Tomáš Murňák,platný,41956,,Odměny zastupitelů
+PO,Miroslav,Brož,krajský koordinátor - Ústecký kraj,DPP,20,1500,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2017/01/01/kk-broz/,5228,,Jan Novák,platný,42736,,Mzdy a odměny
+PO,Eliška,Holšánová,krajský koordinátor - Zlínský kraj,DPP,20,1500,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-holsanova/,5230,,Jan Novák,neplatný,42736,42855,Mzdy a odměny
+PO,Zuzana,Jíchová,krajský koordinátor - Liberecký kraj,DPP,10,750,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2017/02/01/kk-jichova/,5234,,Jan Novák,platný,42767,,Mzdy a odměny
+PO,Daniela,Lakatošová,krajský koordinátor - Liberecký kraj,DPP,10,750,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2017/02/01/kk-lakatosova/,,,Jan Novák,platný,42767,,Mzdy a odměny
+PO,Jana,Rohová,krajský koordinátor - Jihočeský kraj,DPP,20,1500,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-rohova/,5229,,Jan Novák,platný,42736,,Mzdy a odměny
+PO,Michaela,Vodová,krajský koordinátor - Vysočina,DPP,20,1500,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-vodova/,5232,,Jan Novák,neplatný,42736,42855,Mzdy a odměny
+PO,Daniela,Bílá,krajský koordinátor - Karlovarský kraj,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-bila/,5227,,Jan Novák,platný,42736,,Mzdy a odměny
+PO,Michal,Gill,krajský koordinátor - Moravskoslezký kraj,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2017/02/01/kk-gill/,5236,,Jan Novák,platný,42767,,Mzdy a odměny
+PO,Barbora,Hradečná,celostátní koordinátorka dobrovolníků,IČO,20,1500,92,6000,,,https://smlouvy.pirati.cz/smlouvy/2016/09/15/koordobrov/,4501,,Jan Novák,platný,42628,,Mzdy a odměny
+PO,Michal,Jokeš,krajský koordinátor - Praha,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2017/01/02/kk-jokes/,5224,,Jan Novák,platný,42736,,Mzdy a odměny
+PO,Miluš,Kotišová,krajský koordinátor - Plzeňský kraj,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-kotisova/,5226,,Jan Novák,platný,42736,,Mzdy a odměny
+PO,Daniel,Lebduška,krajský koordinátor - Pardubický kraj,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2017/02/01/kk-lebduska/,5235,,Jan Novák,platný,42767,,Mzdy a odměny
+PO,Michal,Vít,krajský koordinátor - Jihomoravský kraj,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2017/01/02/kk-vit/,5233,,Jan Novák,platný,42736,,Mzdy a odměny
+PO,Jakub,Vrzala,krajský koordinátor - Olomoucký kraj,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-vrzala/,5231,,Jan Novák,platný,42736,,Mzdy a odměny
+PO,Zuzana,Dohnalová,krajský koordinátor - Středočeský kraj,IČO,20,1500,87,5000,,,https://smlouvy.pirati.cz/smlouvy/2017/04/01/kk-dohnalova2/,5225,,Jan Novák,platný,42826,,Mzdy a odměny
+PO,Jan,Novák,vedoucí personálního odboru,SVF,20,1500,100,4000,,,https://smlouvy.pirati.cz/smlouvy/2017/01/01/fce-po/,,,Martin Šmída,platný,42736,,Odměny vedoucích za výkon funkce
+PO,Jakub,Zítko,krajský koordinátor - Královéhradecký kraj,DPP,20,1500,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2017/04/14/kodo-khk-zitko/,,,Jan Novák,platný,42839,42978,Mzdy a odměny
+PT,Viktorie,Kalhousová,členka právního týmu,DPP,,0,160,0,,,https://smlouvy.pirati.cz/smlouvy/2017/01/05/prtym-kalhousova/,,,Adam Zábranský,platný,42740,,Výdaje na právní záležitosti
+PT,Adam,Kudrlička,člen právního týmu,DPP,,0,120,0,,,https://smlouvy.pirati.cz/smlouvy/2017/01/05/prtym-kudrlicka/,,,Adam Zábranský,platný,42740,,Výdaje na právní záležitosti
+RP,Vít,Šimral,asistent senátora Libora Michálka,IČO,20,0,69,5000,,,https://smlouvy.pirati.cz/smlouvy/2016/06/20/asistsenatmichalek/,3454,,Jakub Michálek,platný,42541,,Provozní výdaje předsednictva
+RP,Vojtěch,Pikal,uvolněný člen předsednictva,SVF,10,1500,100,4000,,,https://smlouvy.pirati.cz/smlouvy/2016/10/31/fce_pikal/,,,Ivan Bartoš,platný,42674,,Odměny vedoucích za výkon funkce
+TO,Ondřej,Profant,vedoucí technického odboru,SVF,6,1500,100,4000,,,https://smlouvy.pirati.cz/smlouvy/2016/11/01/fce-profant/,3504,technický odbor,Jakub Michálek,platný,42675,,Odměny vedoucích za výkon funkce
+FO,Martin,Hrádela,propláceč finančního odboru,DPP,5,1500,92,0,,,https://smlouvy.pirati.cz/smlouvy/2017/01/10/proplacec/,,,Jaromír Beránek,neplatný,42745,42766,Provozní výdaje finančního odboru
+MO,Jakub,Dušánek,psavec mediálního odboru,,20,0,92,4000,,,,,,Mikuláš Ferjenčík,neplatný,42438,,Provozní výdaje mediálního odboru
+MO,Roman,Kučera,psavec mediálního odboru,,20,0,92,4000,,,,,,Mikuláš Ferjenčík,neplatný,42438,,Provozní výdaje mediálního odboru
+Pha,Tobias,Esner,krajský manager,IČO,20,0,81,1000,,,xxx,,,Ondřej Profant,neplatný,42736,42766,Mzdy a odměny
+Pha,Michaela Krausová,,,IČO,20,,,,,,https://smlouvy.pirati.cz/smlouvy/2016/01/04/koordinator-misa/,,,Ondřej Profant,neplatný
+PO,Zuzana,Dohnalová,krajský koordinátor - Středočeský kraj,DPP,20,1500,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-dohnalova/,5225,,Jan Novák,neplatný,42736,42825,Mzdy a odměny
+PO,Michaela,Vodová,krajský koordinátor - Vysočina,IČO,20,1500,87,5000,10000,,https://smlouvy.pirati.cz/smlouvy/2017/05/01/zl-kk-vodova2/,5232,,Jan Novák,platný,42856,,Mzdy a odměny

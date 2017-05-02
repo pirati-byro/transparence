@@ -1,0 +1,20 @@
+platnost,číslo zaměstnance,Jméno,Příjmení,Narozen,Rodné číslo,Místo narození,Trvalý pobyt,Pojišťovna,Dřívější příjmení,Status,Platí od,Platí do,Důvod zápisu
+NEPLATNÝ,1,Lukáš ,Černohorský,31005,8411191118,,"Petřvaldská 15, Slezská Ostrava, 710 00",213
+platný,2,Mikuláš,Ferjenčík,31855,8703191365,,"Bořivojova 108, 130 00 Praha 3",111
+platný,3,Ondřej,Profant,32265,880502/0158,,"Šternberkova 1350/16, 170 00Praha 7",207
+NEPLATNÝ,4,Jakub,Nepejchal,#NUM! (DATE evaluates to an out of range value -30. It should be greater than or equal to 0.)
+platný,5,Martin,Kučera,26067,710514/3188,,"Gorkého 2085/7, 702 00 Ostrava",205,,,,43319
+platný,6,Vojtěch,Pikal,31827,870219/5766,,"Denisova 390/15, 779 00 Olomouc",205,,,42736,N/A
+platný,7,Jaromír,Beránek,31546,8605140302,,"Daškova 3080/5, Praha 4",111
+NEPLATNÝ,8,Martin,Hrádela,33906,9210290320,,,,,,42745,43100
+platný,9,Miroslav,Brož,29038,790702/2893,Ústí nad Labem,"Spartakiádní 16, 40010 Ústí nad Labem",VZP,Brož
+neplatný,10,Zuzana,Dohnalová,31301,855911/3794,Jilemnice (okr. Semily),"Božanov 211, Broumov 54937",Ministerstvo vnitra,Medlíková
+platný,11,Eliška,Holšánová,34558,945812/4456,Zlín,"Zelinova 5589, 76005 Zlín",VZP,Úlehlová,v řešení,42736,42855
+platný,12,Jan,Novák,33257,910119/1297,čb,Týn nad Vltavou,VZP,,,42736,43465
+platný,13,Jana,Rohová,31685,865930/6205,Šumperk,"Borová 187, Strakonice, 386 01",VZP,Rohová,"růžovku neuplatňuje, má u jiného za-tele",42736,42855
+platný,14,Michaela,Vodová,28996,795521/0043,Praha,"Chlum 7, 67507",Oborová zdravotní pojišťovna,Koutná,,42736,42855
+platný,15,Viktorie,Kalhousová,34432,945408/3562,Pardubice,"Jezbořice 55, 530 02 Pardubice",VZP,,,42740,N/A
+platný,16,Adam,Kudrlička,33259,910121/1306,České Budějovice,"mjr. Karla Černého 4, Lišov, 373 72",OZP 207,,,42740,N/A
+platný,17,Zuzana,Jíchová,31139,855402/1421,České Budějovice,"Dolní Černá Studnice, 46821",201 VOZP
+platný,18,Daniela ,Lakatošová,32664,895605/3700,,"Kinského 1338, 511 01 Trutnov"
+platný,19,Jakub,Zítko,35034,951201/,,"Václavická 1212, Náchod"
