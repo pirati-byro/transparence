@@ -18,7 +18,7 @@ Období:                  | 2017-04
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
 | [Miroslav Brož](miroslav-broz/)           |                 2022.00 |
-| [Daniela Bílá](daniela-bila/)             |                 4610.00 |
+| [Daniela Bílá](daniela-bila/)             |                 7764.00 |
 | [Zuzana Dohnalová](zuzana-dohnalova/)     |                 7694.00 |
 | [Michal Gill](michal-gill/)               |                 7859.00 |
 | [Eliška Holšánová](eliska-holsanova/)     |                 6081.00 |

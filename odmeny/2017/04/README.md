@@ -16,10 +16,10 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| FO    | [Jaromír Beránek](../../tymy/FO/2017/04/jaromir-beranek/)         |           0.00 |                 3000.00 |
+| FO    | [Jaromír Beránek](../../tymy/FO/2017/04/jaromir-beranek/)         |           0.00 |                 5200.00 |
 | FO    | [Julius Láni](../../tymy/FO/2017/04/julius-lani/)                 |         100.00 |                    0.00 |
 | PO    | [Miroslav Brož](../../tymy/PO/2017/04/miroslav-broz/)             |           8.00 |                 2022.00 |
-| PO    | [Daniela Bílá](../../tymy/PO/2017/04/daniela-bila/)               |          50.00 |                 4610.00 |
+| PO    | [Daniela Bílá](../../tymy/PO/2017/04/daniela-bila/)               |         100.00 |                 7764.00 |
 | PO    | [Zuzana Dohnalová](../../tymy/PO/2017/04/zuzana-dohnalova/)       |          99.00 |                 7694.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/04/michal-gill/)                 |         102.00 |                 7859.00 |
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/04/eliska-holsanova/)       |          73.00 |                 6081.00 |
@@ -37,25 +37,25 @@ Seznam lidí
 | PO    | [Jakub Zítko](../../tymy/PO/2017/04/jakub-zitko/)                 |          53.00 |                 4806.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/04/jakub-dusanek/)             |          58.00 |                 3864.00 |
 | MO    | [Petra Dvořáková](../../tymy/MO/2017/04/petra-dvorakova/)         |           0.00 |                    0.00 |
-| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/04/mikulas-ferjencik/)     |          19.00 |                 2200.00 |
-| MO    | [Roman Kučera](../../tymy/MO/2017/04/roman-kucera/)               |           0.00 |                   18.00 |
+| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/04/mikulas-ferjencik/)     |         167.00 |                 7500.00 |
+| MO    | [Roman Kučera](../../tymy/MO/2017/04/roman-kucera/)               |           2.00 |                  110.00 |
 | MO    | [Věra Marušiaková](../../tymy/MO/2017/04/vera-marusiakova/)       |          15.00 |                  966.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/04/tobias-esner/)               |         141.00 |                11325.00 |
-| AO    | [Elizabet Kovačeva](../../tymy/AO/2017/04/elizabet-kovaceva/)     |         120.00 |                 7958.00 |
-| AO    | [Martin Kučera](../../tymy/AO/2017/04/martin-kucera/)             |         155.00 |                 7070.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |           2.00 |                  162.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |           2.00 |                  162.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/04/tobias-esner/)               |         141.00 |                15100.00 |
+| AO    | [Elizabet Kovačeva](../../tymy/AO/2017/04/elizabet-kovaceva/)     |         120.00 |                10458.00 |
+| AO    | [Martin Kučera](../../tymy/AO/2017/04/martin-kucera/)             |         155.00 |                 9070.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 2757.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 2757.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |           0.00 |                    0.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |           0.00 |                    0.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          24.00 |                 1056.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          24.00 |                 1056.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 4235.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 4235.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 1835.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 1835.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/04/viktorie-kalhousova/) |         100.00 |                  760.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/04/adam-kudrlicka/)           |         100.00 |                 1440.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/04/vojtech-pikal/)             |          15.00 |                 2040.00 |
 | RP    | [Vít Šimral](../../tymy/RP/2017/04/vit-simral/)                   |         144.00 |                 7159.00 |
-| TO    | [Ondřej Profant](../../tymy/TO/2017/04/ondrej-profant/)           |           9.00 |                 1700.00 |
+| TO    | [Ondřej Profant](../../tymy/TO/2017/04/ondrej-profant/)           |         123.00 |                 4150.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -66,14 +66,14 @@ Rozpis podle týmů
 
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
-| Centrála   | Mzdy a odměny                            |  78906.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  27895.00 |
-| Centrála   | Provozní výdaje administrativního odboru |  19283.00 |
+| Centrála   | Mzdy a odměny                            |  82060.00 |
+| Centrála   | Odměny vedoucích za výkon funkce         |  39845.00 |
+| Centrála   | Provozní výdaje administrativního odboru |  25558.00 |
 | Centrála   | Provozní výdaje finančního odboru        |      0.00 |
-| Centrála   | Provozní výdaje mediálního odboru        |   4848.00 |
+| Centrála   | Provozní výdaje mediálního odboru        |   4940.00 |
 | Centrála   | Provozní výdaje předsednictva            |   7159.00 |
 | Centrála   | Výdaje na právní záležitosti             |   2200.00 |
-| Praha      | Odměny zastupitelů                       |   6106.00 |
+| Praha      | Odměny zastupitelů                       |  17654.00 |
 
 Strojově čitelná data
 -------------------

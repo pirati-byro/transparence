@@ -83,10 +83,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  1500.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  6984.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |  2841.13 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  3775.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 11325.13 Kč
+**Celková odměna**                     | 15100.13 Kč
 
 
 ### Odměna od jiných subjektů

@@ -17,7 +17,7 @@ Období:                  | 2017-04
 
 | Jméno a příjmení                  |   Odměna od strany (Kč) |
 |:----------------------------------|------------------------:|
-| [Ondřej Profant](ondrej-profant/) |                 1700.00 |
+| [Ondřej Profant](ondrej-profant/) |                 4150.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
