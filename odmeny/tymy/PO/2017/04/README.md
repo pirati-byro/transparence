@@ -19,7 +19,7 @@ Období:                  | 2017-04
 |:------------------------------------------|------------------------:|
 | [Miroslav Brož](miroslav-broz/)           |                 2022.00 |
 | [Daniela Bílá](daniela-bila/)             |                11314.00 |
-| [Zuzana Dohnalová](zuzana-dohnalova/)     |                10000.00 |
+| [Zuzana Dohnalová](zuzana-dohnalova/)     |                12000.00 |
 | [Michal Gill](michal-gill/)               |                11787.00 |
 | [Eliška Holšánová](eliska-holsanova/)     |                 9881.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                 8520.00 |
