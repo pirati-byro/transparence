@@ -19,7 +19,7 @@ Období:                  | 2017-04
 |:----------------------------------------|------------------------:|
 | [Jakub Dušánek](jakub-dusanek/)         |                 3864.00 |
 | [Petra Dvořáková](petra-dvorakova/)     |                    0.00 |
-| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 7500.00 |
+| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                10500.00 |
 | [Roman Kučera](roman-kucera/)           |                  110.00 |
 | [Věra Marušiaková](vera-marusiakova/)   |                  966.00 |
 

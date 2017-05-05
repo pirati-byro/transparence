@@ -18,22 +18,22 @@ Období:                  | 2017-04
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
 | [Miroslav Brož](miroslav-broz/)           |                 2022.00 |
-| [Daniela Bílá](daniela-bila/)             |                 7764.00 |
-| [Zuzana Dohnalová](zuzana-dohnalova/)     |                 7694.00 |
-| [Michal Gill](michal-gill/)               |                 7859.00 |
-| [Eliška Holšánová](eliska-holsanova/)     |                 6081.00 |
-| [Barbora Hradečná](barbora-hradecna/)     |                 7020.00 |
-| [Michal Jokeš](michal-jokes/)             |                10879.00 |
-| [Zuzana Jíchová](zuzana-jichova/)         |                 2468.00 |
-| [Miluš Kotišová](milus-kotisova/)         |                 5994.00 |
-| [Daniela Lakatošová](daniela-lakatosova/) |                  924.00 |
-| [Daniel Lebduška](daniel-lebduska/)       |                 1978.00 |
-| [Jan Novák](jan-novak/)                   |                11885.00 |
-| [Jana Rohová](jana-rohova/)               |                 6981.00 |
-| [Michaela Vodová](michaela-vodova/)       |                 6590.00 |
-| [Jakub Vrzala](jakub-vrzala/)             |                 1500.00 |
-| [Michal Vít](michal-vit/)                 |                 1500.00 |
-| [Jakub Zítko](jakub-zitko/)               |                 4806.00 |
+| [Daniela Bílá](daniela-bila/)             |                11314.00 |
+| [Zuzana Dohnalová](zuzana-dohnalova/)     |                10000.00 |
+| [Michal Gill](michal-gill/)               |                11787.00 |
+| [Eliška Holšánová](eliska-holsanova/)     |                 9881.00 |
+| [Barbora Hradečná](barbora-hradecna/)     |                 8520.00 |
+| [Michal Jokeš](michal-jokes/)             |                17007.00 |
+| [Zuzana Jíchová](zuzana-jichova/)         |                 5009.00 |
+| [Miluš Kotišová](milus-kotisova/)         |                 7244.00 |
+| [Daniela Lakatošová](daniela-lakatosova/) |                  424.00 |
+| [Daniel Lebduška](daniel-lebduska/)       |                  478.00 |
+| [Jan Novák](jan-novak/)                   |                13385.00 |
+| [Jana Rohová](jana-rohova/)               |                10000.00 |
+| [Michaela Vodová](michaela-vodova/)       |                10000.00 |
+| [Jakub Vrzala](jakub-vrzala/)             |                    0.00 |
+| [Michal Vít](michal-vit/)                 |                    0.00 |
+| [Jakub Zítko](jakub-zitko/)               |                 8656.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

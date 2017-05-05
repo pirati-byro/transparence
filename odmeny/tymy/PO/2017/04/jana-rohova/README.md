@@ -28,18 +28,18 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                            |   Počet hodin |
-|:----------------------------------------|--------------:|
-| **[Personální odbor][p41]**             |         35.60 |
-| [#5813 RV v ČB 22.4.][t5813]            |         12.40 |
-| [#5623 Ukliďme Česko][t5623]            |          8.80 |
-| [#5050 KoDo s PO][t5050]                |          3.20 |
-| **[Jihočeský kraj][p63]**               |         27.40 |
-| [#6069 Akce Jčk][t6069]                 |         11.00 |
-| [#5179 komunikace v rámci kraje][t5179] |          5.90 |
-| [#5006 mediální výstupy][t5006]         |          4.00 |
-| [#5005 administrativa JčK][t5005]       |          4.00 |
-| **Celkem v uvedených projektech**       |         63.00 |
+| Projekt/úkol                             |   Počet hodin |
+|:-----------------------------------------|--------------:|
+| **[Personální odbor][p41]**              |         35.60 |
+| [#5813 RV v ČB 22.4.][t5813]             |         12.40 |
+| [#5623 Ukliďme Česko][t5623]             |          8.80 |
+| [#5050 KoDo s PO][t5050]                 |          3.20 |
+| **[Jihočeský kraj][p63]**                |         27.40 |
+| [#6069 Akce Jčk][t6069]                  |         11.00 |
+| [#5179 komunikace v rámci kraje][t5179]  |          5.90 |
+| [#5006 mediální výstupy][t5006]          |          4.00 |
+| [#5005  OSTAT administrativa JčK][t5005] |          4.00 |
+| **Celkem v uvedených projektech**        |         63.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -83,10 +83,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  1500.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  5481.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  4321.00 Kč
 Mimořádná odměna                       |     0.00 Kč
-Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  6981.00 Kč
+Odpočet                                |  1302.00 Kč
+**Celková odměna**                     | 10000.00 Kč
 
 
 ### Odměna od jiných subjektů

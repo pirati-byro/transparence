@@ -32,9 +32,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 |:---------------------------------------|--------------:|
 | **[Republikové předsednictvo][p29]**   |          2.60 |
 | **[Personální odbor][p41]**            |          1.00 |
-| **[Finanční odbor][p27]**              |          0.70 |
+| **[Finanční odbor][p27]**              |          0.80 |
 | **[Participativní rozpočtování][p73]** |          0.60 |
-| **[Republikový výbor][p57]**           |          0.40 |
+| **[Republikový výbor][p57]**           |          0.30 |
 | **[Volební štáb][p72]**                |          0.10 |
 | **Celkem v uvedených projektech**      |          5.40 |
 
@@ -80,10 +80,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  1500.00 Kč
 Hodinová odměna do odhadnutého rozsahu |   540.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  3250.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  2040.00 Kč
+**Celková odměna**                     |  5290.00 Kč
 
 
 ### Odměna od jiných subjektů
