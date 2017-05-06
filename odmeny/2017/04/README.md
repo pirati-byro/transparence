@@ -50,6 +50,7 @@ Seznam lidí
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 4235.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 1835.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 1835.00 |
+| KhK   | [Martin Jiránek](../../tymy/KhK/2017/04/martin-jiranek/)          |          60.00 |                 6666.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/04/viktorie-kalhousova/) |         100.00 |                  760.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/04/adam-kudrlicka/)           |         100.00 |                 1440.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/04/vojtech-pikal/)             |          15.00 |                 5290.00 |
@@ -63,15 +64,16 @@ práce uvádíme 100 %.
 Rozpis podle týmů
 -----------------
 
-| Rozpočet   | Položka                                  |   Náklady |
-|:-----------|:-----------------------------------------|----------:|
-| Centrála   | Mzdy a odměny                            | 114342.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  51095.00 |
-| Centrála   | Provozní výdaje administrativního odboru |  25558.00 |
-| Centrála   | Provozní výdaje mediálního odboru        |   4940.00 |
-| Centrála   | Provozní výdaje předsednictva            |  10659.00 |
-| Centrála   | Výdaje na právní záležitosti             |   2200.00 |
-| Praha      | Odměny zastupitelů                       |  17654.00 |
+| Rozpočet             | Položka                                    |   Náklady |
+|:---------------------|:-------------------------------------------|----------:|
+| Centrála             | Mzdy a odměny                              | 114342.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  51095.00 |
+| Centrála             | Provozní výdaje administrativního odboru   |  25558.00 |
+| Centrála             | Provozní výdaje mediálního odboru          |   4940.00 |
+| Centrála             | Provozní výdaje předsednictva              |  10659.00 |
+| Centrála             | Výdaje na právní záležitosti               |   2200.00 |
+| Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
+| Praha                | Odměny zastupitelů                         |  17654.00 |
 
 Strojově čitelná data
 -------------------
