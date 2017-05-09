@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                  |   Počet hodin |
 |:----------------------------------------------|--------------:|
-| **[Technický odbor][p56]**                    |         26.50 |
+| **[Technický odbor][p57]**                    |         26.50 |
 | [#3504 Vedení technického odboru (TO)][t3504] |          8.50 |
 | [#2416 Jednání schůzky a koordinace][t2416]   |          4.00 |
 | [#3277 Jekyll weby][t3277]                    |          3.50 |
@@ -103,7 +103,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p56]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=56
+[p57]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=57
 
 [t3504]: https://redmine.pirati.cz/issues/3504/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3
 

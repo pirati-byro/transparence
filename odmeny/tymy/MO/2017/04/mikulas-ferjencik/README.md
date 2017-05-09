@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                               |   Počet hodin |
 |:-------------------------------------------|--------------:|
-| **[Mediální odbor][p60]**                  |         60.00 |
+| **[Mediální odbor][p61]**                  |         60.00 |
 | [#5010 Volební štáb 2017][t5010]           |         39.50 |
 | [#4514 Mediální výstupy celostátní][t4514] |         10.80 |
 | [#2817 Organizace a administrativa][t2817] |          9.80 |
@@ -102,7 +102,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p60]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=1&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=60
+[p61]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=1&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=61
 
 [t5010]: https://redmine.pirati.cz/issues/5010/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=1&v[user_id][]=7
 

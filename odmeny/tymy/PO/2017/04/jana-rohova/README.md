@@ -28,18 +28,18 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                             |   Počet hodin |
-|:-----------------------------------------|--------------:|
-| **[Personální odbor][p41]**              |         35.60 |
-| [#5813 RV v ČB 22.4.][t5813]             |         12.40 |
-| [#5623 Ukliďme Česko][t5623]             |          8.80 |
-| [#5050 KoDo s PO][t5050]                 |          3.20 |
-| **[Jihočeský kraj][p63]**                |         27.40 |
-| [#6069 Akce Jčk][t6069]                  |         11.00 |
-| [#5179 komunikace v rámci kraje][t5179]  |          5.90 |
-| [#5006 mediální výstupy][t5006]          |          4.00 |
-| [#5005  OSTAT administrativa JčK][t5005] |          4.00 |
-| **Celkem v uvedených projektech**        |         63.00 |
+| Projekt/úkol                            |   Počet hodin |
+|:----------------------------------------|--------------:|
+| **[Personální odbor][p42]**             |         35.60 |
+| [#5813 RV v ČB 22.4.][t5813]            |         12.40 |
+| [#5623 Ukliďme Česko][t5623]            |          8.80 |
+| [#5050 KoDo s PO][t5050]                |          3.20 |
+| **[Jihočeský kraj][p64]**               |         27.40 |
+| [#6069 Akce Jčk][t6069]                 |         11.00 |
+| [#5179 komunikace v rámci kraje][t5179] |          5.90 |
+| [#5006 mediální výstupy][t5006]         |          4.00 |
+| [#5005 administrativa JčK][t5005]       |          4.00 |
+| **Celkem v uvedených projektech**       |         63.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -105,7 +105,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p41]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=41
+[p42]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=42
 
 [t5813]: https://redmine.pirati.cz/issues/5813/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
 
@@ -113,7 +113,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t5050]: https://redmine.pirati.cz/issues/5050/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
 
-[p63]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=63
+[p64]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=64
 
 [t6069]: https://redmine.pirati.cz/issues/6069/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
 

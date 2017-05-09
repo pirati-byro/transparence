@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                  |   Počet hodin |
 |:--------------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p20]**                        |         79.40 |
+| **[Zastupitelstvo hl. m. prahy][p21]**                        |         79.40 |
 | [#1316 Konference ISSS][t1316]                                |         14.00 |
 | [#6127 Zasedání zastupitelstva dne 27. 4. 2017][t6127]        |         12.00 |
 | [#3269 Rozvoj celopražských otevřených dat (opendata)][t3269] |          8.00 |
@@ -40,8 +40,8 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#4830 Jednání klubu v roce 2017][t4830]                      |          4.00 |
 | [#914 Vykazování úkolů][t914]                                 |          3.20 |
 | [#5665 Datová platforma][t5665]                               |          3.20 |
-| **[Městské části prahy][p43]**                                |          3.50 |
-| **[Praha][p24]**                                              |          3.00 |
+| **[Městské části prahy][p44]**                                |          3.50 |
+| **[Praha][p25]**                                              |          3.00 |
 | **Celkem v uvedených projektech**                             |         85.90 |
 
 Smlouva se vztahuje na všechny projekty. Výjimkou je pouze oddělený projekt technický odbor. Oddělené projekty ovšem mohou být odměňovány podle zvláštní smlouvy.
@@ -115,7 +115,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p20]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=20
+[p21]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=21
 
 [t1316]: https://redmine.pirati.cz/issues/1316/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3
 
@@ -135,9 +135,9 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t5665]: https://redmine.pirati.cz/issues/5665/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3
 
-[p43]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=43
+[p44]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=44
 
-[p24]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=24
+[p25]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=25
 
 
 

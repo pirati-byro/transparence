@@ -30,12 +30,12 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                                  |   Počet hodin |
 |:----------------------------------------------------------------------------------------------|--------------:|
-| **[Zlínský kraj][p77]**                                                                       |         33.00 |
+| **[Zlínský kraj][p78]**                                                                       |         33.00 |
 | [#5905 Sociální festival Skládanka][t5905]                                                    |          9.00 |
 | [#5877 Uspořádat volbu předsednicta PKS Zlín][t5877]                                          |          4.80 |
 | [#5904 Mediální činnost][t5904]                                                               |          3.80 |
 | [#5479 Systematické rozšíření členské základny, příznivců a dobrovolníku Pirátů v ZlK][t5479] |          3.20 |
-| **[Personální odbor][p41]**                                                                   |         19.60 |
+| **[Personální odbor][p42]**                                                                   |         19.60 |
 | [#5623 Ukliďme Česko][t5623]                                                                  |         14.00 |
 | **Celkem v uvedených projektech**                                                             |         52.65 |
 
@@ -103,7 +103,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p77]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=77
+[p78]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=78
 
 [t5905]: https://redmine.pirati.cz/issues/5905/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=2
 
@@ -113,7 +113,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t5479]: https://redmine.pirati.cz/issues/5479/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=2
 
-[p41]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=41
+[p42]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=42
 
 [t5623]: https://redmine.pirati.cz/issues/5623/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-04-01&v[spent_on][]=2017-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=2
 
