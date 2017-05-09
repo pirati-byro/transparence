@@ -17,7 +17,7 @@ Období:                  | 2017-04
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Jakub Dušánek](jakub-dusanek/)         |                 3864.00 |
+| [Jakub Dušánek](jakub-dusanek/)         |                 9210.00 |
 | [Petra Dvořáková](petra-dvorakova/)     |                    0.00 |
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                10500.00 |
 | [Roman Kučera](roman-kucera/)           |                   92.00 |

@@ -34,7 +34,7 @@ Seznam lidí
 | PO    | [Jakub Vrzala](../../tymy/PO/2017/04/jakub-vrzala/)               |           0.00 |                    0.00 |
 | PO    | [Michal Vít](../../tymy/PO/2017/04/michal-vit/)                   |           0.00 |                    0.00 |
 | PO    | [Jakub Zítko](../../tymy/PO/2017/04/jakub-zitko/)                 |          53.00 |                 8656.00 |
-| MO    | [Jakub Dušánek](../../tymy/MO/2017/04/jakub-dusanek/)             |          58.00 |                 3864.00 |
+| MO    | [Jakub Dušánek](../../tymy/MO/2017/04/jakub-dusanek/)             |          94.00 |                 9210.00 |
 | MO    | [Petra Dvořáková](../../tymy/MO/2017/04/petra-dvorakova/)         |           0.00 |                    0.00 |
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/04/mikulas-ferjencik/)     |         167.00 |                10500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/04/roman-kucera/)               |           1.00 |                   92.00 |
@@ -69,7 +69,7 @@ Rozpis podle týmů
 | Centrála             | Mzdy a odměny                              | 114342.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  51095.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  25558.00 |
-| Centrála             | Provozní výdaje mediálního odboru          |   4922.00 |
+| Centrála             | Provozní výdaje mediálního odboru          |  10268.00 |
 | Centrála             | Provozní výdaje předsednictva              |  10659.00 |
 | Centrála             | Výdaje na právní záležitosti               |   2200.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
