@@ -69,7 +69,7 @@ Rozpis podle týmů
 | Centrála             | Provozní výdaje předsednictva              |  10659.00 |
 | Centrála             | Výdaje na právní záležitosti               |   2200.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
-| Praha                | Odměny zastupitelů                         |  39090.00 |
+| Praha                | Odměny zastupitelů                         |  19545.00 |
 
 Strojově čitelná data
 -------------------
