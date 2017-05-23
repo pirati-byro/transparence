@@ -42,14 +42,14 @@ Seznam lidí
 | AO    | [Tobias Esner](../../tymy/AO/2017/04/tobias-esner/)               |         141.00 |                15100.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/04/elizabet-kovaceva/)     |         120.00 |                10458.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/04/martin-kucera/)             |         155.00 |                 9070.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 2757.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 2757.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |           0.00 |                    0.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |           0.00 |                    0.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 4235.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 4235.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 1835.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 1835.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 4457.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 4457.00 |
+| Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |          46.00 |                 5018.00 |
+| Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |          46.00 |                 5018.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 6235.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 6235.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 3835.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 3835.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/04/martin-jiranek/)          |          60.00 |                 6666.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/04/viktorie-kalhousova/) |         100.00 |                  760.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/04/adam-kudrlicka/)           |         100.00 |                 1440.00 |
@@ -73,7 +73,7 @@ Rozpis podle týmů
 | Centrála             | Provozní výdaje předsednictva              |  10659.00 |
 | Centrála             | Výdaje na právní záležitosti               |   2200.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
-| Praha                | Odměny zastupitelů                         |  17654.00 |
+| Praha                | Odměny zastupitelů                         |  39090.00 |
 
 Strojově čitelná data
 -------------------
