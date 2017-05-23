@@ -43,12 +43,8 @@ Seznam lidí
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/04/elizabet-kovaceva/)     |         120.00 |                10458.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/04/martin-kucera/)             |         155.00 |                 9070.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 4457.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/04/mikulas-ferjencik/)    |          56.00 |                 4457.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |          46.00 |                 5018.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/04/jakub-michalek/)          |          46.00 |                 5018.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 6235.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/04/ondrej-profant/)          |          80.00 |                 6235.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 3835.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/04/adam-zabransky/)          |          61.00 |                 3835.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/04/martin-jiranek/)          |          60.00 |                 6666.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/04/viktorie-kalhousova/) |         100.00 |                  760.00 |
