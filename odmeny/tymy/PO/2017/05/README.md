@@ -18,9 +18,11 @@ Období:                  | 2017-05
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
 | [Miroslav Brož](miroslav-broz/)           |                 3980.00 |
-| [Daniela Bílá](daniela-bila/)             |                 9024.00 |
+| [Daniela Bílá](daniela-bila/)             |                 4543.00 |
+| [Zuzana Dohnalová](zuzana-dohnalova/)     |                 8825.00 |
 | [Zuzana Dohnalová](zuzana-dohnalova/)     |                 8825.00 |
 | [Michal Gill](michal-gill/)               |                 9189.00 |
+| [Eliška Holšánová](eliska-holsanova/)     |                 9134.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                 9500.00 |
 | [Michal Jokeš](michal-jokes/)             |                18990.00 |
 | [Zuzana Jíchová](zuzana-jichova/)         |                 1098.00 |
@@ -29,6 +31,7 @@ Období:                  | 2017-05
 | [Daniel Lebduška](daniel-lebduska/)       |                 4610.00 |
 | [Jan Novák](jan-novak/)                   |                11470.00 |
 | [Jana Rohová](jana-rohova/)               |                 9621.00 |
+| [Michaela Vodová](michaela-vodova/)       |                 6285.00 |
 | [Michaela Vodová](michaela-vodova/)       |                 6285.00 |
 | [Jakub Vrzala](jakub-vrzala/)             |                 1500.00 |
 | [Michal Vít](michal-vit/)                 |                 1500.00 |

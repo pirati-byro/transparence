@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Zuzana Dohnalová
 -----------------------                | --------------------
 Funkce:                                | krajský koordinátor - Středočeský kraj
 Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 4. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 1. 1. 2017][smlouva]
 Období:                                | 2017-05
 
 
@@ -124,4 +124,4 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=227
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/04/01/kk-dohnalova2/
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-dohnalova/

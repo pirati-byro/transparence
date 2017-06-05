@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Barbora Hradečná
 -----------------------                | --------------------
 Funkce:                                | asistentka volebního výboru
 Tým:                                   | mediální odbor
-Smlouva:                               | [smlouva ze dne 15. 9. 2016][smlouva]
+Smlouva:                               | [smlouva ze dne 1. 5. 2017][smlouva]
 Období:                                | 2017-05
 
 

@@ -1,5 +1,5 @@
 Česká pirátská strana  
-finanční odbor
+mediální odbor
 
 Osobní výkaz odměňování
 =======================
@@ -13,11 +13,11 @@ stanovených v metodice mohou být některé úkoly v projektovém systému neve
 Odměňovaný
 ----------
 
-Jméno a příjmení:                      | Jaromír Beránek
+Jméno a příjmení:                      | Věra Marušiaková
 -----------------------                | --------------------
-Funkce:                                | vedoucí finančního odboru
-Tým:                                   | finanční odbor
-Smlouva:                               | [smlouva ze dne 17. 12. 2016][smlouva]
+Funkce:                                | psavkyně mediálního odboru
+Tým:                                   | mediální odbor
+Smlouva:                               | [smlouva ze dne 9. 3. 2016][smlouva]
 Období:                                | 2017-05
 
 
@@ -46,7 +46,7 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |   8.00 hod/týdně =  33.60 hod/měs.
+Odhadnutý rozsah práce                 |  20.00 hod/týdně =  84.00 hod/měs.
 Skutečně odvedená práce dle smlouvy    |   0.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
 **Celkový počet hodin**                |   0.00 hod
@@ -62,22 +62,22 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        |  3000.00 Kč
-Hodinová odměna                        |     0.00 Kč/hod
-Úkolová odměna                         |  5000.00 Kč
+Paušální odměna                        |     0.00 Kč
+Hodinová odměna                        |    92.00 Kč/hod
+Úkolová odměna                         |  4000.00 Kč
 Odpočet                                |     0.00 Kč
 
 ### Skutečná odměna podle odvedené práce
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        |  3000.00 Kč
+Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |  1500.00 Kč
+Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  4500.00 Kč
+**Celková odměna**                     |     0.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -98,6 +98,6 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=223
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=140
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/12/17/fce-fo/
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/03/09/zl_Marusiakova/
