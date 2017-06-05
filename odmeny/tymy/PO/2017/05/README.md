@@ -29,7 +29,7 @@ Období:                  | 2017-05
 | [Miluš Kotišová](milus-kotisova/)         |                 5667.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                 1620.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                 4610.00 |
-| [Jan Novák](jan-novak/)                   |                11470.00 |
+| [Jan Novák](jan-novak/)                   |                13470.00 |
 | [Jana Rohová](jana-rohova/)               |                 9621.00 |
 | [Michaela Vodová](michaela-vodova/)       |                 6285.00 |
 | [Michaela Vodová](michaela-vodova/)       |                 6285.00 |

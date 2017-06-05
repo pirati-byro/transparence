@@ -16,7 +16,7 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| FO    | [Jaromír Beránek](../../tymy/FO/2017/05/jaromir-beranek/)         |           0.00 |                 3000.00 |
+| FO    | [Jaromír Beránek](../../tymy/FO/2017/05/jaromir-beranek/)         |           0.00 |                 4500.00 |
 | FO    | [Martin Hrádela](../../tymy/FO/2017/05/martin-hradela/)           |           0.00 |                 1500.00 |
 | FO    | [Julius Láni](../../tymy/FO/2017/05/julius-lani/)                 |         100.00 |                    0.00 |
 | PO    | [Miroslav Brož](../../tymy/PO/2017/05/miroslav-broz/)             |          34.00 |                 3980.00 |
@@ -31,7 +31,7 @@ Seznam lidí
 | PO    | [Miluš Kotišová](../../tymy/PO/2017/05/milus-kotisova/)           |          57.00 |                 5667.00 |
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/05/daniela-lakatosova/)   |          24.00 |                 1620.00 |
 | PO    | [Daniel Lebduška](../../tymy/PO/2017/05/daniel-lebduska/)         |          43.00 |                 4610.00 |
-| PO    | [Jan Novák](../../tymy/PO/2017/05/jan-novak/)                     |         119.00 |                11470.00 |
+| PO    | [Jan Novák](../../tymy/PO/2017/05/jan-novak/)                     |         119.00 |                13470.00 |
 | PO    | [Jana Rohová](../../tymy/PO/2017/05/jana-rohova/)                 |         111.00 |                 9621.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2017/05/michaela-vodova/)         |          65.00 |                 6285.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2017/05/michaela-vodova/)         |          65.00 |                 6285.00 |
@@ -46,8 +46,8 @@ Seznam lidí
 | MO    | [Roman Kučera](../../tymy/MO/2017/05/roman-kucera/)               |          31.00 |                 2392.00 |
 | MO    | [Věra Marušiaková](../../tymy/MO/2017/05/vera-marusiakova/)       |           0.00 |                    0.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/05/tobias-esner/)               |         153.00 |                13950.00 |
-| AO    | [Elizabet Kovačeva](../../tymy/AO/2017/05/elizabet-kovaceva/)     |          83.00 |                 6417.00 |
-| AO    | [Martin Kučera](../../tymy/AO/2017/05/martin-kucera/)             |         106.00 |                 5970.00 |
+| AO    | [Elizabet Kovačeva](../../tymy/AO/2017/05/elizabet-kovaceva/)     |          83.00 |                 9167.00 |
+| AO    | [Martin Kučera](../../tymy/AO/2017/05/martin-kucera/)             |         106.00 |                 7770.00 |
 | Pha   | [Tobias Esner](../../tymy/Pha/2017/05/tobias-esner/)              |         153.00 |                10396.00 |
 | Pha   | [Tobias Esner](../../tymy/Pha/2017/05/tobias-esner/)              |         153.00 |                10396.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |           0.00 |                    0.00 |
@@ -75,8 +75,8 @@ Rozpis podle týmů
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
 | Centrála             | Mzdy a odměny                              | 119762.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  29435.00 |
-| Centrála             | Provozní výdaje administrativního odboru   |  20367.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  34735.00 |
+| Centrála             | Provozní výdaje administrativního odboru   |  23117.00 |
 | Centrála             | Provozní výdaje finančního odboru          |   1500.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |   9982.00 |
 | Centrála             | Provozní výdaje předsednictva              |   6282.00 |
