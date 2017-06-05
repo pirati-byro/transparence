@@ -17,11 +17,8 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/05/jaromir-beranek/)         |           0.00 |                 3000.00 |
-| FO    | [Martin Hrádela](../../tymy/FO/2017/05/martin-hradela/)           |           0.00 |                 1500.00 |
-| FO    | [Julius Láni](../../tymy/FO/2017/05/julius-lani/)                 |         100.00 |                    0.00 |
 | PO    | [Miroslav Brož](../../tymy/PO/2017/05/miroslav-broz/)             |          34.00 |                 3980.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/05/daniela-bila/)               |          42.00 |                 4543.00 |
-| PO    | [Zuzana Dohnalová](../../tymy/PO/2017/05/zuzana-dohnalova/)       |         100.00 |                 8825.00 |
 | PO    | [Zuzana Dohnalová](../../tymy/PO/2017/05/zuzana-dohnalova/)       |         100.00 |                 8825.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/05/michal-gill/)                 |         105.00 |                 9189.00 |
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/05/eliska-holsanova/)       |         104.00 |                 9134.00 |
@@ -34,29 +31,19 @@ Seznam lidí
 | PO    | [Jan Novák](../../tymy/PO/2017/05/jan-novak/)                     |         119.00 |                11470.00 |
 | PO    | [Jana Rohová](../../tymy/PO/2017/05/jana-rohova/)                 |         111.00 |                 9621.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2017/05/michaela-vodova/)         |          65.00 |                 6285.00 |
-| PO    | [Michaela Vodová](../../tymy/PO/2017/05/michaela-vodova/)         |          65.00 |                 6285.00 |
-| PO    | [Jakub Vrzala](../../tymy/PO/2017/05/jakub-vrzala/)               |           0.00 |                 1500.00 |
 | PO    | [Michal Vít](../../tymy/PO/2017/05/michal-vit/)                   |           0.00 |                 1500.00 |
 | PO    | [Jakub Zítko](../../tymy/PO/2017/05/jakub-zitko/)                 |          97.00 |                 8590.00 |
 | KvK   | [Daniela Bílá](../../tymy/KvK/2017/05/daniela-bila/)              |          61.00 |                11000.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/05/jakub-dusanek/)             |          98.00 |                 7590.00 |
-| MO    | [Petra Dvořáková](../../tymy/MO/2017/05/petra-dvorakova/)         |           0.00 |                    0.00 |
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/05/mikulas-ferjencik/)     |           0.00 |                 1500.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/05/barbora-hradecna/)       |         227.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/05/roman-kucera/)               |          31.00 |                 2392.00 |
-| MO    | [Věra Marušiaková](../../tymy/MO/2017/05/vera-marusiakova/)       |           0.00 |                    0.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/05/tobias-esner/)               |         153.00 |                13950.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/05/elizabet-kovaceva/)     |          83.00 |                 6417.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/05/martin-kucera/)             |         106.00 |                 5970.00 |
-| Pha   | [Tobias Esner](../../tymy/Pha/2017/05/tobias-esner/)              |         153.00 |                10396.00 |
-| Pha   | [Tobias Esner](../../tymy/Pha/2017/05/tobias-esner/)              |         153.00 |                10396.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |           0.00 |                    0.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |           0.00 |                    0.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/05/jakub-michalek/)          |           0.00 |                    0.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/05/jakub-michalek/)          |           0.00 |                    0.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/05/ondrej-profant/)          |          81.00 |                 6188.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/05/ondrej-profant/)          |          81.00 |                 6188.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/05/adam-zabransky/)          |          31.00 |                 1734.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/05/adam-zabransky/)          |          31.00 |                 1734.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/05/martin-jiranek/)          |          41.00 |                 6666.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/05/viktorie-kalhousova/) |         100.00 |                 1088.00 |
