@@ -17,7 +17,6 @@ Období:                  | 2017-05
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Tobias Esner](tobias-esner/)           |                10396.00 |
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                    0.00 |
 | [Jakub Michálek](jakub-michalek/)       |                    0.00 |
 | [Ondřej Profant](ondrej-profant/)       |                 6188.00 |

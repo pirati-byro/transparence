@@ -17,14 +17,10 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/05/jaromir-beranek/)         |           0.00 |                 4500.00 |
-| FO    | [Martin Hrádela](../../tymy/FO/2017/05/martin-hradela/)           |           0.00 |                 1500.00 |
-| FO    | [Julius Láni](../../tymy/FO/2017/05/julius-lani/)                 |         100.00 |                    0.00 |
 | PO    | [Miroslav Brož](../../tymy/PO/2017/05/miroslav-broz/)             |          34.00 |                 3980.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/05/daniela-bila/)               |          42.00 |                 4543.00 |
 | PO    | [Zuzana Dohnalová](../../tymy/PO/2017/05/zuzana-dohnalova/)       |         100.00 |                 8825.00 |
-| PO    | [Zuzana Dohnalová](../../tymy/PO/2017/05/zuzana-dohnalova/)       |         100.00 |                 8825.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/05/michal-gill/)                 |         105.00 |                 9189.00 |
-| PO    | [Eliška Holšánová](../../tymy/PO/2017/05/eliska-holsanova/)       |         104.00 |                 9134.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/05/barbora-hradecna/)       |         227.00 |                 9500.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/05/michal-jokes/)               |         192.00 |                18990.00 |
 | PO    | [Zuzana Jíchová](../../tymy/PO/2017/05/zuzana-jichova/)           |          10.00 |                 1098.00 |
@@ -34,22 +30,16 @@ Seznam lidí
 | PO    | [Jan Novák](../../tymy/PO/2017/05/jan-novak/)                     |         119.00 |                13470.00 |
 | PO    | [Jana Rohová](../../tymy/PO/2017/05/jana-rohova/)                 |         111.00 |                 9621.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2017/05/michaela-vodova/)         |          65.00 |                 6285.00 |
-| PO    | [Michaela Vodová](../../tymy/PO/2017/05/michaela-vodova/)         |          65.00 |                 6285.00 |
-| PO    | [Jakub Vrzala](../../tymy/PO/2017/05/jakub-vrzala/)               |           0.00 |                 1500.00 |
 | PO    | [Michal Vít](../../tymy/PO/2017/05/michal-vit/)                   |           0.00 |                 1500.00 |
 | PO    | [Jakub Zítko](../../tymy/PO/2017/05/jakub-zitko/)                 |          97.00 |                 8590.00 |
 | KvK   | [Daniela Bílá](../../tymy/KvK/2017/05/daniela-bila/)              |          61.00 |                11000.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/05/jakub-dusanek/)             |          98.00 |                 7590.00 |
-| MO    | [Petra Dvořáková](../../tymy/MO/2017/05/petra-dvorakova/)         |           0.00 |                    0.00 |
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/05/mikulas-ferjencik/)     |           0.00 |                 1500.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/05/barbora-hradecna/)       |         227.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/05/roman-kucera/)               |          31.00 |                 2392.00 |
-| MO    | [Věra Marušiaková](../../tymy/MO/2017/05/vera-marusiakova/)       |           0.00 |                    0.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/05/tobias-esner/)               |         153.00 |                13950.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/05/elizabet-kovaceva/)     |          83.00 |                 9167.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/05/martin-kucera/)             |         106.00 |                 7770.00 |
-| Pha   | [Tobias Esner](../../tymy/Pha/2017/05/tobias-esner/)              |         153.00 |                10396.00 |
-| Pha   | [Tobias Esner](../../tymy/Pha/2017/05/tobias-esner/)              |         153.00 |                10396.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |           0.00 |                    0.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |           0.00 |                    0.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/05/jakub-michalek/)          |           0.00 |                    0.00 |
@@ -74,15 +64,13 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 119762.00 |
+| Centrála             | Mzdy a odměny                              |  94018.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  34735.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  23117.00 |
-| Centrála             | Provozní výdaje finančního odboru          |   1500.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |   9982.00 |
 | Centrála             | Provozní výdaje předsednictva              |   6282.00 |
 | Centrála             | Výdaje na právní záležitosti               |   1088.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
-| Praha                | Mzdy a odměny                              |  20792.00 |
 | Praha                | Odměny zastupitelů                         |  15844.00 |
 
 Strojově čitelná data

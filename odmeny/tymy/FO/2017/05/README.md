@@ -18,8 +18,6 @@ Období:                  | 2017-05
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
 | [Jaromír Beránek](jaromir-beranek/) |                 4500.00 |
-| [Martin Hrádela](martin-hradela/)   |                 1500.00 |
-| [Julius Láni](julius-lani/)         |                    0.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
