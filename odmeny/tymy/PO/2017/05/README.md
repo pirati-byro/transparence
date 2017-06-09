@@ -17,21 +17,22 @@ Období:                  | 2017-05
 
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
-| [Miroslav Brož](miroslav-broz/)           |                 3980.00 |
-| [Daniela Bílá](daniela-bila/)             |                 4543.00 |
+| [Miroslav Brož](miroslav-broz/)           |                 4230.00 |
+| [Daniela Bílá](daniela-bila/)             |                 6611.00 |
 | [Zuzana Dohnalová](zuzana-dohnalova/)     |                 8825.00 |
-| [Michal Gill](michal-gill/)               |                 9189.00 |
-| [Barbora Hradečná](barbora-hradecna/)     |                 9500.00 |
-| [Michal Jokeš](michal-jokes/)             |                18990.00 |
-| [Zuzana Jíchová](zuzana-jichova/)         |                 1098.00 |
-| [Miluš Kotišová](milus-kotisova/)         |                 5667.00 |
-| [Daniela Lakatošová](daniela-lakatosova/) |                 1620.00 |
+| [Michal Gill](michal-gill/)               |                12302.00 |
+| [Eliška Holšánová](eliska-holsanova/)     |                10000.00 |
+| [Barbora Hradečná](barbora-hradecna/)     |                13500.00 |
+| [Michal Jokeš](michal-jokes/)             |                23808.00 |
+| [Zuzana Jíchová](zuzana-jichova/)         |                 2143.00 |
+| [Miluš Kotišová](milus-kotisova/)         |                 7326.00 |
+| [Daniela Lakatošová](daniela-lakatosova/) |                  820.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                 4610.00 |
 | [Jan Novák](jan-novak/)                   |                13470.00 |
-| [Jana Rohová](jana-rohova/)               |                 9621.00 |
-| [Michaela Vodová](michaela-vodova/)       |                 6285.00 |
-| [Michal Vít](michal-vit/)                 |                 1500.00 |
-| [Jakub Zítko](jakub-zitko/)               |                 8590.00 |
+| [Jana Rohová](jana-rohova/)               |                10000.00 |
+| [Michaela Vodová](michaela-vodova/)       |                10000.00 |
+| [Michal Vít](michal-vit/)                 |                    0.00 |
+| [Jakub Zítko](jakub-zitko/)               |                 9636.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

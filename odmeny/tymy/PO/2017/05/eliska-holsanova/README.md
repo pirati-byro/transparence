@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Eliška Holšánová
 -----------------------                | --------------------
 Funkce:                                | krajský koordinátor - Zlínský kraj
 Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 1. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 1. 5. 2017][smlouva]
 Období:                                | 2017-05
 
 
@@ -88,10 +88,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  1500.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  7308.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |   326.25 Kč
-Úkolová odměna                         |     0.00 Kč
-Mimořádná odměna                       |     0.00 Kč
-Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  9134.25 Kč
+Úkolová odměna                         |  5000.00 Kč
+Mimořádná odměna                       |  1666.00 Kč
+Odpočet                                |  5800.25 Kč
+**Celková odměna**                     | 10000.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -142,4 +142,4 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=232
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/12/17/kk-holsanova/
+[smlouva]: nan
