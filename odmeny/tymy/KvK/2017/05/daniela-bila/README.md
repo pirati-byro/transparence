@@ -36,11 +36,13 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#5037 Mediální výstupy][t5037]                                |          7.00 |
 | [#5035 Volební štáb][t5035]                                    |          5.50 |
 | [#3079 Schůze krajského fóra][t3079]                           |          4.80 |
-| **Celkem v uvedených projektech**                              |         51.50 |
+| **[Personální odbor][p42]**                                    |         35.00 |
+| [#5049 KoDo s KoDo][t5049]                                     |         10.80 |
+| [#6028 Hospoda s kooridnátorem!][t6028]                        |          7.20 |
+| [#4651 Administrativa PO][t4651]                               |          7.00 |
+| **Celkem v uvedených projektech**                              |         86.48 |
 
-
-Smlouva se vztahuje pouze na čas vykázaný v rámci projektu Karlovarský kraj. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
-
+Smlouva se vztahuje na všechny projekty. 
 
 Můžete si zobrazit plný [přehled plněných úkolů][tasklist].
 Slovní hodnocení je ve [zvláštním úkolu][hodnoceni].
@@ -55,10 +57,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  84.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  51.50 hod
+Skutečně odvedená práce dle smlouvy    |  86.48 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  51.50 hod
-**Procento vytížení**                  |   61 %
+**Celkový počet hodin**                |  86.48 hod
+**Procento vytížení**                  |  103 %
 
 Odměna
 ------
@@ -100,7 +102,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 * [Přehled plněných úkolů v daném období](user_report.csv)
 
-[hodnoceni]: https://redmine.pirati.cz/issues/
+[hodnoceni]: https://redmine.pirati.cz/issues/6653
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
@@ -115,6 +117,14 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [t5035]: https://redmine.pirati.cz/issues/5035/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=1&v[user_id][]=9&v[user_id][]=5
 
 [t3079]: https://redmine.pirati.cz/issues/3079/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=1&v[user_id][]=9&v[user_id][]=5
+
+[p42]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=1&v[user_id][]=9&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=42
+
+[t5049]: https://redmine.pirati.cz/issues/5049/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=1&v[user_id][]=9&v[user_id][]=5
+
+[t6028]: https://redmine.pirati.cz/issues/6028/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=1&v[user_id][]=9&v[user_id][]=5
+
+[t4651]: https://redmine.pirati.cz/issues/4651/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-05-01&v[spent_on][]=2017-05-31&v[user_id][]=1&v[user_id][]=9&v[user_id][]=5
 
 
 

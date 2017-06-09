@@ -18,7 +18,7 @@ Seznam lidí
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/05/jaromir-beranek/)         |           0.00 |                 4500.00 |
 | PO    | [Miroslav Brož](../../tymy/PO/2017/05/miroslav-broz/)             |          34.00 |                 4230.00 |
-| PO    | [Daniela Bílá](../../tymy/PO/2017/05/daniela-bila/)               |          42.00 |                 6611.00 |
+| PO    | [Daniela Bílá](../../tymy/PO/2017/05/daniela-bila/)               |         103.00 |                11092.00 |
 | PO    | [Zuzana Dohnalová](../../tymy/PO/2017/05/zuzana-dohnalova/)       |         100.00 |                 8825.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/05/michal-gill/)                 |         105.00 |                12302.00 |
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/05/eliska-holsanova/)       |         104.00 |                15800.00 |
@@ -33,11 +33,11 @@ Seznam lidí
 | PO    | [Michaela Vodová](../../tymy/PO/2017/05/michaela-vodova/)         |          65.00 |                12951.00 |
 | PO    | [Michal Vít](../../tymy/PO/2017/05/michal-vit/)                   |           0.00 |                    0.00 |
 | PO    | [Jakub Zítko](../../tymy/PO/2017/05/jakub-zitko/)                 |          97.00 |                 9636.00 |
-| KvK   | [Daniela Bílá](../../tymy/KvK/2017/05/daniela-bila/)              |          61.00 |                11000.00 |
-| MO    | [Jakub Dušánek](../../tymy/MO/2017/05/jakub-dusanek/)             |          98.00 |                 7590.00 |
+| KvK   | [Daniela Bílá](../../tymy/KvK/2017/05/daniela-bila/)              |         103.00 |                11000.00 |
+| MO    | [Jakub Dušánek](../../tymy/MO/2017/05/jakub-dusanek/)             |          98.00 |                10590.00 |
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/05/mikulas-ferjencik/)     |           0.00 |                 5500.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/05/barbora-hradecna/)       |         227.00 |                 8500.00 |
-| MO    | [Roman Kučera](../../tymy/MO/2017/05/roman-kucera/)               |          31.00 |                 2392.00 |
+| MO    | [Roman Kučera](../../tymy/MO/2017/05/roman-kucera/)               |          31.00 |                 3392.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/05/tobias-esner/)               |         153.00 |                18500.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/05/elizabet-kovaceva/)     |          83.00 |                 9167.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/05/martin-kucera/)             |         106.00 |                 7770.00 |
@@ -65,10 +65,10 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 138849.00 |
+| Centrála             | Mzdy a odměny                              | 143330.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  40735.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  27667.00 |
-| Centrála             | Provozní výdaje mediálního odboru          |   9982.00 |
+| Centrála             | Provozní výdaje mediálního odboru          |  13982.00 |
 | Centrála             | Provozní výdaje předsednictva              |   6282.00 |
 | Centrála             | Výdaje na právní záležitosti               |   1088.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
