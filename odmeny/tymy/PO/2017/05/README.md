@@ -29,8 +29,8 @@ Období:                  | 2017-05
 | [Daniela Lakatošová](daniela-lakatosova/) |                  820.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                 4610.00 |
 | [Jan Novák](jan-novak/)                   |                13470.00 |
-| [Jana Rohová](jana-rohova/)               |                10000.00 |
-| [Michaela Vodová](michaela-vodova/)       |                10000.00 |
+| [Jana Rohová](jana-rohova/)               |                16287.00 |
+| [Michaela Vodová](michaela-vodova/)       |                12951.00 |
 | [Michal Vít](michal-vit/)                 |                    0.00 |
 | [Jakub Zítko](jakub-zitko/)               |                 9636.00 |
 
