@@ -90,8 +90,8 @@ Hodinová odměna do odhadnutého rozsahu |  7308.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |   326.25 Kč
 Úkolová odměna                         |  5000.00 Kč
 Mimořádná odměna                       |  1666.00 Kč
-Odpočet                                |  5800.25 Kč
-**Celková odměna**                     | 10000.00 Kč
+Odpočet                                |     0.00 Kč
+**Celková odměna**                     | 15800.25 Kč
 
 
 ### Odměna od jiných subjektů

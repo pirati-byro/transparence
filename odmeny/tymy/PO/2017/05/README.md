@@ -21,7 +21,7 @@ Období:                  | 2017-05
 | [Daniela Bílá](daniela-bila/)             |                 6611.00 |
 | [Zuzana Dohnalová](zuzana-dohnalova/)     |                 8825.00 |
 | [Michal Gill](michal-gill/)               |                12302.00 |
-| [Eliška Holšánová](eliska-holsanova/)     |                10000.00 |
+| [Eliška Holšánová](eliska-holsanova/)     |                15800.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                13500.00 |
 | [Michal Jokeš](michal-jokes/)             |                23808.00 |
 | [Zuzana Jíchová](zuzana-jichova/)         |                 2143.00 |
