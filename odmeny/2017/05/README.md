@@ -35,14 +35,14 @@ Seznam lidí
 | PO    | [Jakub Zítko](../../tymy/PO/2017/05/jakub-zitko/)                 |          97.00 |                 9636.00 |
 | KvK   | [Daniela Bílá](../../tymy/KvK/2017/05/daniela-bila/)              |         103.00 |                11000.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/05/jakub-dusanek/)             |          98.00 |                10590.00 |
-| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/05/mikulas-ferjencik/)     |           0.00 |                 5500.00 |
+| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/05/mikulas-ferjencik/)     |         202.00 |                13975.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/05/barbora-hradecna/)       |         227.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/05/roman-kucera/)               |          31.00 |                 3392.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/05/tobias-esner/)               |         153.00 |                18500.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/05/elizabet-kovaceva/)     |          83.00 |                 9167.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/05/martin-kucera/)             |         106.00 |                 7770.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |           0.00 |                    0.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |           0.00 |                    0.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |          34.00 |                 2282.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/05/mikulas-ferjencik/)    |          34.00 |                 2282.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/05/jakub-michalek/)          |           0.00 |                    0.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/05/jakub-michalek/)          |           0.00 |                    0.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/05/ondrej-profant/)          |          81.00 |                 6188.00 |
@@ -53,8 +53,8 @@ Seznam lidí
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/05/viktorie-kalhousova/) |         100.00 |                 1088.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/05/adam-kudrlicka/)           |         100.00 |                    0.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/05/vojtech-pikal/)             |          11.00 |                 3970.00 |
-| RP    | [Vít Šimral](../../tymy/RP/2017/05/vit-simral/)                   |         108.00 |                 6282.00 |
-| TO    | [Ondřej Profant](../../tymy/TO/2017/05/ondrej-profant/)           |         160.00 |                 5525.00 |
+| RP    | [Vít Šimral](../../tymy/RP/2017/05/vit-simral/)                   |         108.00 |                 8282.00 |
+| TO    | [Ondřej Profant](../../tymy/TO/2017/05/ondrej-profant/)           |         160.00 |                 8025.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -66,13 +66,13 @@ Rozpis podle týmů
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
 | Centrála             | Mzdy a odměny                              | 143330.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  40735.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  51710.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  27667.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  13982.00 |
-| Centrála             | Provozní výdaje předsednictva              |   6282.00 |
+| Centrála             | Provozní výdaje předsednictva              |   8282.00 |
 | Centrála             | Výdaje na právní záležitosti               |   1088.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
-| Praha                | Odměny zastupitelů                         |  15844.00 |
+| Praha                | Odměny zastupitelů                         |  20408.00 |
 
 Strojově čitelná data
 -------------------
