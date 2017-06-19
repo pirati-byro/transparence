@@ -59,8 +59,8 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  30.00 hod/týdně = 126.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  95.20 hod
-Práce hrazená jinými subjekty          |   7.00 hod
+Skutečně odvedená práce dle smlouvy    |  94.20 hod
+Práce hrazená jinými subjekty          |   8.00 hod
 **Celkový počet hodin**                | 102.20 hod
 **Procento vytížení**                  |   81 %
 
@@ -84,12 +84,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
-Hodinová odměna do odhadnutého rozsahu |  6188.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  6123.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  6188.00 Kč
+**Celková odměna**                     |  6123.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -99,7 +99,7 @@ Zastupitel hl. m. prahy má dále z titulu své funkce za tento měsíc nárok n
 | Typ příjmu                                        | Sazba           |   Měsíční částka (Kč) |
 |:--------------------------------------------------|:----------------|----------------------:|
 | paušální odměna člena Zastupitelstva hl. m. Prahy | 5651 Kč měsíčně |                5651.0 |
-| náhrada výdělku za dobu výkonu funkce             | 450 Kč hodinově |                3150.0 |
+| náhrada výdělku za dobu výkonu funkce             | 450 Kč hodinově |                3600.0 |
 
 Částky vyplácené jinými subjekty jsou uvedeny v přibližné výši.
 
