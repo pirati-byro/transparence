@@ -38,7 +38,7 @@ Seznam lidí
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/06/mikulas-ferjencik/)     |         150.00 |                11100.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/06/barbora-hradecna/)       |           0.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/06/roman-kucera/)               |          64.00 |                 7698.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/06/tobias-esner/)               |         150.00 |                14265.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/06/tobias-esner/)               |         150.00 |                18300.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/06/elizabet-kovaceva/)     |          69.00 |                 7612.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/06/martin-kucera/)             |         105.00 |                 9140.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/06/mikulas-ferjencik/)    |          51.00 |                 4199.00 |
