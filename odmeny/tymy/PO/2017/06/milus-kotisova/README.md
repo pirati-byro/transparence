@@ -33,7 +33,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | **[Plzeňský kraj][p80]**                 |         69.20 |
 | [#4887 Krajský koordinátor PlK][t4887]   |         52.20 |
 | [#4905 Práce pro místní sdružení][t4905] |         10.50 |
-| [#5134 Tiskové zprávy ][t5134]           |          6.00 |
+| [#5134 Mediální aktivity][t5134]         |          6.00 |
 | **Celkem v uvedených projektech**        |         69.20 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -78,10 +78,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  9000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  2254.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  9000.00 Kč
+**Celková odměna**                     | 11254.00 Kč
 
 
 ### Odměna od jiných subjektů

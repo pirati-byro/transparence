@@ -30,8 +30,8 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                      |   Počet hodin |
 |:----------------------------------|--------------:|
-| **[Technický odbor][p57]**        |          3.80 |
-| **Celkem v uvedených projektech** |          3.75 |
+| **[Technický odbor][p57]**        |          6.80 |
+| **Celkem v uvedených projektech** |          6.75 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu technický odbor. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -50,10 +50,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   6.00 hod/týdně =  26.40 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   3.75 hod
+Skutečně odvedená práce dle smlouvy    |   6.75 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   3.75 hod
-**Procento vytížení**                  |   14 %
+**Celkový počet hodin**                |   6.75 hod
+**Procento vytížení**                  |   26 %
 
 Odměna
 ------
@@ -75,12 +75,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  1500.00 Kč
-Hodinová odměna do odhadnutého rozsahu |   375.00 Kč
+Hodinová odměna do odhadnutého rozsahu |   675.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |   800.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  1875.00 Kč
+**Celková odměna**                     |  2975.00 Kč
 
 
 ### Odměna od jiných subjektů

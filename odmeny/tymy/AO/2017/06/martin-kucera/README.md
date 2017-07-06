@@ -30,12 +30,13 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Administrativní odbor][p48]**                                          |         43.70 |
+| **[Administrativní odbor][p48]**                                          |         45.70 |
 | [#4776 Vedení odboru][t4776]                                              |         21.40 |
-| [#4323 Okrskové volební komise PSP 2017 (OVK) - spuštění aplikace][t4323] |         17.40 |
+| [#4323 Okrskové volební komise PSP 2017 (OVK) - spuštění aplikace][t4323] |         18.40 |
+| [#2897 Administrace internetového fóra][t2897]                            |          4.00 |
 | **[Finanční odbor][p28]**                                                 |          0.60 |
 | **[Technický odbor][p57]**                                                |          0.10 |
-| **Celkem v uvedených projektech**                                         |         44.40 |
+| **Celkem v uvedených projektech**                                         |         46.40 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -52,10 +53,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  10.00 hod/týdně =  44.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  44.40 hod
+Skutečně odvedená práce dle smlouvy    |  46.40 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  44.40 hod
-**Procento vytížení**                  |  101 %
+**Celkový počet hodin**                |  46.40 hod
+**Procento vytížení**                  |  105 %
 
 Odměna
 ------
@@ -78,11 +79,11 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  1500.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  4400.00 Kč
-Hodinová odměna nad odhadnutý rozsah   |    40.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Hodinová odměna nad odhadnutý rozsah   |   240.00 Kč
+Úkolová odměna                         |  3000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  5940.00 Kč
+**Celková odměna**                     |  9140.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -106,6 +107,8 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [t4776]: https://redmine.pirati.cz/issues/4776/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0
 
 [t4323]: https://redmine.pirati.cz/issues/4323/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0
+
+[t2897]: https://redmine.pirati.cz/issues/2897/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0
 
 [p28]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=28
 
