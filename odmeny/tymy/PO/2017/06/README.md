@@ -28,7 +28,7 @@ Období:                  | 2017-06
 | [Miluš Kotišová](milus-kotisova/)         |                11254.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                 1272.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                 9000.00 |
-| [Jan Novák](jan-novak/)                   |                 9170.00 |
+| [Jan Novák](jan-novak/)                   |                 9670.00 |
 | [Jana Rohová](jana-rohova/)               |                17200.00 |
 | [Michaela Vodová](michaela-vodova/)       |                14873.00 |
 | [Michal Vít](michal-vit/)                 |                 6300.00 |
