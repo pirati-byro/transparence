@@ -23,7 +23,7 @@ Období:                  | 2017-06
 | [Michal Gill](michal-gill/)               |                20827.00 |
 | [Eliška Holšánová](eliska-holsanova/)     |                 1500.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                13500.00 |
-| [Michal Jokeš](michal-jokes/)             |                15000.00 |
+| [Michal Jokeš](michal-jokes/)             |                18959.00 |
 | [Zuzana Jíchová](zuzana-jichova/)         |                 8777.00 |
 | [Miluš Kotišová](milus-kotisova/)         |                11254.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                 1272.00 |

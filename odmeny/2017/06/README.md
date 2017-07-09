@@ -23,7 +23,7 @@ Seznam lidí
 | PO    | [Michal Gill](../../tymy/PO/2017/06/michal-gill/)                 |          15.00 |                20827.00 |
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/06/eliska-holsanova/)       |           0.00 |                 1500.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/06/barbora-hradecna/)       |           0.00 |                13500.00 |
-| PO    | [Michal Jokeš](../../tymy/PO/2017/06/michal-jokes/)               |           0.00 |                15000.00 |
+| PO    | [Michal Jokeš](../../tymy/PO/2017/06/michal-jokes/)               |           0.00 |                18959.00 |
 | PO    | [Zuzana Jíchová](../../tymy/PO/2017/06/zuzana-jichova/)           |           0.00 |                 8777.00 |
 | PO    | [Miluš Kotišová](../../tymy/PO/2017/06/milus-kotisova/)           |          79.00 |                11254.00 |
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/06/daniela-lakatosova/)   |          14.00 |                 1272.00 |
@@ -65,7 +65,7 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 143573.00 |
+| Centrála             | Mzdy a odměny                              | 147532.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  43045.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  25912.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  21381.00 |
