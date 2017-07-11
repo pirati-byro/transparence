@@ -19,7 +19,7 @@ Období:                  | 2017-05
 |:----------------------------------------|------------------------:|
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 2282.00 |
 | [Jakub Michálek](jakub-michalek/)       |                 7340.00 |
-| [Ondřej Profant](ondrej-profant/)       |                 6123.00 |
+| [Ondřej Profant](ondrej-profant/)       |                 7938.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 1734.00 |
 
 
