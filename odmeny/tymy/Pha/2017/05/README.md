@@ -18,7 +18,7 @@ Období:                  | 2017-05
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 2282.00 |
-| [Jakub Michálek](jakub-michalek/)       |                 7340.00 |
+| [Jakub Michálek](jakub-michalek/)       |                10539.00 |
 | [Ondřej Profant](ondrej-profant/)       |                 7938.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 1734.00 |
 
