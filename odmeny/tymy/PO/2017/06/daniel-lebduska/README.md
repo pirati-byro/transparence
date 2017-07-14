@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                           |   Počet hodin |
 |:---------------------------------------------------------------------------------------|--------------:|
-| **[Pardubický kraj][p82]**                                                             |         23.20 |
+| **[Pardubický kraj][p85]**                                                             |         23.20 |
 | [#5434 Cestování Krajského koordinátora][t5434]                                        |         12.70 |
 | [#5487 Komunikace s veřejností/podporovateli/zájmovými sdruženími/RegPříznivci][t5487] |          5.00 |
 | **Celkem v uvedených projektech**                                                      |         23.17 |
@@ -99,7 +99,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p82]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=2&v[user_id][]=4&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=82
+[p85]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=2&v[user_id][]=4&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=85
 
 [t5434]: https://redmine.pirati.cz/issues/5434/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=2&v[user_id][]=4&v[user_id][]=8
 

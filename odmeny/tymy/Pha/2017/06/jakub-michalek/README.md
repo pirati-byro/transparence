@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                       |   Počet hodin |
 |:---------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p21]**             |        127.80 |
+| **[Zastupitelstvo hl. m. prahy][p24]**             |        127.80 |
 | [#165 Mediální výstupy][t165]                      |         29.80 |
 | [#4376 Úspěch ve sněmovních volbách 2017][t4376]   |         24.50 |
 | [#6678 Zasedání zastupitelstva 15. 6. 2017][t6678] |         13.00 |
@@ -39,19 +39,19 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#279 Kontakt s občany][t279]                      |          7.00 |
 | [#597 E-mailová komunikace][t597]                  |          5.20 |
 | [#237 Spisová služba][t237]                        |          3.70 |
-| **[Volební štáb][p73]**                            |          8.50 |
+| **[Volební štáb][p76]**                            |          8.50 |
 | [#6302 administrativa][t6302]                      |          8.00 |
 | **[Pražská kampaň - sněmovní volby 2017][p17]**    |          8.00 |
 | [#6503 Outdoor kampaň (plakáty)][t6503]            |          5.50 |
-| **[Technický odbor][p57]**                         |          5.00 |
+| **[Technický odbor][p60]**                         |          5.00 |
 | [#6776 Nasazení CRM][t6776]                        |          5.00 |
-| **[Parlamentní tým][p35]**                         |          2.50 |
-| **[Městské části prahy][p44]**                     |          2.00 |
-| **[Praha][p25]**                                   |          2.00 |
-| **[Republikový výbor][p58]**                       |          2.00 |
-| **[Personální odbor][p42]**                        |          2.00 |
-| **[Volební výbor][p81]**                           |          1.50 |
-| **[Republikové předsednictvo][p30]**               |          1.00 |
+| **[Parlamentní tým][p38]**                         |          2.50 |
+| **[Městské části prahy][p47]**                     |          2.00 |
+| **[Praha][p28]**                                   |          2.00 |
+| **[Republikový výbor][p61]**                       |          2.00 |
+| **[Personální odbor][p45]**                        |          2.00 |
+| **[Volební výbor][p84]**                           |          1.50 |
+| **[Republikové předsednictvo][p33]**               |          1.00 |
 | **Celkem v uvedených projektech**                  |        162.32 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -125,7 +125,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p21]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=21
+[p24]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=24
 
 [t165]: https://redmine.pirati.cz/issues/165/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4
 
@@ -143,7 +143,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t237]: https://redmine.pirati.cz/issues/237/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4
 
-[p73]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=73
+[p76]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=76
 
 [t6302]: https://redmine.pirati.cz/issues/6302/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4
 
@@ -151,23 +151,23 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t6503]: https://redmine.pirati.cz/issues/6503/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4
 
-[p57]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=57
+[p60]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=60
 
 [t6776]: https://redmine.pirati.cz/issues/6776/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4
 
-[p35]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=35
+[p38]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=38
 
-[p44]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=44
+[p47]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=47
 
-[p25]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=25
+[p28]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=28
 
-[p58]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=58
+[p61]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=61
 
-[p42]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=42
+[p45]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=45
 
-[p81]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=81
+[p84]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=84
 
-[p30]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=30
+[p33]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=33
 
 
 

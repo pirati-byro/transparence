@@ -30,12 +30,12 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                  |   Počet hodin |
 |:--------------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p21]**                        |         52.20 |
+| **[Zastupitelstvo hl. m. prahy][p24]**                        |         52.20 |
 | [#6678 Zasedání zastupitelstva 15. 6. 2017][t6678]            |         19.20 |
 | [#3269 Rozvoj celopražských otevřených dat (opendata)][t3269] |         14.00 |
 | [#1206 Oddávání][t1206]                                       |          3.50 |
 | **[Pražská kampaň - sněmovní volby 2017][p17]**               |          4.20 |
-| **[Městské části prahy][p44]**                                |          3.00 |
+| **[Městské části prahy][p47]**                                |          3.00 |
 | **Celkem v uvedených projektech**                             |         59.50 |
 
 Smlouva se vztahuje na všechny projekty. Výjimkou je pouze oddělený projekt technický odbor. Oddělené projekty ovšem mohou být odměňovány podle zvláštní smlouvy.
@@ -109,7 +109,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p21]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=21
+[p24]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=24
 
 [t6678]: https://redmine.pirati.cz/issues/6678/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=3
 
@@ -119,7 +119,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [p17]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=17
 
-[p44]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=44
+[p47]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-06-01&v[spent_on][]=2017-06-30&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=47
 
 
 
