@@ -28,9 +28,15 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                      |   Počet hodin |
-|:----------------------------------|--------------:|
-| **Celkem v uvedených projektech** |          0.00 |
+| Projekt/úkol                         |   Počet hodin |
+|:-------------------------------------|--------------:|
+| **[Administrativní odbor][p51]**     |         40.40 |
+| [#3179 Pošta][t3179]                 |         16.90 |
+| [#2899 Vedení archivu strany][t2899] |         15.00 |
+| [#5362 doprovodné činnosti][t5362]   |          8.50 |
+| **[Finanční odbor][p31]**            |         16.00 |
+| [#6220 asistent pro FO][t6220]       |         16.00 |
+| **Celkem v uvedených projektech**    |         56.45 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -47,10 +53,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  76.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   0.00 hod
+Skutečně odvedená práce dle smlouvy    |  56.45 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   0.00 hod
-**Procento vytížení**                  |    0 %
+**Celkový počet hodin**                |  56.45 hod
+**Procento vytížení**                  |   74 %
 
 Odměna
 ------
@@ -72,12 +78,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  1500.00 Kč
-Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  5475.65 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  1500.00 Kč
+**Celková odměna**                     |  6975.65 Kč
 
 
 ### Odměna od jiných subjektů
@@ -95,6 +101,18 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [hodnoceni]: https://redmine.pirati.cz/issues/
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
+
+[p51]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=51
+
+[t3179]: https://redmine.pirati.cz/issues/3179/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&v[user_id][]=3
+
+[t2899]: https://redmine.pirati.cz/issues/2899/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&v[user_id][]=3
+
+[t5362]: https://redmine.pirati.cz/issues/5362/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&v[user_id][]=3
+
+[p31]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=31
+
+[t6220]: https://redmine.pirati.cz/issues/6220/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&v[user_id][]=3
 
 
 
