@@ -28,7 +28,7 @@ Období:                  | 2017-07
 | [Daniela Lakatošová](daniela-lakatosova/) |                 1333.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                 7000.00 |
 | [Yveta Matínková](yveta-matinkova/)       |                10000.00 |
-| [Jan Novák](jan-novak/)                   |                 7967.00 |
+| [Jan Novák](jan-novak/)                   |                11467.00 |
 | [Zuzana Petrůvová](zuzana-petruvova/)     |                 8413.00 |
 | [Barbora Přibylová](barbora-pribylova/)   |                10000.00 |
 | [Jana Rohová](jana-rohova/)               |                18250.00 |
