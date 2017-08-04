@@ -33,7 +33,7 @@ Seznam lidí
 | PO    | [Jakub Zítko](../../tymy/PO/2017/07/jakub-zitko/)                 |           0.00 |                 9000.00 |
 | KvK   | [Daniela Bílá](../../tymy/KvK/2017/07/daniela-bila/)              |           0.00 |                11000.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/07/jakub-dusanek/)             |          90.00 |                 6325.00 |
-| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/07/mikulas-ferjencik/)     |          10.00 |                 1866.00 |
+| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/07/mikulas-ferjencik/)     |          10.00 |                 5866.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/07/barbora-hradecna/)       |           0.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/07/roman-kucera/)               |          76.00 |                 5336.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/07/tobias-esner/)               |          74.00 |                10500.00 |
@@ -50,7 +50,7 @@ Seznam lidí
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/07/martin-jiranek/)          |           0.00 |                 6666.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/07/viktorie-kalhousova/) |         100.00 |                   80.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/07/adam-kudrlicka/)           |         100.00 |                    0.00 |
-| RP    | [Vojtěch Pikal](../../tymy/RP/2017/07/vojtech-pikal/)             |          26.00 |                 2500.00 |
+| RP    | [Vojtěch Pikal](../../tymy/RP/2017/07/vojtech-pikal/)             |          26.00 |                 7000.00 |
 | RP    | [Vít Šimral](../../tymy/RP/2017/07/vit-simral/)                   |         136.00 |                 7142.00 |
 | TO    | [Ondřej Profant](../../tymy/TO/2017/07/ondrej-profant/)           |         232.00 |                 6800.00 |
 
@@ -64,7 +64,7 @@ Rozpis podle týmů
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
 | Centrála             | Mzdy a odměny                              | 118433.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  32863.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  41363.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  20274.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  11661.00 |
 | Centrála             | Provozní výdaje předsednictva              |   7142.00 |

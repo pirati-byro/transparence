@@ -18,7 +18,7 @@ Období:                  | 2017-07
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Jakub Dušánek](jakub-dusanek/)         |                 6325.00 |
-| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 1866.00 |
+| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 5866.00 |
 | [Barbora Hradečná](barbora-hradecna/)   |                 8500.00 |
 | [Roman Kučera](roman-kucera/)           |                 5336.00 |
 
