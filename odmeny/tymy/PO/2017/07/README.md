@@ -20,7 +20,7 @@ Období:                  | 2017-07
 | [Daniela Bílá](daniela-bila/)             |                 9000.00 |
 | [Michal Gill](michal-gill/)               |                17000.00 |
 | [Eliška Holšánová](eliska-holsanova/)     |                 1500.00 |
-| [Barbora Hradečná](barbora-hradecna/)     |                 9500.00 |
+| [Barbora Hradečná](barbora-hradecna/)     |                14300.00 |
 | [Michal Jokeš](michal-jokes/)             |                15000.00 |
 | [Zuzana Jíchová](zuzana-jichova/)         |                 6300.00 |
 | [Miluš Kotišová](milus-kotisova/)         |                 9000.00 |

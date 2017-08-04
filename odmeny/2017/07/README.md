@@ -16,11 +16,11 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| FO    | [Jaromír Beránek](../../tymy/FO/2017/07/jaromir-beranek/)         |           0.00 |                 3000.00 |
+| FO    | [Jaromír Beránek](../../tymy/FO/2017/07/jaromir-beranek/)         |           0.00 |                 5500.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/07/daniela-bila/)               |           0.00 |                 9000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/07/michal-gill/)                 |           0.00 |                17000.00 |
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/07/eliska-holsanova/)       |           0.00 |                 1500.00 |
-| PO    | [Barbora Hradečná](../../tymy/PO/2017/07/barbora-hradecna/)       |           0.00 |                 9500.00 |
+| PO    | [Barbora Hradečná](../../tymy/PO/2017/07/barbora-hradecna/)       |           0.00 |                14300.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/07/michal-jokes/)               |           0.00 |                15000.00 |
 | PO    | [Zuzana Jíchová](../../tymy/PO/2017/07/zuzana-jichova/)           |           0.00 |                 6300.00 |
 | PO    | [Miluš Kotišová](../../tymy/PO/2017/07/milus-kotisova/)           |         132.00 |                 9000.00 |
@@ -36,9 +36,9 @@ Seznam lidí
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/07/mikulas-ferjencik/)     |          10.00 |                 1866.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/07/barbora-hradecna/)       |           0.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/07/roman-kucera/)               |          76.00 |                 5336.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/07/tobias-esner/)               |          74.00 |                 6976.00 |
-| AO    | [Elizabet Kovačeva](../../tymy/AO/2017/07/elizabet-kovaceva/)     |         111.00 |                 7774.00 |
-| AO    | [Martin Kučera](../../tymy/AO/2017/07/martin-kucera/)             |         111.00 |                 5730.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/07/tobias-esner/)               |          74.00 |                10500.00 |
+| AO    | [Elizabet Kovačeva](../../tymy/AO/2017/07/elizabet-kovaceva/)     |         111.00 |                 9774.00 |
+| AO    | [Martin Kučera](../../tymy/AO/2017/07/martin-kucera/)             |         111.00 |                 8230.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/07/mikulas-ferjencik/)    |           7.00 |                  520.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/07/mikulas-ferjencik/)    |           7.00 |                  520.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/07/jakub-michalek/)          |           5.00 |                  390.00 |
@@ -63,9 +63,9 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 113633.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  27863.00 |
-| Centrála             | Provozní výdaje administrativního odboru   |  14750.00 |
+| Centrála             | Mzdy a odměny                              | 118433.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  32863.00 |
+| Centrála             | Provozní výdaje administrativního odboru   |  20274.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  11661.00 |
 | Centrála             | Provozní výdaje předsednictva              |   7142.00 |
 | Centrála             | Výdaje na právní záležitosti               |     80.00 |
