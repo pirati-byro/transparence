@@ -13,11 +13,11 @@ stanovených v metodice mohou být některé úkoly v projektovém systému neve
 Odměňovaný
 ----------
 
-Jméno a příjmení:                      | Michal Vít
+Jméno a příjmení:                      | Yveta Matínková
 -----------------------                | --------------------
-Funkce:                                | krajský koordinátor - Jihomoravský kraj
+Funkce:                                | krajský koordinátor - Zlínský kraj
 Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 1. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 1. 7. 2017][smlouva]
 Období:                                | 2017-07
 
 
@@ -46,7 +46,7 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |  15.00 hod/týdně =  57.00 hod/měs.
+Odhadnutý rozsah práce                 |  20.00 hod/týdně =  76.00 hod/měs.
 Skutečně odvedená práce dle smlouvy    |   0.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
 **Celkový počet hodin**                |   0.00 hod
@@ -62,7 +62,7 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        |  6300.00 Kč
+Paušální odměna                        |  9000.00 Kč
 Hodinová odměna                        |     0.00 Kč/hod
 Úkolová odměna                         |  5000.00 Kč
 Odpočet                                |     0.00 Kč
@@ -71,13 +71,13 @@ Odpočet                                |     0.00 Kč
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        |  6300.00 Kč
+Paušální odměna                        |  9000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  2963.00 Kč
 Mimořádná odměna                       |     0.00 Kč
-Odpočet                                |  3000.00 Kč
-**Celková odměna**                     |  3300.00 Kč
+Odpočet                                |  1963.00 Kč
+**Celková odměna**                     | 10000.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -92,12 +92,12 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 * [Přehled plněných úkolů v daném období](user_report.csv)
 
-[hodnoceni]: https://redmine.pirati.cz/issues/5233
+[hodnoceni]: https://redmine.pirati.cz/issues/
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
 
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=241
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=339
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/01/02/kk-vit/
+[smlouva]: nan

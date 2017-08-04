@@ -13,11 +13,11 @@ stanovených v metodice mohou být některé úkoly v projektovém systému neve
 Odměňovaný
 ----------
 
-Jméno a příjmení:                      | Michal Vít
+Jméno a příjmení:                      | Michalea  Kleslová
 -----------------------                | --------------------
-Funkce:                                | krajský koordinátor - Jihomoravský kraj
+Funkce:                                | krajský koordinátor - Karlovarský kraj
 Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 1. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 1. 7. 2017][smlouva]
 Období:                                | 2017-07
 
 
@@ -74,10 +74,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  6300.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  1295.00 Kč
 Mimořádná odměna                       |     0.00 Kč
-Odpočet                                |  3000.00 Kč
-**Celková odměna**                     |  3300.00 Kč
+Odpočet                                |     0.00 Kč
+**Celková odměna**                     |  7595.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -92,12 +92,12 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 * [Přehled plněných úkolů v daném období](user_report.csv)
 
-[hodnoceni]: https://redmine.pirati.cz/issues/5233
+[hodnoceni]: https://redmine.pirati.cz/issues/
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
 
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=241
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=345
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/01/02/kk-vit/
+[smlouva]: nan

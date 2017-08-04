@@ -18,19 +18,23 @@ Seznam lidí
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/07/jaromir-beranek/)         |           0.00 |                 5500.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/07/daniela-bila/)               |           0.00 |                 9000.00 |
-| PO    | [Michal Gill](../../tymy/PO/2017/07/michal-gill/)                 |           0.00 |                17000.00 |
+| PO    | [Michal Gill](../../tymy/PO/2017/07/michal-gill/)                 |           0.00 |                22408.00 |
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/07/eliska-holsanova/)       |           0.00 |                 1500.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/07/barbora-hradecna/)       |           0.00 |                14300.00 |
-| PO    | [Michal Jokeš](../../tymy/PO/2017/07/michal-jokes/)               |           0.00 |                15000.00 |
-| PO    | [Zuzana Jíchová](../../tymy/PO/2017/07/zuzana-jichova/)           |           0.00 |                 6300.00 |
-| PO    | [Miluš Kotišová](../../tymy/PO/2017/07/milus-kotisova/)           |         132.00 |                 9000.00 |
+| PO    | [Michal Jokeš](../../tymy/PO/2017/07/michal-jokes/)               |           0.00 |                21015.00 |
+| PO    | [Zuzana Jíchová](../../tymy/PO/2017/07/zuzana-jichova/)           |           0.00 |                 9300.00 |
+| PO    | [Michalea  Kleslová](../../tymy/PO/2017/07/michalea--kleslova/)   |           0.00 |                 7595.00 |
+| PO    | [Miluš Kotišová](../../tymy/PO/2017/07/milus-kotisova/)           |         132.00 |                16550.00 |
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/07/daniela-lakatosova/)   |          18.00 |                 1333.00 |
-| PO    | [Daniel Lebduška](../../tymy/PO/2017/07/daniel-lebduska/)         |           0.00 |                 9000.00 |
+| PO    | [Daniel Lebduška](../../tymy/PO/2017/07/daniel-lebduska/)         |           0.00 |                 7000.00 |
+| PO    | [Yveta Matínková](../../tymy/PO/2017/07/yveta-matinkova/)         |           0.00 |                10000.00 |
 | PO    | [Jan Novák](../../tymy/PO/2017/07/jan-novak/)                     |          85.00 |                 7967.00 |
-| PO    | [Jana Rohová](../../tymy/PO/2017/07/jana-rohova/)                 |         130.00 |                11700.00 |
-| PO    | [Michaela Vodová](../../tymy/PO/2017/07/michaela-vodova/)         |           0.00 |                 9000.00 |
-| PO    | [Michal Vít](../../tymy/PO/2017/07/michal-vit/)                   |           0.00 |                 6300.00 |
-| PO    | [Jakub Zítko](../../tymy/PO/2017/07/jakub-zitko/)                 |           0.00 |                 9000.00 |
+| PO    | [Zuzana Petrůvová](../../tymy/PO/2017/07/zuzana-petruvova/)       |           0.00 |                 8413.00 |
+| PO    | [Barbora Přibylová](../../tymy/PO/2017/07/barbora-pribylova/)     |           0.00 |                10000.00 |
+| PO    | [Jana Rohová](../../tymy/PO/2017/07/jana-rohova/)                 |         130.00 |                18250.00 |
+| PO    | [Michaela Vodová](../../tymy/PO/2017/07/michaela-vodova/)         |           0.00 |                14300.00 |
+| PO    | [Michal Vít](../../tymy/PO/2017/07/michal-vit/)                   |           0.00 |                 3300.00 |
+| PO    | [Jakub Zítko](../../tymy/PO/2017/07/jakub-zitko/)                 |           0.00 |                10000.00 |
 | KvK   | [Daniela Bílá](../../tymy/KvK/2017/07/daniela-bila/)              |           0.00 |                11000.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/07/jakub-dusanek/)             |          90.00 |                 6325.00 |
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/07/mikulas-ferjencik/)     |          10.00 |                 5866.00 |
@@ -63,7 +67,7 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 118433.00 |
+| Centrála             | Mzdy a odměny                              | 184264.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  41363.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  20274.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  11661.00 |
