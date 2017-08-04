@@ -22,7 +22,7 @@ Seznam lidí
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/07/eliska-holsanova/)       |           0.00 |                 1500.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/07/barbora-hradecna/)       |           0.00 |                14300.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/07/michal-jokes/)               |           0.00 |                21015.00 |
-| PO    | [Zuzana Jíchová](../../tymy/PO/2017/07/zuzana-jichova/)           |           0.00 |                 9300.00 |
+| PO    | [Zuzana Jíchová](../../tymy/PO/2017/07/zuzana-jichova/)           |           0.00 |                 3300.00 |
 | PO    | [Michalea  Kleslová](../../tymy/PO/2017/07/michalea--kleslova/)   |           0.00 |                 7595.00 |
 | PO    | [Miluš Kotišová](../../tymy/PO/2017/07/milus-kotisova/)           |         132.00 |                16550.00 |
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/07/daniela-lakatosova/)   |          18.00 |                 1333.00 |
@@ -55,8 +55,8 @@ Seznam lidí
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/07/viktorie-kalhousova/) |         100.00 |                   80.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/07/adam-kudrlicka/)           |         100.00 |                    0.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/07/vojtech-pikal/)             |          26.00 |                 7000.00 |
-| RP    | [Vít Šimral](../../tymy/RP/2017/07/vit-simral/)                   |         136.00 |                 7142.00 |
-| TO    | [Ondřej Profant](../../tymy/TO/2017/07/ondrej-profant/)           |         232.00 |                 6800.00 |
+| RP    | [Vít Šimral](../../tymy/RP/2017/07/vit-simral/)                   |         136.00 |                10142.00 |
+| TO    | [Ondřej Profant](../../tymy/TO/2017/07/ondrej-profant/)           |         232.00 |                10300.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -67,11 +67,11 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 184264.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  41363.00 |
+| Centrála             | Mzdy a odměny                              | 178264.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  44863.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  20274.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  11661.00 |
-| Centrála             | Provozní výdaje předsednictva              |   7142.00 |
+| Centrála             | Provozní výdaje předsednictva              |  10142.00 |
 | Centrála             | Výdaje na právní záležitosti               |     80.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
 | Praha                | Odměny zastupitelů                         |  11450.00 |

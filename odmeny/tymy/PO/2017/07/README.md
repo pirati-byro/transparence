@@ -22,7 +22,7 @@ Období:                  | 2017-07
 | [Eliška Holšánová](eliska-holsanova/)     |                 1500.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                14300.00 |
 | [Michal Jokeš](michal-jokes/)             |                21015.00 |
-| [Zuzana Jíchová](zuzana-jichova/)         |                 9300.00 |
+| [Zuzana Jíchová](zuzana-jichova/)         |                 3300.00 |
 | [Michalea  Kleslová](michalea--kleslova/) |                 7595.00 |
 | [Miluš Kotišová](milus-kotisova/)         |                16550.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                 1333.00 |
