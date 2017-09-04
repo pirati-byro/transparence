@@ -18,7 +18,7 @@ Období:                  | 2017-08
 | Jméno a příjmení                |   Odměna od strany (Kč) |
 |:--------------------------------|------------------------:|
 | [Vojtěch Pikal](vojtech-pikal/) |                 1990.00 |
-| [Vít Šimral](vit-simral/)       |                 7359.00 |
+| [Vít Šimral](vit-simral/)       |                10859.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
