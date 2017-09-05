@@ -1,6 +1,6 @@
 Zkratka	Zodpovídá	Jméno a příjmení	Funkce	Úkolovka	Skutečná odměna	Odpočet
-MO	Ivan Bartoš	Mikuláš Ferjenčík	vedoucí mediálního odboru	4000.0		0.0
-RP	Ivan Bartoš	Vojtěch Pikal	uvolněný člen předsednictva	4000.0		0.0
+MO	Ivan Bartoš	Mikuláš Ferjenčík	vedoucí mediálního odboru	4000.0	4000.0	0.0
+RP	Ivan Bartoš	Vojtěch Pikal	uvolněný člen předsednictva	4000.0	3750.0	0.0
 RP	Jakub Michálek	Vít Šimral	asistent senátora Libora Michálka	5000.0	3500	0.0
 TO	Jakub Michálek	Ondřej Profant	vedoucí technického odboru	4000.0	2000	0.0
 PO	Jan Novák	Miloš Zmeškal	krajský koordinátor - Olomoucký kraj	5000.0	1000	0.0
@@ -20,7 +20,7 @@ AO	Martin Kučera	Tobias Esner	Administrativní podpora	5000.0	3551.0	0.0
 PO	Martin Šmída	Jan Novák	vedoucí personálního odboru	4000.0	2000.0	0.0
 MO	Mikuláš Ferjenčík	Roman Kučera	psavec mediálního odboru	4000.0	3500	0.0
 MO	Mikuláš Ferjenčík	Jakub Dušánek	psavec mediálního odboru	4000.0	4000	0.0
-KhK	Pavel Bulíček	Martin Jiránek	Zastupitel KhK Kraje	2000.0		0.0
+KhK	Pavel Bulíček	Martin Jiránek	Zastupitel KhK Kraje	2000.0	0.0	0.0
 Pha	Tomáš Murňák	Adam Zábranský	zastupitel hl. m. Prahy	5000.0		339.0
 Pha	Tomáš Murňák	Jakub Michálek	zastupitel hl. m. Prahy	5000.0		0.0
 Pha	Tomáš Murňák	Ondřej Profant	zastupitel hl. m. Prahy	5000.0		0.0
