@@ -17,7 +17,7 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/07/jaromir-beranek/)         |           0.00 |                 5500.00 |
-| PO    | [Daniela Bílá](../../tymy/PO/2017/07/daniela-bila/)               |           0.00 |                 9000.00 |
+| PO    | [Daniela Bílá](../../tymy/PO/2017/07/daniela-bila/)               |           0.00 |                 2700.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/07/michal-gill/)                 |           0.00 |                22408.00 |
 | PO    | [Eliška Holšánová](../../tymy/PO/2017/07/eliska-holsanova/)       |           0.00 |                 1500.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/07/barbora-hradecna/)       |           0.00 |                14300.00 |
@@ -41,15 +41,12 @@ Seznam lidí
 | MO    | [Roman Kučera](../../tymy/MO/2017/07/roman-kucera/)               |          76.00 |                 8336.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/07/tobias-esner/)               |          74.00 |                10500.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/07/elizabet-kovaceva/)     |         111.00 |                 9774.00 |
-| AO    | [Martin Kučera](../../tymy/AO/2017/07/martin-kucera/)             |         111.00 |                 8230.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/07/mikulas-ferjencik/)    |           7.00 |                  520.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/07/mikulas-ferjencik/)    |           7.00 |                  520.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/07/jakub-michalek/)          |           5.00 |                  390.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/07/jakub-michalek/)          |           5.00 |                  390.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/07/ondrej-profant/)          |          58.00 |                 4241.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/07/ondrej-profant/)          |          58.00 |                 4241.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/07/adam-zabransky/)          |          13.00 |                  574.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/07/adam-zabransky/)          |          13.00 |                  574.00 |
+| AO    | [Martin Kučera](../../tymy/AO/2017/07/martin-kucera/)             |         111.00 |                 8220.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/07/mikulas-ferjencik/)    |           7.00 |                 1020.00 |
+| Pha   | [Michaela Krausová](../../tymy/Pha/2017/07/michaela-krausova/)    |         125.00 |                 6000.00 |
+| Pha   | [Jakub Michálek](../../tymy/Pha/2017/07/jakub-michalek/)          |         116.00 |                11975.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/07/ondrej-profant/)          |          58.00 |                 6741.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2017/07/adam-zabransky/)          |          13.00 |                 2574.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/07/martin-jiranek/)          |           0.00 |                 6666.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/07/viktorie-kalhousova/) |         100.00 |                   80.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/07/adam-kudrlicka/)           |         100.00 |                    0.00 |
@@ -66,14 +63,15 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 170669.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  48363.00 |
+| Centrála             | Mzdy a odměny                              | 164369.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  48353.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  20274.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  18161.00 |
 | Centrála             | Provozní výdaje předsednictva              |  10142.00 |
+| Centrála             | Volební kampaň do sněmovny                 |   8500.00 |
 | Centrála             | Výdaje na právní záležitosti               |     80.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
-| Praha                | Odměny zastupitelů                         |  11450.00 |
+| Praha                | Odměny zastupitelů                         |  22310.00 |
 
 Strojově čitelná data
 -------------------

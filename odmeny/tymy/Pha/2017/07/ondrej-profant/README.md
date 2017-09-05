@@ -30,18 +30,18 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                          |   Počet hodin |
 |:------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p24]**                |         51.20 |
+| **[Zastupitelstvo hl. m. prahy][p23]**                |         51.20 |
 | [#1853 Mediální výstupy ohledně ICT][t1853]           |         12.50 |
 | [#597 E-mailová komunikace][t597]                     |          6.50 |
 | [#225 ICT][t225]                                      |          6.00 |
 | [#2614 Doprava][t2614]                                |          5.00 |
 | [#7108 Datová platforma][t7108]                       |          4.00 |
 | [#3271 Výbor a komise pro Smart City (cities)][t3271] |          3.50 |
-| **[Pražská kampaň - sněmovní volby 2017][p17]**       |          9.20 |
+| **[Pražská kampaň - sněmovní volby 2017][p16]**       |          9.20 |
 | [#6495 Schůze volebního štábu][t6495]                 |          3.50 |
 | [#7048 domluvit termín focení][t7048]                 |          3.20 |
-| **[Praha][p28]**                                      |          4.80 |
-| **[Městské části prahy][p47]**                        |          1.00 |
+| **[Praha][p44]**                                      |          4.80 |
+| **[Městské části prahy][p45]**                        |          1.00 |
 | **Celkem v uvedených projektech**                     |         66.25 |
 
 Smlouva se vztahuje na všechny projekty. Výjimkou je pouze oddělený projekt technický odbor. Oddělené projekty ovšem mohou být odměňovány podle zvláštní smlouvy.
@@ -86,10 +86,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  4241.25 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  2500.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  4241.25 Kč
+**Celková odměna**                     |  6741.25 Kč
 
 
 ### Odměna od jiných subjektů
@@ -115,7 +115,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p24]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=24
+[p23]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=23
 
 [t1853]: https://redmine.pirati.cz/issues/1853/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3
 
@@ -129,15 +129,15 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t3271]: https://redmine.pirati.cz/issues/3271/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3
 
-[p17]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=17
+[p16]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=16
 
 [t6495]: https://redmine.pirati.cz/issues/6495/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3
 
 [t7048]: https://redmine.pirati.cz/issues/7048/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3
 
-[p28]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=28
+[p44]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=44
 
-[p47]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=47
+[p45]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-07-01&v[spent_on][]=2017-07-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=45
 
 
 

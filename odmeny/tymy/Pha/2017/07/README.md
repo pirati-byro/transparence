@@ -17,10 +17,11 @@ Období:                  | 2017-07
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                  520.00 |
-| [Jakub Michálek](jakub-michalek/)       |                  390.00 |
-| [Ondřej Profant](ondrej-profant/)       |                 4241.00 |
-| [Adam Zábranský](adam-zabransky/)       |                  574.00 |
+| [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 1020.00 |
+| [Michaela Krausová](michaela-krausova/) |                 6000.00 |
+| [Jakub Michálek](jakub-michalek/)       |                11975.00 |
+| [Ondřej Profant](ondrej-profant/)       |                 6741.00 |
+| [Adam Zábranský](adam-zabransky/)       |                 2574.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
