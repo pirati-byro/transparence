@@ -21,6 +21,7 @@ Seznam lidí
 | PO    | [Michal Gill](../../tymy/PO/2017/08/michal-gill/)                 |           0.00 |                21500.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/08/barbora-hradecna/)       |           0.00 |                14000.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/08/michal-jokes/)               |           0.00 |                22704.00 |
+| PO    | [Michaela Kleslová](../../tymy/PO/2017/08/michaela-kleslova/)     |           0.00 |                10000.00 |
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/08/daniela-lakatosova/)   |          40.00 |                 1610.00 |
 | PO    | [Daniel Lebduška](../../tymy/PO/2017/08/daniel-lebduska/)         |           0.00 |                12450.00 |
 | PO    | [Yveta Matínková](../../tymy/PO/2017/08/yveta-matinkova/)         |           0.00 |                10000.00 |
@@ -33,13 +34,13 @@ Seznam lidí
 | PO    | [Miloš Zmeškal](../../tymy/PO/2017/08/milos-zmeskal/)             |           0.00 |                10000.00 |
 | PO    | [Jakub Zítko](../../tymy/PO/2017/08/jakub-zitko/)                 |           0.00 |                 8185.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/08/jakub-dusanek/)             |         113.00 |                13568.00 |
-| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/08/mikulas-ferjencik/)     |           0.00 |                 5500.00 |
+| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/08/mikulas-ferjencik/)     |         204.00 |                14875.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/08/barbora-hradecna/)       |           0.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/08/roman-kucera/)               |          81.00 |                10354.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/08/tobias-esner/)               |         142.00 |                17700.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/08/elizabet-kovaceva/)     |           0.00 |                 2000.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/08/martin-kucera/)             |         111.00 |                 9420.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/08/mikulas-ferjencik/)    |           0.00 |                    0.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/08/mikulas-ferjencik/)    |          46.00 |                 4160.00 |
 | Pha   | [Michaela Krausová](../../tymy/Pha/2017/08/michaela-krausova/)    |         101.00 |                12090.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/08/jakub-michalek/)          |          76.00 |                 6854.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/08/ondrej-profant/)          |           6.00 |                  504.00 |
@@ -60,8 +61,8 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 162253.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  42267.00 |
+| Centrála             | Mzdy a odměny                              | 172253.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  51642.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  19700.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  23922.00 |
 | Centrála             | Provozní výdaje předsednictva              |  10859.00 |
@@ -69,7 +70,7 @@ Rozpis podle týmů
 | Centrála             | Výdaje na právní záležitosti               |    800.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
 | Praha                | Koordinace dobrovolníků                    |  12090.00 |
-| Praha                | Odměny zastupitelů                         |   8222.00 |
+| Praha                | Odměny zastupitelů                         |  12382.00 |
 
 Strojově čitelná data
 -------------------

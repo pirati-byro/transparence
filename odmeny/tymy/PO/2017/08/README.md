@@ -21,6 +21,7 @@ Období:                  | 2017-08
 | [Michal Gill](michal-gill/)               |                21500.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                14000.00 |
 | [Michal Jokeš](michal-jokes/)             |                22704.00 |
+| [Michaela Kleslová](michaela-kleslova/)   |                10000.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                 1610.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                12450.00 |
 | [Yveta Matínková](yveta-matinkova/)       |                10000.00 |
