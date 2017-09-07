@@ -17,7 +17,7 @@ Období:                  | 2017-08
 
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
-| [Daniela Bílá](daniela-bila/)             |                 2700.00 |
+| [Daniela Bílá](daniela-bila/)             |                 4700.00 |
 | [Michal Gill](michal-gill/)               |                21500.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                14000.00 |
 | [Michal Jokeš](michal-jokes/)             |                22704.00 |
