@@ -1,0 +1,85 @@
+Česká pirátská strana
+
+Výkaz odměňování za celou organizaci
+===========================
+
+V tomtu výkazu zveřejňujeme základní informace o vykonané práci a odměňování
+za celou organizaci. Výkaz je sestaven podle [metodiky odměňování][metodika],
+která obsahuje podrobnosti. U všech členů týmu je uveden odkaz na podrobný osobní výkaz.
+
+Období:                  | 2017-09
+-----------------------  | --------------------
+
+
+Seznam lidí
+--------------
+
+| Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
+|:------|:------------------------------------------------------------------|---------------:|------------------------:|
+| FO    | [Jaromír Beránek](../../tymy/FO/2017/09/jaromir-beranek/)         |           0.00 |                 3000.00 |
+| PO    | [Daniela Bílá](../../tymy/PO/2017/09/daniela-bila/)               |         144.00 |                 2700.00 |
+| PO    | [Michal Gill](../../tymy/PO/2017/09/michal-gill/)                 |           0.00 |                17000.00 |
+| PO    | [Markéta Gregorová](../../tymy/PO/2017/09/marketa-gregorova/)     |           0.00 |                23000.00 |
+| PO    | [Barbora Hradečná](../../tymy/PO/2017/09/barbora-hradecna/)       |           0.00 |                 9500.00 |
+| PO    | [Michal Jokeš](../../tymy/PO/2017/09/michal-jokes/)               |           0.00 |                15000.00 |
+| PO    | [Michaela Kleslová](../../tymy/PO/2017/09/michaela-kleslova/)     |           0.00 |                 6300.00 |
+| PO    | [Daniela Lakatošová](../../tymy/PO/2017/09/daniela-lakatosova/)   |           2.00 |                  837.00 |
+| PO    | [Daniel Lebduška](../../tymy/PO/2017/09/daniel-lebduska/)         |           0.00 |                 9000.00 |
+| PO    | [Samuel Machat](../../tymy/PO/2017/09/samuel-machat/)             |         100.00 |                 6300.00 |
+| PO    | [Yveta Matínková](../../tymy/PO/2017/09/yveta-matinkova/)         |           0.00 |                 9000.00 |
+| PO    | [Jan Novák](../../tymy/PO/2017/09/jan-novak/)                     |          97.00 |                 9240.00 |
+| PO    | [Zuzana Petrůvová](../../tymy/PO/2017/09/zuzana-petruvova/)       |           0.00 |                 6300.00 |
+| PO    | [Barbora Přibylová](../../tymy/PO/2017/09/barbora-pribylova/)     |           0.00 |                 9000.00 |
+| PO    | [Jana Rohová](../../tymy/PO/2017/09/jana-rohova/)                 |         178.00 |                11700.00 |
+| PO    | [Michaela Vodová](../../tymy/PO/2017/09/michaela-vodova/)         |         221.00 |                 9000.00 |
+| PO    | [Miloš Zmeškal](../../tymy/PO/2017/09/milos-zmeskal/)             |          75.00 |                 9000.00 |
+| PO    | [Jakub Zítko](../../tymy/PO/2017/09/jakub-zitko/)                 |           0.00 |                 9000.00 |
+| PO    | [Pavel Šrámek](../../tymy/PO/2017/09/pavel-sramek/)               |           0.00 |                 9000.00 |
+| MO    | [Albert Diok](../../tymy/MO/2017/09/albert-diok/)                 |           0.00 |                    0.00 |
+| MO    | [Jakub Dušánek](../../tymy/MO/2017/09/jakub-dusanek/)             |         129.00 |                 9522.00 |
+| MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/09/mikulas-ferjencik/)     |           0.00 |                 1500.00 |
+| MO    | [Barbora Hradečná](../../tymy/MO/2017/09/barbora-hradecna/)       |           0.00 |                 8500.00 |
+| MO    | [Roman Kučera](../../tymy/MO/2017/09/roman-kucera/)               |          66.00 |                 4876.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/09/tobias-esner/)               |           0.00 |                 1519.00 |
+| AO    | [Elizabet Kovačeva](../../tymy/AO/2017/09/elizabet-kovaceva/)     |          31.00 |                 2300.00 |
+| AO    | [Martin Kučera](../../tymy/AO/2017/09/martin-kucera/)             |           3.00 |                 1610.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/09/mikulas-ferjencik/)    |           0.00 |                    0.00 |
+| Pha   | [Michaela Krausová](../../tymy/Pha/2017/09/michaela-krausova/)    |           0.00 |                    0.00 |
+| Pha   | [Jakub Michálek](../../tymy/Pha/2017/09/jakub-michalek/)          |           0.00 |                    0.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/09/ondrej-profant/)          |          84.00 |                 6204.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2017/09/adam-zabransky/)          |          41.00 |                 2456.00 |
+| KhK   | [Martin Jiránek](../../tymy/KhK/2017/09/martin-jiranek/)          |          60.00 |                 6666.00 |
+| PT    | [Viktorie Kalhousová](../../tymy/PT/2017/09/viktorie-kalhousova/) |         100.00 |                    0.00 |
+| PT    | [Adam Kudrlička](../../tymy/PT/2017/09/adam-kudrlicka/)           |         100.00 |                    0.00 |
+| RP    | [Vojtěch Pikal](../../tymy/RP/2017/09/vojtech-pikal/)             |          10.00 |                 1890.00 |
+| RP    | [Vít Šimral](../../tymy/RP/2017/09/vit-simral/)                   |         125.00 |                 6910.00 |
+| TO    | [Ondřej Profant](../../tymy/TO/2017/09/ondrej-profant/)           |         192.00 |                 6100.00 |
+
+Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
+U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
+práce uvádíme 100 %.
+
+Rozpis podle týmů
+-----------------
+
+| Rozpočet             | Položka                                    |   Náklady |
+|:---------------------|:-------------------------------------------|----------:|
+| Centrála             | Mzdy a odměny                              | 161637.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  23340.00 |
+| Centrála             | Provozní výdaje administrativního odboru   |   3819.00 |
+| Centrála             | Provozní výdaje mediálního odboru          |  14398.00 |
+| Centrála             | Provozní výdaje předsednictva              |   6910.00 |
+| Centrála             | Volební kampaň do sněmovny                 |   8500.00 |
+| Centrála             | Výdaje na právní záležitosti               |      0.00 |
+| Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
+| Praha                | Koordinace dobrovolníků                    |      0.00 |
+| Praha                | Odměny zastupitelů                         |   8660.00 |
+
+Strojově čitelná data
+-------------------
+
+* [zaměstnanci](zamestnanci.tsv)
+* [dodavatelé](dodavatele.tsv)
+* [čerpání rozpočtu](cerpani_rozpoctu.tsv)
+
+[metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

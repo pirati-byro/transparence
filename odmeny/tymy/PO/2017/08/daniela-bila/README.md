@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Daniela Bílá
 -----------------------                | --------------------
 Funkce:                                | krajský koordinátor - Karlovarský kraj
 Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 1. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 1. 8. 2017][smlouva]
 Období:                                | 2017-08
 
 
@@ -46,7 +46,7 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |  20.00 hod/týdně =  92.00 hod/měs.
+Odhadnutý rozsah práce                 |   5.00 hod/týdně =  23.00 hod/měs.
 Skutečně odvedená práce dle smlouvy    |   0.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
 **Celkový počet hodin**                |   0.00 hod

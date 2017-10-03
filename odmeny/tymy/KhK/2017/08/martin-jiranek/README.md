@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                      |   Počet hodin |
 |:----------------------------------|--------------:|
-| **[Královehradecký kraj][p15]**   |          6.60 |
-| [#6156 Zasedání výborů][t6156]    |          6.60 |
-| **Celkem v uvedených projektech** |          6.55 |
+| **[Královehradecký kraj][p15]**   |          8.20 |
+| [#6156 Zasedání výborů][t6156]    |          8.20 |
+| **Celkem v uvedených projektech** |          8.15 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,10 +49,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  15.00 hod/týdně =  69.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   6.55 hod
+Skutečně odvedená práce dle smlouvy    |   8.15 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   6.55 hod
-**Procento vytížení**                  |    9 %
+**Celkový počet hodin**                |   8.15 hod
+**Procento vytížení**                  |   12 %
 
 Odměna
 ------

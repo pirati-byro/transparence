@@ -30,8 +30,10 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                      |   Počet hodin |
 |:----------------------------------|--------------:|
-| **[Technický odbor][p58]**        |          7.90 |
-| **Celkem v uvedených projektech** |          7.90 |
+| **[Technický odbor][p58]**        |         38.40 |
+| [#3277 Jekyll weby][t3277]        |         15.00 |
+| [#7053 Pirátský rozpočet][t7053]  |         15.00 |
+| **Celkem v uvedených projektech** |         38.40 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu technický odbor. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -50,10 +52,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   6.00 hod/týdně =  27.60 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   7.90 hod
+Skutečně odvedená práce dle smlouvy    |  38.40 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   7.90 hod
-**Procento vytížení**                  |   29 %
+**Celkový počet hodin**                |  38.40 hod
+**Procento vytížení**                  |  139 %
 
 Odměna
 ------
@@ -75,12 +77,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  1500.00 Kč
-Hodinová odměna do odhadnutého rozsahu |   790.00 Kč
-Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  2760.00 Kč
+Hodinová odměna nad odhadnutý rozsah   |  1080.00 Kč
 Úkolová odměna                         |  2000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  4290.00 Kč
+**Celková odměna**                     |  7340.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -100,6 +102,10 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 
 [p58]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=58
+
+[t3277]: https://redmine.pirati.cz/issues/3277/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=3
+
+[t7053]: https://redmine.pirati.cz/issues/7053/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=3
 
 
 

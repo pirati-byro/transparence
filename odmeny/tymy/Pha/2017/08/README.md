@@ -18,9 +18,9 @@ Období:                  | 2017-08
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 4160.00 |
-| [Michaela Krausová](michaela-krausova/) |                12090.00 |
+| [Michaela Krausová](michaela-krausova/) |                18070.00 |
 | [Jakub Michálek](jakub-michalek/)       |                 6854.00 |
-| [Ondřej Profant](ondrej-profant/)       |                  504.00 |
+| [Ondřej Profant](ondrej-profant/)       |                 3234.00 |
 | [Adam Zábranský](adam-zabransky/)       |                  864.00 |
 
 
