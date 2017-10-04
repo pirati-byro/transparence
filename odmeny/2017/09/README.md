@@ -40,9 +40,9 @@ Seznam lidí
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/09/mikulas-ferjencik/)     |           0.00 |                 1500.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/09/barbora-hradecna/)       |           0.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/09/roman-kucera/)               |          66.00 |                 4876.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/09/tobias-esner/)               |           0.00 |                 1519.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/09/tobias-esner/)               |         154.00 |                13412.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/09/elizabet-kovaceva/)     |          31.00 |                 2300.00 |
-| AO    | [Martin Kučera](../../tymy/AO/2017/09/martin-kucera/)             |           3.00 |                 1610.00 |
+| AO    | [Martin Kučera](../../tymy/AO/2017/09/martin-kucera/)             |         157.00 |                 7760.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/09/mikulas-ferjencik/)    |           0.00 |                    0.00 |
 | Pha   | [Michaela Krausová](../../tymy/Pha/2017/09/michaela-krausova/)    |           0.00 |                    0.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/09/jakub-michalek/)          |           0.00 |                    0.00 |
@@ -65,8 +65,8 @@ Rozpis podle týmů
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
 | Centrála             | Mzdy a odměny                              | 161637.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  23340.00 |
-| Centrála             | Provozní výdaje administrativního odboru   |   3819.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  29490.00 |
+| Centrála             | Provozní výdaje administrativního odboru   |  15712.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  14398.00 |
 | Centrála             | Provozní výdaje předsednictva              |   6910.00 |
 | Centrála             | Volební kampaň do sněmovny                 |   8500.00 |
