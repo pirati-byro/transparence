@@ -40,7 +40,7 @@ Seznam lidí
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/09/mikulas-ferjencik/)     |           0.00 |                 1500.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/09/barbora-hradecna/)       |           0.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/09/roman-kucera/)               |          71.00 |                 5244.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/09/tobias-esner/)               |         154.00 |                13412.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/09/tobias-esner/)               |         181.00 |                15570.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/09/elizabet-kovaceva/)     |          31.00 |                 3300.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/09/martin-kucera/)             |         157.00 |                11760.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/09/mikulas-ferjencik/)    |           0.00 |                    0.00 |
@@ -66,7 +66,7 @@ Rozpis podle týmů
 |:---------------------|:-------------------------------------------|----------:|
 | Centrála             | Mzdy a odměny                              | 243287.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  35290.00 |
-| Centrála             | Provozní výdaje administrativního odboru   |  16712.00 |
+| Centrála             | Provozní výdaje administrativního odboru   |  18870.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  14766.00 |
 | Centrála             | Provozní výdaje předsednictva              |   6910.00 |
 | Centrála             | Volební kampaň do sněmovny                 |  16480.00 |
