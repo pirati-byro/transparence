@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                |   Počet hodin |
 |:--------------------------------------------|--------------:|
-| **[Mediální odbor][p62]**                   |         53.00 |
-| [#6459 Psaní pro mediální odbor Roj][t6459] |         53.00 |
-| **Celkem v uvedených projektech**           |         53.00 |
+| **[Mediální odbor][p62]**                   |         57.00 |
+| [#6459 Psaní pro mediální odbor Roj][t6459] |         57.00 |
+| **Celkem v uvedených projektech**           |         57.00 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu mediální odbor. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -51,10 +51,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  80.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  53.00 hod
+Skutečně odvedená práce dle smlouvy    |  57.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  53.00 hod
-**Procento vytížení**                  |   66 %
+**Celkový počet hodin**                |  57.00 hod
+**Procento vytížení**                  |   71 %
 
 Odměna
 ------
@@ -76,12 +76,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
-Hodinová odměna do odhadnutého rozsahu |  4876.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  5244.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  4876.00 Kč
+**Celková odměna**                     |  5244.00 Kč
 
 
 ### Odměna od jiných subjektů
