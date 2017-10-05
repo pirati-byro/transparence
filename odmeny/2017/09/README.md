@@ -18,7 +18,7 @@ Seznam lidí
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/09/jaromir-beranek/)         |           0.00 |                 4800.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/09/daniela-bila/)               |         144.00 |                 4200.00 |
-| PO    | [Michal Gill](../../tymy/PO/2017/09/michal-gill/)                 |           0.00 |                23500.00 |
+| PO    | [Michal Gill](../../tymy/PO/2017/09/michal-gill/)                 |           0.00 |                17000.00 |
 | PO    | [Markéta Gregorová](../../tymy/PO/2017/09/marketa-gregorova/)     |           0.00 |                23000.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/09/barbora-hradecna/)       |           0.00 |                15500.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/09/michal-jokes/)               |           0.00 |                27500.00 |
@@ -27,7 +27,7 @@ Seznam lidí
 | PO    | [Daniel Lebduška](../../tymy/PO/2017/09/daniel-lebduska/)         |           0.00 |                18000.00 |
 | PO    | [Samuel Machat](../../tymy/PO/2017/09/samuel-machat/)             |         100.00 |                 7300.00 |
 | PO    | [Yveta Matínková](../../tymy/PO/2017/09/yveta-matinkova/)         |           0.00 |                10000.00 |
-| PO    | [Jan Novák](../../tymy/PO/2017/09/jan-novak/)                     |          97.00 |                 9240.00 |
+| PO    | [Jan Novák](../../tymy/PO/2017/09/jan-novak/)                     |          97.00 |                11740.00 |
 | PO    | [Zuzana Petrůvová](../../tymy/PO/2017/09/zuzana-petruvova/)       |           0.00 |                 9000.00 |
 | PO    | [Barbora Přibylová](../../tymy/PO/2017/09/barbora-pribylova/)     |           0.00 |                10000.00 |
 | PO    | [Jana Rohová](../../tymy/PO/2017/09/jana-rohova/)                 |         178.00 |                26700.00 |
@@ -40,7 +40,7 @@ Seznam lidí
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/09/mikulas-ferjencik/)     |           0.00 |                 1500.00 |
 | MO    | [Barbora Hradečná](../../tymy/MO/2017/09/barbora-hradecna/)       |           0.00 |                 8500.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/09/roman-kucera/)               |          71.00 |                 5244.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/09/tobias-esner/)               |         181.00 |                15570.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/09/tobias-esner/)               |         181.00 |                20300.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/09/elizabet-kovaceva/)     |          31.00 |                 3300.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/09/martin-kucera/)             |         157.00 |                11760.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/09/mikulas-ferjencik/)    |           0.00 |                    0.00 |
@@ -64,9 +64,9 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 243287.00 |
-| Centrála             | Odměny vedoucích za výkon funkce           |  35290.00 |
-| Centrála             | Provozní výdaje administrativního odboru   |  18870.00 |
+| Centrála             | Mzdy a odměny                              | 236787.00 |
+| Centrála             | Odměny vedoucích za výkon funkce           |  37790.00 |
+| Centrála             | Provozní výdaje administrativního odboru   |  23600.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  14766.00 |
 | Centrála             | Provozní výdaje předsednictva              |   6910.00 |
 | Centrála             | Volební kampaň do sněmovny                 |  16480.00 |

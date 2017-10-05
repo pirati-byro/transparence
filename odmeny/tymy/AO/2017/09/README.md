@@ -17,7 +17,7 @@ Období:                  | 2017-09
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Tobias Esner](tobias-esner/)           |                15570.00 |
+| [Tobias Esner](tobias-esner/)           |                20300.00 |
 | [Elizabet Kovačeva](elizabet-kovaceva/) |                 3300.00 |
 | [Martin Kučera](martin-kucera/)         |                11760.00 |
 
