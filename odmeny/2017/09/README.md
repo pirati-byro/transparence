@@ -19,7 +19,7 @@ Seznam lidí
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/09/jaromir-beranek/)         |           0.00 |                 4800.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/09/daniela-bila/)               |         144.00 |                 4200.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/09/michal-gill/)                 |           0.00 |                17000.00 |
-| PO    | [Markéta Gregorová](../../tymy/PO/2017/09/marketa-gregorova/)     |           0.00 |                23000.00 |
+| PO    | [Markéta Gregorová](../../tymy/PO/2017/09/marketa-gregorova/)     |           0.00 |                25000.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/09/barbora-hradecna/)       |           0.00 |                15500.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/09/michal-jokes/)               |           0.00 |                27500.00 |
 | PO    | [Michaela Kleslová](../../tymy/PO/2017/09/michaela-kleslova/)     |           0.00 |                10000.00 |
@@ -64,7 +64,7 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 236787.00 |
+| Centrála             | Mzdy a odměny                              | 238787.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  37790.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  23600.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  14766.00 |
