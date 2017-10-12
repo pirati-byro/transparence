@@ -40,12 +40,14 @@ Seznam lidí
 | AO    | [Tobias Esner](../../tymy/AO/2017/08/tobias-esner/)               |         142.00 |                17700.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/08/elizabet-kovaceva/)     |          51.00 |                 6324.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/08/martin-kucera/)             |         111.00 |                 9420.00 |
-| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/08/mikulas-ferjencik/)    |          46.00 |                 4160.00 |
+| Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/08/mikulas-ferjencik/)    |          46.00 |                 5160.00 |
 | Pha   | [Michaela Krausová](../../tymy/Pha/2017/08/michaela-krausova/)    |         151.00 |                18070.00 |
-| Pha   | [Jakub Michálek](../../tymy/Pha/2017/08/jakub-michalek/)          |          76.00 |                 6854.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/08/ondrej-profant/)          |          37.00 |                 3234.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/08/adam-zabransky/)          |          16.00 |                  864.00 |
+| Pha   | [Jakub Michálek](../../tymy/Pha/2017/08/jakub-michalek/)          |          76.00 |                 8854.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/08/ondrej-profant/)          |          37.00 |                 4534.00 |
+| Pha   | [Pohanková Soňa](../../tymy/Pha/2017/08/pohankova-sona/)          |         100.00 |                    0.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2017/08/adam-zabransky/)          |          16.00 |                 1364.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/08/martin-jiranek/)          |          12.00 |                 6666.00 |
+| KvK   | [Pavlovic Josef](../../tymy/KvK/2017/08/pavlovic-josef/)          |           0.00 |                 8000.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/08/viktorie-kalhousova/) |         100.00 |                  800.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/08/adam-kudrlicka/)           |         100.00 |                    0.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/08/vojtech-pikal/)             |          11.00 |                 5740.00 |
@@ -70,7 +72,7 @@ Rozpis podle týmů
 | Centrála             | Výdaje na právní záležitosti               |    800.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
 | Praha                | Koordinace dobrovolníků                    |  18070.00 |
-| Praha                | Odměny zastupitelů                         |  15112.00 |
+| Praha                | Odměny zastupitelů                         |  19912.00 |
 
 Strojově čitelná data
 -------------------
