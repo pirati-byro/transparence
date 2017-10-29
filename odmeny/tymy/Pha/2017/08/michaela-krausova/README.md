@@ -38,7 +38,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#7047 vybrat odpovědnou osobu a zaúkolovat poptat lampy][t7047]                        |         10.00 |
 | [#7048 domluvit termín focení][t7048]                                                   |         10.00 |
 | [#7051 sehnat lidi pro brainstorming][t7051]                                            |          5.00 |
-| **[Mediální odbor][p62]**                                                               |         12.00 |
+| **[Mediální odbor][p64]**                                                               |         12.00 |
 | [#7236 Výpomoc v rámci mediálního odboru][t7236]                                        |         12.00 |
 | **Celkem v uvedených projektech**                                                       |        139.00 |
 
@@ -122,7 +122,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t7051]: https://redmine.pirati.cz/issues/7051/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=7
 
-[p62]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=62
+[p64]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=64
 
 [t7236]: https://redmine.pirati.cz/issues/7236/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=7
 

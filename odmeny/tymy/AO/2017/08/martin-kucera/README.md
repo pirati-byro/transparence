@@ -30,12 +30,12 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Administrativní odbor][p49]**                                          |         50.10 |
+| **[Administrativní odbor][p51]**                                          |         50.10 |
 | [#4776 Vedení odboru][t4776]                                              |         30.10 |
 | [#4323 Okrskové volební komise PSP 2017 (OVK) - spuštění aplikace][t4323] |         12.40 |
 | [#2897 Administrace internetového fóra][t2897]                            |          6.30 |
-| **[Finanční odbor][p29]**                                                 |          1.00 |
-| **[Technický odbor][p58]**                                                |          0.10 |
+| **[Finanční odbor][p31]**                                                 |          1.00 |
+| **[Technický odbor][p60]**                                                |          0.10 |
 | **Celkem v uvedených projektech**                                         |         51.20 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -102,7 +102,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p49]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=49
+[p51]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=51
 
 [t4776]: https://redmine.pirati.cz/issues/4776/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0
 
@@ -110,9 +110,9 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t2897]: https://redmine.pirati.cz/issues/2897/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0
 
-[p29]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=29
+[p31]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=31
 
-[p58]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=58
+[p60]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-08-01&v[spent_on][]=2017-08-31&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=60
 
 
 
