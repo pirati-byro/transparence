@@ -18,7 +18,7 @@ Období:                  | 2017-09
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 3500.00 |
-| [Michaela Krausová](michaela-krausova/) |                    0.00 |
+| [Michaela Krausová](michaela-krausova/) |                20150.00 |
 | [Jakub Michálek](jakub-michalek/)       |                 4500.00 |
 | [Ondřej Profant](ondrej-profant/)       |                10004.00 |
 | [Pohanková Soňa](pohankova-sona/)       |                    0.00 |

@@ -30,11 +30,11 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Administrativní odbor][p49]**                                          |         62.50 |
+| **[Administrativní odbor][p51]**                                          |         62.50 |
 | [#4323 Okrskové volební komise PSP 2017 (OVK) - spuštění aplikace][t4323] |         29.90 |
 | [#4776 Vedení odboru][t4776]                                              |         27.30 |
 | [#2897 Administrace internetového fóra][t2897]                            |          3.80 |
-| **[Finanční odbor][p29]**                                                 |          0.10 |
+| **[Finanční odbor][p31]**                                                 |          0.10 |
 | **Celkem v uvedených projektech**                                         |         62.60 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -101,7 +101,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p49]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=49
+[p51]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=51
 
 [t4323]: https://redmine.pirati.cz/issues/4323/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0
 
@@ -109,7 +109,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t2897]: https://redmine.pirati.cz/issues/2897/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0
 
-[p29]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=29
+[p31]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=1&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=31
 
 
 

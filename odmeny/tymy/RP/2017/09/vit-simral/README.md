@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                       |   Počet hodin |
 |:-----------------------------------------------------------------------------------|--------------:|
-| **[Parlamentní tým][p36]**                                                         |        100.20 |
+| **[Parlamentní tým][p38]**                                                         |        100.20 |
 | [#3454 Asistence senátoru Liboru Michálkovi (asistent senátora Vít Šimral)][t3454] |        100.20 |
 | **Celkem v uvedených projektech**                                                  |        100.15 |
 
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p36]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=36
+[p38]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=38
 
 [t3454]: https://redmine.pirati.cz/issues/3454/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4
 

@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                              |   Počet hodin |
 |:------------------------------------------|--------------:|
-| **[Volební štáb][p74]**                   |         84.00 |
+| **[Volební štáb][p76]**                   |         84.00 |
 | [#7790 Administrativní podpora VV][t7790] |         84.00 |
 | **Celkem v uvedených projektech**         |         84.00 |
 
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p74]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=3&v[user_id][]=5&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=74
+[p76]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=3&v[user_id][]=5&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=76
 
 [t7790]: https://redmine.pirati.cz/issues/7790/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-09-01&v[spent_on][]=2017-09-30&v[user_id][]=3&v[user_id][]=5&v[user_id][]=7
 

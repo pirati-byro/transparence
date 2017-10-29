@@ -19,7 +19,7 @@ Seznam lidí
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/09/jaromir-beranek/)         |           0.00 |                 4800.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/09/daniela-bila/)               |         144.00 |                 4200.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/09/michal-gill/)                 |           0.00 |                23500.00 |
-| PO    | [Markéta Gregorová](../../tymy/PO/2017/09/marketa-gregorova/)     |           0.00 |                25000.00 |
+| PO    | [Markéta Gregorová](../../tymy/PO/2017/09/marketa-gregorova/)     |         105.00 |                25000.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/09/barbora-hradecna/)       |           0.00 |                15500.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/09/michal-jokes/)               |           0.00 |                27500.00 |
 | PO    | [Michaela Kleslová](../../tymy/PO/2017/09/michaela-kleslova/)     |           0.00 |                10000.00 |
@@ -44,7 +44,7 @@ Seznam lidí
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/09/elizabet-kovaceva/)     |          31.00 |                 3300.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/09/martin-kucera/)             |         157.00 |                11760.00 |
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/09/mikulas-ferjencik/)    |           0.00 |                 3500.00 |
-| Pha   | [Michaela Krausová](../../tymy/Pha/2017/09/michaela-krausova/)    |           0.00 |                    0.00 |
+| Pha   | [Michaela Krausová](../../tymy/Pha/2017/09/michaela-krausova/)    |         194.00 |                20150.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/09/jakub-michalek/)          |           0.00 |                 4500.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/09/ondrej-profant/)          |          84.00 |                10004.00 |
 | Pha   | [Pohanková Soňa](../../tymy/Pha/2017/09/pohankova-sona/)          |         100.00 |                    0.00 |
@@ -74,7 +74,7 @@ Rozpis podle týmů
 | Centrála             | Volební kampaň do sněmovny                 |  16480.00 |
 | Centrála             | Výdaje na právní záležitosti               |      0.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
-| Praha                | Koordinace dobrovolníků                    |      0.00 |
+| Praha                | Koordinace dobrovolníků                    |  20150.00 |
 | Praha                | Odměny zastupitelů                         |  23160.00 |
 
 Strojově čitelná data
