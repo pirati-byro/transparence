@@ -17,24 +17,24 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/10/jaromir-beranek/)         |           0.00 |                 7200.00 |
-| PO    | [Daniela Bílá](../../tymy/PO/2017/10/daniela-bila/)               |           0.00 |                 2700.00 |
-| PO    | [Michal Gill](../../tymy/PO/2017/10/michal-gill/)                 |           0.00 |                17000.00 |
-| PO    | [Markéta Gregorová](../../tymy/PO/2017/10/marketa-gregorova/)     |           0.00 |                23000.00 |
+| PO    | [Daniela Bílá](../../tymy/PO/2017/10/daniela-bila/)               |           0.00 |                 6000.00 |
+| PO    | [Michal Gill](../../tymy/PO/2017/10/michal-gill/)                 |           0.00 |                25681.00 |
+| PO    | [Markéta Gregorová](../../tymy/PO/2017/10/marketa-gregorova/)     |           0.00 |                25000.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/10/barbora-hradecna/)       |           0.00 |                15500.00 |
-| PO    | [Michal Jokeš](../../tymy/PO/2017/10/michal-jokes/)               |           0.00 |                15000.00 |
-| PO    | [Michaela Kleslová](../../tymy/PO/2017/10/michaela-kleslova/)     |          91.00 |                 6300.00 |
-| PO    | [Daniela Lakatošová](../../tymy/PO/2017/10/daniela-lakatosova/)   |           0.00 |                  750.00 |
-| PO    | [Daniel Lebduška](../../tymy/PO/2017/10/daniel-lebduska/)         |           0.00 |                 9000.00 |
-| PO    | [Samuel Machat](../../tymy/PO/2017/10/samuel-machat/)             |          91.00 |                 6300.00 |
-| PO    | [Yveta Matínková](../../tymy/PO/2017/10/yveta-matinkova/)         |           0.00 |                 9000.00 |
+| PO    | [Michal Jokeš](../../tymy/PO/2017/10/michal-jokes/)               |           0.00 |                28454.00 |
+| PO    | [Michaela Kleslová](../../tymy/PO/2017/10/michaela-kleslova/)     |          91.00 |                 9900.00 |
+| PO    | [Daniela Lakatošová](../../tymy/PO/2017/10/daniela-lakatosova/)   |           0.00 |                    0.00 |
+| PO    | [Daniel Lebduška](../../tymy/PO/2017/10/daniel-lebduska/)         |           0.00 |                16045.00 |
+| PO    | [Samuel Machat](../../tymy/PO/2017/10/samuel-machat/)             |          91.00 |                 7300.00 |
+| PO    | [Yveta Matínková](../../tymy/PO/2017/10/yveta-matinkova/)         |           0.00 |                10000.00 |
 | PO    | [Jan Novák](../../tymy/PO/2017/10/jan-novak/)                     |         153.00 |                18937.00 |
-| PO    | [Zuzana Petrůvová](../../tymy/PO/2017/10/zuzana-petruvova/)       |           0.00 |                 6300.00 |
-| PO    | [Barbora Přibylová](../../tymy/PO/2017/10/barbora-pribylova/)     |           0.00 |                 9000.00 |
-| PO    | [Jana Rohová](../../tymy/PO/2017/10/jana-rohova/)                 |         187.00 |                11700.00 |
-| PO    | [Michaela Vodová](../../tymy/PO/2017/10/michaela-vodova/)         |           0.00 |                 9000.00 |
-| PO    | [Miloš Zmeškal](../../tymy/PO/2017/10/milos-zmeskal/)             |         114.00 |                 9000.00 |
-| PO    | [Jakub Zítko](../../tymy/PO/2017/10/jakub-zitko/)                 |           0.00 |                 9000.00 |
-| PO    | [Pavel Šrámek](../../tymy/PO/2017/10/pavel-sramek/)               |           0.00 |                 9000.00 |
+| PO    | [Zuzana Petrůvová](../../tymy/PO/2017/10/zuzana-petruvova/)       |           0.00 |                 9900.00 |
+| PO    | [Barbora Přibylová](../../tymy/PO/2017/10/barbora-pribylova/)     |           0.00 |                10000.00 |
+| PO    | [Jana Rohová](../../tymy/PO/2017/10/jana-rohova/)                 |         187.00 |                27700.00 |
+| PO    | [Michaela Vodová](../../tymy/PO/2017/10/michaela-vodova/)         |           0.00 |                27500.00 |
+| PO    | [Miloš Zmeškal](../../tymy/PO/2017/10/milos-zmeskal/)             |         114.00 |                10000.00 |
+| PO    | [Jakub Zítko](../../tymy/PO/2017/10/jakub-zitko/)                 |           0.00 |                10000.00 |
+| PO    | [Pavel Šrámek](../../tymy/PO/2017/10/pavel-sramek/)               |           0.00 |                14636.00 |
 | MO    | [Albert Diok](../../tymy/MO/2017/10/albert-diok/)                 |           0.00 |                    0.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/10/jakub-dusanek/)             |         144.00 |                15684.00 |
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/10/mikulas-ferjencik/)     |           0.00 |                 5500.00 |
@@ -67,7 +67,7 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 167550.00 |
+| Centrála             | Mzdy a odměny                              | 253616.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  48657.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  27330.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  20352.00 |
