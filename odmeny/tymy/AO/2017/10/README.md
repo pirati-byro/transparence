@@ -17,9 +17,9 @@ Období:                  | 2017-10
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Tobias Esner](tobias-esner/)           |                16935.00 |
-| [Elizabet Kovačeva](elizabet-kovaceva/) |                 4830.00 |
-| [Martin Kučera](martin-kucera/)         |                 1710.00 |
+| [Tobias Esner](tobias-esner/)           |                21000.00 |
+| [Elizabet Kovačeva](elizabet-kovaceva/) |                 6330.00 |
+| [Martin Kučera](martin-kucera/)         |                10090.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

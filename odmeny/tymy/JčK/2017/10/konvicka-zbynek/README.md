@@ -32,7 +32,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 |:----------------------------------|--------------:|
 | **Celkem v uvedených projektech** |          0.00 |
 
-Smlouva se vztahuje na všechny projekty. 
+
+Smlouva se vztahuje pouze na čas vykázaný v rámci projektu Mediální odbor JčK. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
+
 
 Můžete si zobrazit plný [přehled plněných úkolů][tasklist].
 Slovní hodnocení je ve [zvláštním úkolu][hodnoceni].

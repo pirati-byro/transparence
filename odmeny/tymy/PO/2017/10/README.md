@@ -20,14 +20,14 @@ Období:                  | 2017-10
 | [Daniela Bílá](daniela-bila/)             |                 2700.00 |
 | [Michal Gill](michal-gill/)               |                17000.00 |
 | [Markéta Gregorová](marketa-gregorova/)   |                23000.00 |
-| [Barbora Hradečná](barbora-hradecna/)     |                 9500.00 |
+| [Barbora Hradečná](barbora-hradecna/)     |                15500.00 |
 | [Michal Jokeš](michal-jokes/)             |                15000.00 |
 | [Michaela Kleslová](michaela-kleslova/)   |                 6300.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                  750.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                 9000.00 |
 | [Samuel Machat](samuel-machat/)           |                 6300.00 |
 | [Yveta Matínková](yveta-matinkova/)       |                 9000.00 |
-| [Jan Novák](jan-novak/)                   |                14937.00 |
+| [Jan Novák](jan-novak/)                   |                18937.00 |
 | [Zuzana Petrůvová](zuzana-petruvova/)     |                 6300.00 |
 | [Barbora Přibylová](barbora-pribylova/)   |                 9000.00 |
 | [Jana Rohová](jana-rohova/)               |                11700.00 |
