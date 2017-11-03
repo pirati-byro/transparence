@@ -30,16 +30,17 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                            |   Počet hodin |
 |:----------------------------------------|--------------:|
-| **[Jihočeský kraj][p67]**               |        171.40 |
-| [#6069 Akce Jčk][t6069]                 |        108.80 |
-| [#5179 komunikace v rámci kraje][t5179] |         24.20 |
-| [#5005 administrativa JčK][t5005]       |         21.80 |
-| [#5006 mediální výstupy][t5006]         |          7.20 |
+| **[Jihočeský kraj][p67]**               |        178.20 |
+| [#6069 Akce Jčk][t6069]                 |        109.00 |
+| [#5179 komunikace v rámci kraje][t5179] |         28.20 |
+| [#5005 administrativa JčK][t5005]       |         23.80 |
+| [#5006 mediální výstupy][t5006]         |          7.70 |
 | [#5128 zpravodaj JčK][t5128]            |          3.50 |
+| **[Personální odbor][p45]**             |         21.50 |
+| [#5050 KoDo s PO][t5050]                |         15.80 |
 | **[Středočeský kraj][p48]**             |          6.50 |
 | [#6633 administrace SčK][t6633]         |          6.50 |
-| **[Personální odbor][p45]**             |          6.20 |
-| **Celkem v uvedených projektech**       |        184.15 |
+| **Celkem v uvedených projektech**       |        206.20 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -56,10 +57,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  25.00 hod/týdně = 110.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    | 184.15 hod
+Skutečně odvedená práce dle smlouvy    | 206.20 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                | 184.15 hod
-**Procento vytížení**                  |  167 %
+**Celkový počet hodin**                | 206.20 hod
+**Procento vytížení**                  |  187 %
 
 Odměna
 ------
@@ -117,11 +118,13 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t5128]: https://redmine.pirati.cz/issues/5128/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
 
+[p45]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=45
+
+[t5050]: https://redmine.pirati.cz/issues/5050/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
+
 [p48]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=48
 
 [t6633]: https://redmine.pirati.cz/issues/6633/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
-
-[p45]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=45
 
 
 

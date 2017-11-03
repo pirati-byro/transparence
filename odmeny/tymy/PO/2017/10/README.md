@@ -27,7 +27,7 @@ Období:                  | 2017-10
 | [Daniel Lebduška](daniel-lebduska/)       |                 9000.00 |
 | [Samuel Machat](samuel-machat/)           |                 6300.00 |
 | [Yveta Matínková](yveta-matinkova/)       |                 9000.00 |
-| [Jan Novák](jan-novak/)                   |                11224.00 |
+| [Jan Novák](jan-novak/)                   |                14937.00 |
 | [Zuzana Petrůvová](zuzana-petruvova/)     |                 6300.00 |
 | [Barbora Přibylová](barbora-pribylova/)   |                 9000.00 |
 | [Jana Rohová](jana-rohova/)               |                11700.00 |

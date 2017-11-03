@@ -64,7 +64,7 @@ Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
 Paušální odměna                        | 23000.00 Kč
 Hodinová odměna                        |     0.00 Kč/hod
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  2000.00 Kč
 Odpočet                                |     0.00 Kč
 
 ### Skutečná odměna podle odvedené práce

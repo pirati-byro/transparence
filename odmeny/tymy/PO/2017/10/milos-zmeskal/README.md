@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                        |   Počet hodin |
 |:----------------------------------------------------|--------------:|
-| **[Personální odbor][p45]**                         |         60.00 |
-| [#5231 Odměňování krajský koordinátor - OlK][t5231] |         60.00 |
-| **Celkem v uvedených projektech**                   |         60.00 |
+| **[Personální odbor][p45]**                         |        100.00 |
+| [#5231 Odměňování krajský koordinátor - OlK][t5231] |        100.00 |
+| **Celkem v uvedených projektech**                   |        100.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,10 +49,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  88.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  60.00 hod
+Skutečně odvedená práce dle smlouvy    | 100.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  60.00 hod
-**Procento vytížení**                  |   68 %
+**Celkový počet hodin**                | 100.00 hod
+**Procento vytížení**                  |  114 %
 
 Odměna
 ------

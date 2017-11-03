@@ -1,5 +1,5 @@
 Česká pirátská strana  
-republikové předsednictvo
+Jihočeský kraj
 
 Týmový výkaz odměňování
 ===========================
@@ -8,17 +8,16 @@ V tomtu výkazu zveřejňujeme základní informace o vykonané práci a odměň
 za určitý tým. Výkaz je sestaven podle [metodiky odměňování][metodika],
 která obsahuje podrobnosti. U všech členů týmu je uveden odkaz na podrobný osobní výkaz.
 
-Tým:                     | republikové předsednictvo
+Tým:                     | Jihočeský kraj
 -----------------------  | --------------------
 Období:                  | 2017-10
 
 Členové týmu
 --------------
 
-| Jméno a příjmení                |   Odměna od strany (Kč) |
-|:--------------------------------|------------------------:|
-| [Vojtěch Pikal](vojtech-pikal/) |                 1880.00 |
-| [Vít Šimral](vit-simral/)       |                 8798.00 |
+| Jméno a příjmení                    |   Odměna od strany (Kč) |
+|:------------------------------------|------------------------:|
+| [Konvička Zbyněk](konvicka-zbynek/) |                 1500.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
