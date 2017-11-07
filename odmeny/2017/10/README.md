@@ -50,7 +50,7 @@ Seznam lidí
 | Pha   | [Pohanková Soňa](../../tymy/Pha/2017/10/pohankova-sona/)          |         100.00 |                    0.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/10/adam-zabransky/)          |          74.00 |                 4013.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/10/martin-jiranek/)          |           0.00 |                 6666.00 |
-| KvK   | [Pavlovic Josef](../../tymy/KvK/2017/10/pavlovic-josef/)          |           0.00 |                 8000.00 |
+| KvK   | [Pavlovic Josef](../../tymy/KvK/2017/10/pavlovic-josef/)          |           0.00 |                11000.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/10/viktorie-kalhousova/) |         100.00 |                 1360.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/10/adam-kudrlicka/)           |         100.00 |                  960.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/10/vojtech-pikal/)             |           9.00 |                 5380.00 |

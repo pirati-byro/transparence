@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Yveta Matínková
 -----------------------                | --------------------
 Funkce:                                | krajský koordinátor - Zlínský kraj
 Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 7. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 2. 10. 2017][smlouva]
 Období:                                | 2017-10
 
 

@@ -17,7 +17,7 @@ Období:                  | 2017-10
 
 | Jméno a příjmení                  |   Odměna od strany (Kč) |
 |:----------------------------------|------------------------:|
-| [Pavlovic Josef](pavlovic-josef/) |                 8000.00 |
+| [Pavlovic Josef](pavlovic-josef/) |                11000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
