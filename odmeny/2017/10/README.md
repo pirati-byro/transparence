@@ -26,7 +26,7 @@ Seznam lidí
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/10/daniela-lakatosova/)   |           0.00 |                    0.00 |
 | PO    | [Daniel Lebduška](../../tymy/PO/2017/10/daniel-lebduska/)         |           0.00 |                16045.00 |
 | PO    | [Samuel Machat](../../tymy/PO/2017/10/samuel-machat/)             |          91.00 |                 7300.00 |
-| PO    | [Yveta Matínková](../../tymy/PO/2017/10/yveta-matinkova/)         |           0.00 |                10000.00 |
+| PO    | [Yveta Matínková](../../tymy/PO/2017/10/yveta-matinkova/)         |           0.00 |                23190.00 |
 | PO    | [Jan Novák](../../tymy/PO/2017/10/jan-novak/)                     |         153.00 |                18937.00 |
 | PO    | [Zuzana Petrůvová](../../tymy/PO/2017/10/zuzana-petruvova/)       |           0.00 |                 9900.00 |
 | PO    | [Barbora Přibylová](../../tymy/PO/2017/10/barbora-pribylova/)     |           0.00 |                10000.00 |
@@ -67,7 +67,7 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 253616.00 |
+| Centrála             | Mzdy a odměny                              | 266806.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  48657.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  27330.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  20352.00 |

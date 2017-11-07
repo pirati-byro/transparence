@@ -74,10 +74,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  9000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |  1000.00 Kč
-Mimořádná odměna                       |     0.00 Kč
+Úkolová odměna                         |  5000.00 Kč
+Mimořádná odměna                       |  9190.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 10000.00 Kč
+**Celková odměna**                     | 23190.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -100,4 +100,4 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=339
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/07/01/kk-zlk-martinkova/
+[smlouva]: nan
