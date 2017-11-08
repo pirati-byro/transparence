@@ -1,5 +1,5 @@
 Česká pirátská strana  
-personální odbor
+Jihočeský kraj
 
 Osobní výkaz odměňování
 =======================
@@ -13,11 +13,11 @@ stanovených v metodice mohou být některé úkoly v projektovém systému neve
 Odměňovaný
 ----------
 
-Jméno a příjmení:                      | Yveta Matínková
+Jméno a příjmení:                      | Zbyněk Konvička
 -----------------------                | --------------------
-Funkce:                                | krajský koordinátor - Zlínský kraj
-Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 2. 10. 2017][smlouva]
+Funkce:                                | Vedoucí Mediálního odboru JčK
+Tým:                                   | Jihočeský kraj
+Smlouva:                               | [smlouva ze dne 1. 10. 2017][smlouva]
 Období:                                | 2017-10
 
 
@@ -30,9 +30,12 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                      |   Počet hodin |
 |:----------------------------------|--------------:|
-| **Celkem v uvedených projektech** |          0.00 |
+| **[Mediální odbor jčk][p17]**     |         22.50 |
+| **Celkem v uvedených projektech** |         22.50 |
 
-Smlouva se vztahuje na všechny projekty. 
+
+Smlouva se vztahuje pouze na čas vykázaný v rámci projektu Mediální odbor JčK. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
+
 
 Můžete si zobrazit plný [přehled plněných úkolů][tasklist].
 Slovní hodnocení je ve [zvláštním úkolu][hodnoceni].
@@ -46,11 +49,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |  20.00 hod/týdně =  88.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   0.00 hod
+Odhadnutý rozsah práce                 |  10.00 hod/týdně =  44.00 hod/měs.
+Skutečně odvedená práce dle smlouvy    |  22.50 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   0.00 hod
-**Procento vytížení**                  |    0 %
+**Celkový počet hodin**                |  22.50 hod
+**Procento vytížení**                  |   51 %
 
 Odměna
 ------
@@ -62,22 +65,22 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        |  9000.00 Kč
-Hodinová odměna                        |     0.00 Kč/hod
-Úkolová odměna                         |  5000.00 Kč
+Paušální odměna                        |  1500.00 Kč
+Hodinová odměna                        |   100.00 Kč/hod
+Úkolová odměna                         |  3000.00 Kč
 Odpočet                                |     0.00 Kč
 
 ### Skutečná odměna podle odvedené práce
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        |  9000.00 Kč
-Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
+Paušální odměna                        |  1500.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  2250.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |  5000.00 Kč
-Mimořádná odměna                       |  9190.00 Kč
+Úkolová odměna                         |     0.00 Kč
+Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 23190.00 Kč
+**Celková odměna**                     |  3750.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -96,8 +99,10 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
+[p17]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=3&v[user_id][]=6&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=17
 
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=339
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/10/02/zl-kk-martinkova-2/
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=362
+
+[smlouva]: nan

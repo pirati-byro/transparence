@@ -1,5 +1,5 @@
 Česká pirátská strana  
-personální odbor
+Ústecký kraj
 
 Osobní výkaz odměňování
 =======================
@@ -13,11 +13,11 @@ stanovených v metodice mohou být některé úkoly v projektovém systému neve
 Odměňovaný
 ----------
 
-Jméno a příjmení:                      | Yveta Matínková
+Jméno a příjmení:                      | Adam Komenda
 -----------------------                | --------------------
-Funkce:                                | krajský koordinátor - Zlínský kraj
-Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 2. 10. 2017][smlouva]
+Funkce:                                | administrativec PKS UsK
+Tým:                                   | Ústecký kraj
+Smlouva:                               | [smlouva ze dne 10. 10. 2017][smlouva]
 Období:                                | 2017-10
 
 
@@ -46,11 +46,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |  20.00 hod/týdně =  88.00 hod/měs.
+Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
 Skutečně odvedená práce dle smlouvy    |   0.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
 **Celkový počet hodin**                |   0.00 hod
-**Procento vytížení**                  |    0 %
+**Procento vytížení**                  |  100 %
 
 Odměna
 ------
@@ -62,22 +62,22 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        |  9000.00 Kč
+Paušální odměna                        | 10000.00 Kč
 Hodinová odměna                        |     0.00 Kč/hod
-Úkolová odměna                         |  5000.00 Kč
+Úkolová odměna                         |     0.00 Kč
 Odpočet                                |     0.00 Kč
 
 ### Skutečná odměna podle odvedené práce
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        |  9000.00 Kč
+Paušální odměna                        | 10000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |  5000.00 Kč
-Mimořádná odměna                       |  9190.00 Kč
-Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 23190.00 Kč
+Úkolová odměna                         |     0.00 Kč
+Mimořádná odměna                       |     0.00 Kč
+Odpočet                                |  3333.00 Kč
+**Celková odměna**                     |  6667.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -98,6 +98,6 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=339
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=405
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/10/02/zl-kk-martinkova-2/
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/10/10/komenda/

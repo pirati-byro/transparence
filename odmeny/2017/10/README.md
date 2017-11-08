@@ -46,17 +46,18 @@ Seznam lidí
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/10/mikulas-ferjencik/)    |           0.00 |                    0.00 |
 | Pha   | [Michaela Krausová](../../tymy/Pha/2017/10/michaela-krausova/)    |         127.00 |                14560.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/10/jakub-michalek/)          |           0.00 |                    0.00 |
-| Pha   | [Ondřej Profant](../../tymy/Pha/2017/10/ondrej-profant/)          |           4.00 |                  358.00 |
-| Pha   | [Pohanková Soňa](../../tymy/Pha/2017/10/pohankova-sona/)          |         100.00 |                    0.00 |
+| Pha   | [Soňa Pohanková](../../tymy/Pha/2017/10/sona-pohankova/)          |         100.00 |                    0.00 |
+| Pha   | [Ondřej Profant](../../tymy/Pha/2017/10/ondrej-profant/)          |          37.00 |                 3185.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/10/adam-zabransky/)          |          74.00 |                 4013.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/10/martin-jiranek/)          |           0.00 |                 6666.00 |
-| KvK   | [Pavlovic Josef](../../tymy/KvK/2017/10/pavlovic-josef/)          |           0.00 |                11000.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/10/viktorie-kalhousova/) |         100.00 |                 1360.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/10/adam-kudrlicka/)           |         100.00 |                  960.00 |
+| UsK   | [Adam Komenda](../../tymy/UsK/2017/10/adam-komenda/)              |         100.00 |                 6667.00 |
+| JčK   | [Zbyněk Konvička](../../tymy/JčK/2017/10/zbynek-konvicka/)        |          51.00 |                 3750.00 |
+| KvK   | [Josef Pavlovic](../../tymy/KvK/2017/10/josef-pavlovic/)          |          31.00 |                11000.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/10/vojtech-pikal/)             |           9.00 |                 5380.00 |
 | RP    | [Vít Šimral](../../tymy/RP/2017/10/vit-simral/)                   |         145.00 |                 8798.00 |
 | TO    | [Ondřej Profant](../../tymy/TO/2017/10/ondrej-profant/)           |           2.00 |                 1550.00 |
-| JčK   | [Konvička Zbyněk](../../tymy/JčK/2017/10/konvicka-zbynek/)        |           0.00 |                 1500.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -74,10 +75,10 @@ Rozpis podle týmů
 | Centrála             | Provozní výdaje předsednictva              |   8798.00 |
 | Centrála             | Volební kampaň do sněmovny                 |   8500.00 |
 | Centrála             | Výdaje na právní záležitosti               |   2320.00 |
-| Jihočeský kraj       | Mediální odbor Jihočeský kraj              |   1500.00 |
+| Jihočeský kraj       | Mediální odbor Jihočeský kraj              |   3750.00 |
 | Královehradecký kraj | Příspěvek na činnost krajského zastupitele |   6666.00 |
 | Praha                | Koordinace dobrovolníků                    |  14560.00 |
-| Praha                | Odměny zastupitelů                         |   4371.00 |
+| Praha                | Odměny zastupitelů                         |   7198.00 |
 
 Strojově čitelná data
 -------------------
