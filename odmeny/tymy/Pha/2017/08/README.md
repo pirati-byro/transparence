@@ -20,8 +20,8 @@ Období:                  | 2017-08
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 5160.00 |
 | [Michaela Krausová](michaela-krausova/) |                18070.00 |
 | [Jakub Michálek](jakub-michalek/)       |                 8854.00 |
+| [Soňa Pohanková](sona-pohankova/)       |                    0.00 |
 | [Ondřej Profant](ondrej-profant/)       |                 4534.00 |
-| [Pohanková Soňa](pohankova-sona/)       |                    0.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 1364.00 |
 
 

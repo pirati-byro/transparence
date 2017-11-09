@@ -21,7 +21,7 @@ Seznam lidí
 | PO    | [Michal Gill](../../tymy/PO/2017/08/michal-gill/)                 |           0.00 |                21500.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/08/barbora-hradecna/)       |           0.00 |                14000.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/08/michal-jokes/)               |           0.00 |                22704.00 |
-| PO    | [Michaela Kleslová](../../tymy/PO/2017/08/michaela-kleslova/)     |           0.00 |                10000.00 |
+| PO    | [Michaela Kleslová](../../tymy/PO/2017/08/michaela-kleslova/)     |          87.00 |                10000.00 |
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/08/daniela-lakatosova/)   |          40.00 |                 1610.00 |
 | PO    | [Daniel Lebduška](../../tymy/PO/2017/08/daniel-lebduska/)         |           0.00 |                12450.00 |
 | PO    | [Yveta Matínková](../../tymy/PO/2017/08/yveta-matinkova/)         |           0.00 |                10000.00 |
@@ -43,13 +43,13 @@ Seznam lidí
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/08/mikulas-ferjencik/)    |          46.00 |                 5160.00 |
 | Pha   | [Michaela Krausová](../../tymy/Pha/2017/08/michaela-krausova/)    |         151.00 |                18070.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/08/jakub-michalek/)          |          76.00 |                 8854.00 |
+| Pha   | [Soňa Pohanková](../../tymy/Pha/2017/08/sona-pohankova/)          |         100.00 |                    0.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/08/ondrej-profant/)          |          37.00 |                 4534.00 |
-| Pha   | [Pohanková Soňa](../../tymy/Pha/2017/08/pohankova-sona/)          |         100.00 |                    0.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/08/adam-zabransky/)          |          16.00 |                 1364.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/08/martin-jiranek/)          |          12.00 |                 6666.00 |
-| KvK   | [Pavlovic Josef](../../tymy/KvK/2017/08/pavlovic-josef/)          |           0.00 |                 8000.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/08/viktorie-kalhousova/) |         100.00 |                  800.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/08/adam-kudrlicka/)           |         100.00 |                    0.00 |
+| KvK   | [Josef Pavlovic](../../tymy/KvK/2017/08/josef-pavlovic/)          |          13.00 |                11000.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/08/vojtech-pikal/)             |          11.00 |                 5740.00 |
 | RP    | [Vít Šimral](../../tymy/RP/2017/08/vit-simral/)                   |         116.00 |                10859.00 |
 | TO    | [Ondřej Profant](../../tymy/TO/2017/08/ondrej-profant/)           |         139.00 |                 7340.00 |
