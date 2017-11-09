@@ -20,8 +20,8 @@ Období:                  | 2017-09
 | [Mikuláš Ferjenčík](mikulas-ferjencik/) |                 3500.00 |
 | [Michaela Krausová](michaela-krausova/) |                20150.00 |
 | [Jakub Michálek](jakub-michalek/)       |                 4500.00 |
+| [Soňa Pohanková](sona-pohankova/)       |                    0.00 |
 | [Ondřej Profant](ondrej-profant/)       |                10004.00 |
-| [Pohanková Soňa](pohankova-sona/)       |                    0.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 5156.00 |
 
 

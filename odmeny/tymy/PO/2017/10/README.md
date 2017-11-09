@@ -18,6 +18,7 @@ Období:                  | 2017-10
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
 | [Daniela Bílá](daniela-bila/)             |                 6000.00 |
+| [Martin Duška](martin-duska/)             |                10000.00 |
 | [Michal Gill](michal-gill/)               |                25681.00 |
 | [Markéta Gregorová](marketa-gregorova/)   |                25000.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                15500.00 |

@@ -18,11 +18,12 @@ Seznam lidí
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/09/jaromir-beranek/)         |           0.00 |                 4800.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/09/daniela-bila/)               |         144.00 |                 4200.00 |
+| PO    | [Martin Duška](../../tymy/PO/2017/09/martin-duska/)               |           0.00 |                10000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/09/michal-gill/)                 |           0.00 |                23500.00 |
 | PO    | [Markéta Gregorová](../../tymy/PO/2017/09/marketa-gregorova/)     |         105.00 |                25000.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/09/barbora-hradecna/)       |           0.00 |                15500.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/09/michal-jokes/)               |           0.00 |                27500.00 |
-| PO    | [Michaela Kleslová](../../tymy/PO/2017/09/michaela-kleslova/)     |           0.00 |                10000.00 |
+| PO    | [Michaela Kleslová](../../tymy/PO/2017/09/michaela-kleslova/)     |         100.00 |                10000.00 |
 | PO    | [Daniela Lakatošová](../../tymy/PO/2017/09/daniela-lakatosova/)   |           2.00 |                   87.00 |
 | PO    | [Daniel Lebduška](../../tymy/PO/2017/09/daniel-lebduska/)         |           0.00 |                18000.00 |
 | PO    | [Samuel Machat](../../tymy/PO/2017/09/samuel-machat/)             |         100.00 |                 7300.00 |
@@ -46,13 +47,13 @@ Seznam lidí
 | Pha   | [Mikuláš Ferjenčík](../../tymy/Pha/2017/09/mikulas-ferjencik/)    |           0.00 |                 3500.00 |
 | Pha   | [Michaela Krausová](../../tymy/Pha/2017/09/michaela-krausova/)    |         194.00 |                20150.00 |
 | Pha   | [Jakub Michálek](../../tymy/Pha/2017/09/jakub-michalek/)          |           0.00 |                 4500.00 |
+| Pha   | [Soňa Pohanková](../../tymy/Pha/2017/09/sona-pohankova/)          |         100.00 |                    0.00 |
 | Pha   | [Ondřej Profant](../../tymy/Pha/2017/09/ondrej-profant/)          |          84.00 |                10004.00 |
-| Pha   | [Pohanková Soňa](../../tymy/Pha/2017/09/pohankova-sona/)          |         100.00 |                    0.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2017/09/adam-zabransky/)          |          41.00 |                 5156.00 |
 | KhK   | [Martin Jiránek](../../tymy/KhK/2017/09/martin-jiranek/)          |          60.00 |                 6666.00 |
-| KvK   | [Pavlovic Josef](../../tymy/KvK/2017/09/pavlovic-josef/)          |           0.00 |                 8000.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/09/viktorie-kalhousova/) |         100.00 |                    0.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/09/adam-kudrlicka/)           |         100.00 |                    0.00 |
+| KvK   | [Josef Pavlovic](../../tymy/KvK/2017/09/josef-pavlovic/)          |          82.00 |                11000.00 |
 | RP    | [Vojtěch Pikal](../../tymy/RP/2017/09/vojtech-pikal/)             |          10.00 |                 5590.00 |
 | RP    | [Vít Šimral](../../tymy/RP/2017/09/vit-simral/)                   |         125.00 |                10910.00 |
 | TO    | [Ondřej Profant](../../tymy/TO/2017/09/ondrej-profant/)           |         192.00 |                 8600.00 |
@@ -66,7 +67,7 @@ Rozpis podle týmů
 
 | Rozpočet             | Položka                                    |   Náklady |
 |:---------------------|:-------------------------------------------|----------:|
-| Centrála             | Mzdy a odměny                              | 245287.00 |
+| Centrála             | Mzdy a odměny                              | 255287.00 |
 | Centrála             | Odměny vedoucích za výkon funkce           |  47990.00 |
 | Centrála             | Provozní výdaje administrativního odboru   |  23600.00 |
 | Centrála             | Provozní výdaje mediálního odboru          |  20766.00 |
