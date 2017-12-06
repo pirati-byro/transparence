@@ -17,20 +17,20 @@ Období:                  | 2017-11
 
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
-| [Daniela Bílá](daniela-bila/)             |                10990.00 |
+| [Daniela Bílá](daniela-bila/)             |                10000.00 |
 | [Michal Gill](michal-gill/)               |                78760.00 |
 | [Aneta Heidlová](aneta-heidlova/)         |                 9900.00 |
-| [Barbora Hradečná](barbora-hradecna/)     |                 9500.00 |
+| [Barbora Hradečná](barbora-hradecna/)     |                57649.00 |
 | [Michal Jokeš](michal-jokes/)             |                95496.00 |
 | [Michaela Kleslová](michaela-kleslova/)   |                30822.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                  261.00 |
 | [Daniel Lebduška](daniel-lebduska/)       |                50133.00 |
 | [Samuel Machat](samuel-machat/)           |                20862.00 |
 | [Yveta Matínková](yveta-matinkova/)       |                52688.00 |
-| [Jan Novák](jan-novak/)                   |                14555.00 |
+| [Jan Novák](jan-novak/)                   |                16555.00 |
 | [Zuzana Petrůvová](zuzana-petruvova/)     |                25808.00 |
 | [Barbora Přibylová](barbora-pribylova/)   |                43676.00 |
-| [Jana Rohová](jana-rohova/)               |                75993.00 |
+| [Jana Rohová](jana-rohova/)               |                79493.00 |
 | [Michaela Vodová](michaela-vodova/)       |                73030.00 |
 | [Miloš Zmeškal](milos-zmeskal/)           |                48542.00 |
 | [Jakub Zítko](jakub-zitko/)               |                22708.00 |

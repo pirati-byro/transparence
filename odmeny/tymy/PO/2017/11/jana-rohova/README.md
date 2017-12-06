@@ -87,9 +87,9 @@ Paušální odměna                        | 11700.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |  5000.00 Kč
-Mimořádná odměna                       | 59293.00 Kč
+Mimořádná odměna                       | 62793.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 75993.00 Kč
+**Celková odměna**                     | 79493.00 Kč
 
 
 ### Odměna od jiných subjektů
