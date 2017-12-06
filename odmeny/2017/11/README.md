@@ -19,6 +19,7 @@ Seznam lidí
 | FO    | [Jaromír Beránek](../../tymy/FO/2017/11/jaromir-beranek/)         |           0.00 |                11000.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/11/daniela-bila/)               |           0.00 |                10000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/11/michal-gill/)                 |           0.00 |                78760.00 |
+| PO    | [Markéta Gregorová](../../tymy/PO/2017/11/marketa-gregorova/)     |         105.00 |                23000.00 |
 | PO    | [Aneta Heidlová](../../tymy/PO/2017/11/aneta-heidlova/)           |           0.00 |                 9900.00 |
 | PO    | [Barbora Hradečná](../../tymy/PO/2017/11/barbora-hradecna/)       |           0.00 |                57649.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2017/11/michal-jokes/)               |           0.00 |                95496.00 |
@@ -33,11 +34,11 @@ Seznam lidí
 | PO    | [Jana Rohová](../../tymy/PO/2017/11/jana-rohova/)                 |         126.00 |                79493.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2017/11/michaela-vodova/)         |           0.00 |                73030.00 |
 | PO    | [Miloš Zmeškal](../../tymy/PO/2017/11/milos-zmeskal/)             |           0.00 |                48542.00 |
-| PO    | [Jakub Zítko](../../tymy/PO/2017/11/jakub-zitko/)                 |           0.00 |                22708.00 |
+| PO    | [Jakub Zítko](../../tymy/PO/2017/11/jakub-zitko/)                 |           0.00 |                10000.00 |
 | PO    | [Pavel Šrámek](../../tymy/PO/2017/11/pavel-sramek/)               |           0.00 |                29617.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/11/jakub-dusanek/)             |           1.00 |                   92.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/11/roman-kucera/)               |          82.00 |                 6302.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/11/tobias-esner/)               |         288.00 |                24933.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/11/tobias-esner/)               |         288.00 |                34500.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/11/elizabet-kovaceva/)     |          30.00 |                 4100.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/11/martin-kucera/)             |         181.00 |                12610.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/11/viktorie-kalhousova/) |         100.00 |                 1600.00 |
@@ -58,9 +59,9 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                  |   Náklady |
 |:---------------|:-----------------------------------------|----------:|
-| Centrála       | Mzdy a odměny                            | 685769.00 |
+| Centrála       | Mzdy a odměny                            | 696061.00 |
 | Centrála       | Odměny vedoucích za výkon funkce         |  40165.00 |
-| Centrála       | Provozní výdaje administrativního odboru |  29033.00 |
+| Centrála       | Provozní výdaje administrativního odboru |  38600.00 |
 | Centrála       | Provozní výdaje mediálního odboru        |   6394.00 |
 | Centrála       | Provozní výdaje předsednictva            |   1208.00 |
 | Centrála       | Výdaje na právní záležitosti             |   1600.00 |

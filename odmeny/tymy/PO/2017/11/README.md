@@ -19,6 +19,7 @@ Období:                  | 2017-11
 |:------------------------------------------|------------------------:|
 | [Daniela Bílá](daniela-bila/)             |                10000.00 |
 | [Michal Gill](michal-gill/)               |                78760.00 |
+| [Markéta Gregorová](marketa-gregorova/)   |                23000.00 |
 | [Aneta Heidlová](aneta-heidlova/)         |                 9900.00 |
 | [Barbora Hradečná](barbora-hradecna/)     |                57649.00 |
 | [Michal Jokeš](michal-jokes/)             |                95496.00 |
@@ -33,7 +34,7 @@ Období:                  | 2017-11
 | [Jana Rohová](jana-rohova/)               |                79493.00 |
 | [Michaela Vodová](michaela-vodova/)       |                73030.00 |
 | [Miloš Zmeškal](milos-zmeskal/)           |                48542.00 |
-| [Jakub Zítko](jakub-zitko/)               |                22708.00 |
+| [Jakub Zítko](jakub-zitko/)               |                10000.00 |
 | [Pavel Šrámek](pavel-sramek/)             |                29617.00 |
 
 
