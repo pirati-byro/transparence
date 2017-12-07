@@ -30,17 +30,17 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                              |   Počet hodin |
 |:------------------------------------------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p25]**                                                    |         84.20 |
+| **[Zastupitelstvo hl. m. prahy][p33]**                                                    |         84.20 |
 | [#165 Mediální výstupy][t165]                                                             |         15.20 |
 | [#7544 Zasedání zastupitelstva 14. 9. 2017][t7544]                                        |         15.00 |
 | [#597 E-mailová komunikace][t597]                                                         |          9.90 |
-| [#8275 Kauza směny pozemků Praha vs FAČR a ČSÚ][t8275]                                    |          7.20 |
+| [#8275 Kauza Strahov - směna pozemků Praha vs FAČR a ČSÚ][t8275]                          |          7.20 |
 | [#279 Kontakt s občany][t279]                                                             |          4.50 |
 | [#914 Vykazování úkolů][t914]                                                             |          3.80 |
 | [#8192 Zasedání zastupitelstva 2. 11. 2017][t8192]                                        |          3.50 |
 | [#716 Výbor pro legislativu, veřejnou správu, protikorupční opatření a informatiku][t716] |          3.10 |
 | [#184 Rada hl. m. Prahy (RHMP)][t184]                                                     |          3.00 |
-| **[Parlamentní tým][p38]**                                                                |          9.20 |
+| **[Parlamentní tým][p45]**                                                                |          9.20 |
 | [#3379 Program pro sněmovní volby 2017][t3379]                                            |          9.20 |
 | **[Pražská kampaň - sněmovní volby 2017][p16]**                                           |          3.70 |
 | [#6519 PR a prezentace pražské kampaně][t6519]                                            |          3.70 |
@@ -88,10 +88,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  4351.75 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  4000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |   339.00 Kč
-**Celková odměna**                     |  4012.75 Kč
+**Celková odměna**                     |  8012.75 Kč
 
 
 ### Odměna od jiných subjektů
@@ -117,7 +117,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p25]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=25
+[p33]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=33
 
 [t165]: https://redmine.pirati.cz/issues/165/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=1&v[user_id][]=6
 
@@ -137,7 +137,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t184]: https://redmine.pirati.cz/issues/184/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=1&v[user_id][]=6
 
-[p38]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=38
+[p45]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=1&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=45
 
 [t3379]: https://redmine.pirati.cz/issues/3379/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=1&v[user_id][]=6
 

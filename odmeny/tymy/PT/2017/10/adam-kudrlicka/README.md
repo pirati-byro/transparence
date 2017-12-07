@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                           |   Počet hodin |
 |:---------------------------------------|--------------:|
-| **[Právní tým][p74]**                  |          8.00 |
+| **[Právní tým][p78]**                  |          8.00 |
 | [#8187 Stížnost volby PSP 2017][t8187] |          6.00 |
 | **Celkem v uvedených projektech**      |          8.00 |
 
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p74]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=4&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=74
+[p78]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=4&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=78
 
 [t8187]: https://redmine.pirati.cz/issues/8187/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=4&v[user_id][]=4
 

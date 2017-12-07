@@ -30,8 +30,8 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                      |   Počet hodin |
 |:----------------------------------|--------------:|
-| **[Finanční odbor][p31]**         |          3.50 |
-| **[Administrativní odbor][p51]**  |          0.30 |
+| **[Finanční odbor][p38]**         |          3.50 |
+| **[Administrativní odbor][p57]**  |          0.30 |
 | **Celkem v uvedených projektech** |          3.80 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -98,9 +98,9 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p31]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=6&v[user_id][]=9&f[]=project_id&op[project_id]==&v[project_id][]=31
+[p38]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=6&v[user_id][]=9&f[]=project_id&op[project_id]==&v[project_id][]=38
 
-[p51]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=6&v[user_id][]=9&f[]=project_id&op[project_id]==&v[project_id][]=51
+[p57]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=6&v[user_id][]=9&f[]=project_id&op[project_id]==&v[project_id][]=57
 
 
 

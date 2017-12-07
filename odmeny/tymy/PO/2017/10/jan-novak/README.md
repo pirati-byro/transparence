@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                         |   Počet hodin |
 |:-----------------------------------------------------|--------------:|
-| **[Personální odbor][p45]**                          |        134.40 |
+| **[Personální odbor][p52]**                          |        134.40 |
 | [#5086 Úkoly vedoucího Po][t5086]                    |        109.00 |
 | [#6391 Status check update][t6391]                   |          7.50 |
 | [#4803 Úkoly a práce zástupkyně vedoucího PO][t4803] |          6.00 |
@@ -101,7 +101,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p45]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=3&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=45
+[p52]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=3&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=52
 
 [t5086]: https://redmine.pirati.cz/issues/5086/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=3&v[user_id][]=7
 

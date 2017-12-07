@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                |   Počet hodin |
 |:--------------------------------------------|--------------:|
-| **[Karlovarský kraj][p68]**                 |         27.50 |
+| **[Karlovarský kraj][p74]**                 |         27.50 |
 | [#6653 Zastupko KvK - Pepa Pavlovic][t6653] |         21.50 |
 | [#7547 Pirátské rozhovory][t7547]           |          6.00 |
 | **Celkem v uvedených projektech**           |         27.50 |
@@ -99,7 +99,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p68]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=6&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=68
+[p74]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=6&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=74
 
 [t6653]: https://redmine.pirati.cz/issues/6653/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2017-10-01&v[spent_on][]=2017-10-31&v[user_id][]=2&v[user_id][]=6&v[user_id][]=6
 
