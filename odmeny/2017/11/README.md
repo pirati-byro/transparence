@@ -44,7 +44,7 @@ Seznam lidí
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/11/viktorie-kalhousova/) |         100.00 |                 1600.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/11/adam-kudrlicka/)           |         100.00 |                    0.00 |
 | Pha   | [Romana Klimešová](../../tymy/Pha/2017/11/romana-klimesova/)      |         100.00 |                10000.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2017/11/adam-zabransky/)          |         104.00 |                 6779.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2017/11/adam-zabransky/)          |         104.00 |                11280.00 |
 | UsK   | [Adam Komenda](../../tymy/UsK/2017/11/adam-komenda/)              |         100.00 |                 3333.00 |
 | JčK   | [Zbyněk Konvička](../../tymy/JčK/2017/11/zbynek-konvicka/)        |          33.00 |                 2900.00 |
 | KvK   | [Josef Pavlovic](../../tymy/KvK/2017/11/josef-pavlovic/)          |           4.00 |                 8000.00 |
@@ -67,7 +67,7 @@ Rozpis podle týmů
 | Centrála       | Výdaje na právní záležitosti             |   1600.00 |
 | Centrála       | https://redmine.pirati.cz/issues/8672    |  43676.00 |
 | Jihočeský kraj | Mediální odbor Jihočeský kraj            |   2900.00 |
-| Praha          | Odměny zastupitelů                       |   6779.00 |
+| Praha          | Odměny zastupitelů                       |  11280.00 |
 
 Strojově čitelná data
 -------------------
