@@ -37,7 +37,7 @@ Seznam lidí
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/04/jakub-dusanek/)             |          94.00 |                 9210.00 |
 | MO    | [Petra Dvořáková](../../tymy/MO/2017/04/petra-dvorakova/)         |           0.00 |                    0.00 |
 | MO    | [Mikuláš Ferjenčík](../../tymy/MO/2017/04/mikulas-ferjencik/)     |         167.00 |                10500.00 |
-| MO    | [Roman Kučera](../../tymy/MO/2017/04/roman-kucera/)               |           1.00 |                   92.00 |
+| MO    | [Roman Kučera](../../tymy/MO/2017/04/roman-kucera/)               |           1.00 |                 5500.00 |
 | MO    | [Věra Marušiaková](../../tymy/MO/2017/04/vera-marusiakova/)       |          15.00 |                  966.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/04/tobias-esner/)               |         141.00 |                15100.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/04/elizabet-kovaceva/)     |         120.00 |                10458.00 |
