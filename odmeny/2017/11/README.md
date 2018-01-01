@@ -36,8 +36,8 @@ Seznam lidí
 | PO    | [Miloš Zmeškal](../../tymy/PO/2017/11/milos-zmeskal/)             |           0.00 |                48542.00 |
 | PO    | [Jakub Zítko](../../tymy/PO/2017/11/jakub-zitko/)                 |           0.00 |                10000.00 |
 | PO    | [Pavel Šrámek](../../tymy/PO/2017/11/pavel-sramek/)               |           0.00 |                29617.00 |
-| MO    | [Jakub Dušánek](../../tymy/MO/2017/11/jakub-dusanek/)             |           1.00 |                   92.00 |
-| MO    | [Roman Kučera](../../tymy/MO/2017/11/roman-kucera/)               |          82.00 |                 6302.00 |
+| MO    | [Jakub Dušánek](../../tymy/MO/2017/11/jakub-dusanek/)             |          77.00 |                 8980.00 |
+| MO    | [Roman Kučera](../../tymy/MO/2017/11/roman-kucera/)               |          82.00 |                 9302.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/11/tobias-esner/)               |         288.00 |                34500.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/11/elizabet-kovaceva/)     |          30.00 |                 4100.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/11/martin-kucera/)             |         181.00 |                12610.00 |
@@ -62,7 +62,7 @@ Rozpis podle týmů
 | Centrála       | Mzdy a odměny                            | 696061.00 |
 | Centrála       | Odměny vedoucích za výkon funkce         |  40165.00 |
 | Centrála       | Provozní výdaje administrativního odboru |  38600.00 |
-| Centrála       | Provozní výdaje mediálního odboru        |   6394.00 |
+| Centrála       | Provozní výdaje mediálního odboru        |  18282.00 |
 | Centrála       | Provozní výdaje předsednictva            |   1208.00 |
 | Centrála       | Výdaje na právní záležitosti             |   1600.00 |
 | Centrála       | https://redmine.pirati.cz/issues/8672    |  43676.00 |
