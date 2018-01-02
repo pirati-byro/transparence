@@ -1,27 +1,46 @@
 ,Projekt,Uživatel,Aktivita,Úkol,Hodiny,Refundace,Datum
-16,administrativní odbor,Tobias Esner,Administrativa,Podání #8931: Založení MS Praha 5,0.1,,2017-12-31
-21,administrativní odbor,Tobias Esner,Administrativa,Podání #8931: Založení MS Praha 5,0.5,,2017-12-31
-22,administrativní odbor,Tobias Esner,Administrativa,Podání #8657: Převedení členů do MS Kroměříž / ZlK,0.5,,2017-12-31
-23,administrativní odbor,Tobias Esner,Administrativa,Podání #8697: Oznámení o založení MS Opavské Slezsko,1.5,,2017-12-31
-24,administrativní odbor,Tobias Esner,Administrativa,Podání #8987: Žádost o zřízení fóra pro MS Brno a nastavení práv pro předsednictvo,1.5,,2017-12-31
-26,administrativní odbor,Tobias Esner,Administrativa,"Podání #8659: Paprskárová, Zeman - členové KHK - neevidováni na foru",0.3,,2017-12-30
-27,administrativní odbor,Tobias Esner,Administrativa,Podání #8331: Žádost o přidání schůze MS Znojmo do kalendáře,0.1,,2017-12-30
-28,administrativní odbor,Tobias Esner,Administrativa,Podání #8451: Zadost o predani informace,0.1,,2017-12-30
-29,administrativní odbor,Tobias Esner,Administrativa,Podání #8453: Zadost o predani informace,0.1,,2017-12-30
-30,administrativní odbor,Tobias Esner,Administrativa,Podání #8457: Nemuzu psat do sveho podani,0.1,,2017-12-30
-31,administrativní odbor,Tobias Esner,Administrativa,Podání #8460: Zadost o predani informace,0.1,,2017-12-30
-32,administrativní odbor,Tobias Esner,Administrativa,Podání #8473: Zadost o predani informace,0.1,,2017-12-30
-33,administrativní odbor,Tobias Esner,Administrativa,Podání #8681: Dotaz UDHPSH,0.1,,2017-12-30
-34,administrativní odbor,Tobias Esner,Administrativa,"Podání #8017: Stale nemuzu psat do podatelny FO, prestoze ban uz vyprsel",0.1,,2017-12-30
-35,administrativní odbor,Tobias Esner,Administrativa,Podání #6415: Stížnost na hulvátské chování vedoucího PO,0.1,,2017-12-30
-36,administrativní odbor,Tobias Esner,Administrativa,Podání #8410: Zrušení mandátní smlouvy Martina Jiránka,0.1,,2017-12-30
-37,administrativní odbor,Tobias Esner,Administrativa,Podání #7729: zvolení vedoucího MO JčK,0.1,,2017-12-30
-38,administrativní odbor,Tobias Esner,Administrativa,Podání #8837: Nová místopředsedkyně MS Písecko,0.2,,2017-12-30
-39,administrativní odbor,Tobias Esner,Administrativa,Podání #8815: Podforum - Komunální volby 2018 VYS,0.2,,2017-12-30
-40,administrativní odbor,Tobias Esner,Administrativa,Podání #9047: Zrušení Personálního odboru Olomouckého kraje,0.2,,2017-12-30
-140,administrativní odbor,Tobias Esner,Administrativa,Podání #8665: Nevyhlášená změna pravidel hospodaření z RV 61/2017,0.1,,2017-12-21
-141,administrativní odbor,Tobias Esner,Administrativa,Podání #8815: Podforum - Komunální volby 2018 VYS,0.1,,2017-12-21
-142,administrativní odbor,Tobias Esner,Administrativa,Podání #8979: Nové PKS Praha,0.5,,2017-12-21
-340,administrativní odbor,Tobias Esner,Administrativa,Podání #8864: Nově zvolený zástupce KS Liberecký kraj v RV,0.2,,2017-12-13
-470,personální odbor,Tobias Esner,Administrativa,Podání #8672: Výpočet povolebního bonusu,3.0,,2017-12-06
-488,administrativní odbor,Tobias Esner,Administrativa,Podání #8668: KS VYS - zástupce kraje v RV,0.2,,2017-12-05
+0,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #5362: doprovodné činnosti,3.0,,2017-12-31
+1,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,1.95,,2017-12-31
+2,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,7.0,,2017-12-31
+3,administrativní odbor,Tobias Esner,Telefon,Dlouhodobý úkol #5362: doprovodné činnosti,61.25,,2017-12-31
+4,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #5362: doprovodné činnosti,4.8,,2017-12-31
+5,administrativní odbor,Tobias Esner,E-mail,Dlouhodobý úkol #3179: Pošta,22.0,,2017-12-31
+6,finanční odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #6220: asistent pro FO,2.0,,2017-12-31
+7,finanční odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #6220: asistent pro FO,30.0,,2017-12-31
+8,administrativní odbor,Tobias Esner,Jednání,Dlouhodobý úkol #5362: doprovodné činnosti,15.0,,2017-12-31
+9,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #2899: Vedení archivu strany,58.0,,2017-12-31
+18,finanční odbor,Tobias Esner,Administrativa,Podání #8906: FO 1615/2017 Mobilní telefon pro obecný kontakt,0.3,,2017-12-31
+27,administrativní odbor,Tobias Esner,Administrativa,Podání #8931: Založení MS Praha 5,0.1,,2017-12-31
+32,administrativní odbor,Tobias Esner,Administrativa,Podání #8931: Založení MS Praha 5,0.5,,2017-12-31
+33,administrativní odbor,Tobias Esner,Administrativa,Podání #8657: Převedení členů do MS Kroměříž / ZlK,0.5,,2017-12-31
+34,administrativní odbor,Tobias Esner,Administrativa,Podání #8697: Oznámení o založení MS Opavské Slezsko,1.5,,2017-12-31
+35,administrativní odbor,Tobias Esner,Administrativa,Podání #8987: Žádost o zřízení fóra pro MS Brno a nastavení práv pro předsednictvo,1.5,,2017-12-31
+37,administrativní odbor,Tobias Esner,Administrativa,"Podání #8659: Paprskárová, Zeman - členové KHK - neevidováni na foru",0.3,,2017-12-30
+38,administrativní odbor,Tobias Esner,Administrativa,Podání #8331: Žádost o přidání schůze MS Znojmo do kalendáře,0.1,,2017-12-30
+39,administrativní odbor,Tobias Esner,Administrativa,Podání #8451: Zadost o predani informace,0.1,,2017-12-30
+40,administrativní odbor,Tobias Esner,Administrativa,Podání #8453: Zadost o predani informace,0.1,,2017-12-30
+41,administrativní odbor,Tobias Esner,Administrativa,Podání #8457: Nemuzu psat do sveho podani,0.1,,2017-12-30
+42,administrativní odbor,Tobias Esner,Administrativa,Podání #8460: Zadost o predani informace,0.1,,2017-12-30
+43,administrativní odbor,Tobias Esner,Administrativa,Podání #8473: Zadost o predani informace,0.1,,2017-12-30
+44,administrativní odbor,Tobias Esner,Administrativa,Podání #8681: Dotaz UDHPSH,0.1,,2017-12-30
+45,administrativní odbor,Tobias Esner,Administrativa,"Podání #8017: Stale nemuzu psat do podatelny FO, prestoze ban uz vyprsel",0.1,,2017-12-30
+46,administrativní odbor,Tobias Esner,Administrativa,Podání #6415: Stížnost na hulvátské chování vedoucího PO,0.1,,2017-12-30
+47,administrativní odbor,Tobias Esner,Administrativa,Podání #8410: Zrušení mandátní smlouvy Martina Jiránka,0.1,,2017-12-30
+48,administrativní odbor,Tobias Esner,Administrativa,Podání #7729: zvolení vedoucího MO JčK,0.1,,2017-12-30
+49,administrativní odbor,Tobias Esner,Administrativa,Podání #8837: Nová místopředsedkyně MS Písecko,0.2,,2017-12-30
+50,administrativní odbor,Tobias Esner,Administrativa,Podání #8815: Podforum - Komunální volby 2018 VYS,0.2,,2017-12-30
+51,administrativní odbor,Tobias Esner,Administrativa,Podání #9047: Zrušení Personálního odboru Olomouckého kraje,0.2,,2017-12-30
+97,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #2899: Vedení archivu strany,2.0,,2017-12-27
+98,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,2.0,,2017-12-27
+139,finanční odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #6220: asistent pro FO,2.5,,2017-12-21
+154,administrativní odbor,Tobias Esner,Administrativa,Podání #8665: Nevyhlášená změna pravidel hospodaření z RV 61/2017,0.1,,2017-12-21
+155,administrativní odbor,Tobias Esner,Administrativa,Podání #8815: Podforum - Komunální volby 2018 VYS,0.1,,2017-12-21
+156,administrativní odbor,Tobias Esner,Administrativa,Podání #8979: Nové PKS Praha,0.5,,2017-12-21
+163,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,0.3,,2017-12-20
+211,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,2.5,,2017-12-18
+335,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #2899: Vedení archivu strany,2.5,,2017-12-14
+357,administrativní odbor,Tobias Esner,Administrativa,Podání #8864: Nově zvolený zástupce KS Liberecký kraj v RV,0.2,,2017-12-13
+487,personální odbor,Tobias Esner,Administrativa,Podání #8672: Výpočet povolebního bonusu,3.0,,2017-12-06
+505,administrativní odbor,Tobias Esner,Administrativa,Podání #8668: KS VYS - zástupce kraje v RV,0.2,,2017-12-05
+514,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,3.0,,2017-12-04
+515,administrativní odbor,Tobias Esner,Schůzky,Dlouhodobý úkol #5362: doprovodné činnosti,4.0,,2017-12-04
