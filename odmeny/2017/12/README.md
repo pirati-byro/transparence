@@ -16,7 +16,7 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| FO    | [Jaromír Beránek](../../tymy/FO/2017/12/jaromir-beranek/)         |           0.00 |                 3000.00 |
+| FO    | [Jaromír Beránek](../../tymy/FO/2017/12/jaromir-beranek/)         |           0.00 |                10000.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2017/12/daniela-bila/)               |           0.00 |                 4000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2017/12/michal-gill/)                 |           0.00 |                18464.00 |
 | PO    | [Aneta Heidlová](../../tymy/PO/2017/12/aneta-heidlova/)           |           0.00 |                 9900.00 |
@@ -38,7 +38,7 @@ Seznam lidí
 | MO    | [Roman Kučera](../../tymy/MO/2017/12/roman-kucera/)               |          24.00 |                 1656.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2017/12/tobias-esner/)               |         308.00 |                34500.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/12/elizabet-kovaceva/)     |          10.00 |                  690.00 |
-| AO    | [Martin Kučera](../../tymy/AO/2017/12/martin-kucera/)             |         172.00 |                 8020.00 |
+| AO    | [Martin Kučera](../../tymy/AO/2017/12/martin-kucera/)             |         172.00 |                19820.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/12/viktorie-kalhousova/) |         100.00 |                  880.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2017/12/adam-kudrlicka/)           |         100.00 |                    0.00 |
 | Pha   | [Romana Klimešová](../../tymy/Pha/2017/12/romana-klimesova/)      |         100.00 |                10000.00 |
@@ -57,7 +57,7 @@ Rozpis podle týmů
 | Rozpočet       | Položka                                  |   Náklady |
 |:---------------|:-----------------------------------------|----------:|
 | Centrála       | Mzdy a odměny                            | 233360.00 |
-| Centrála       | Odměny vedoucích za výkon funkce         |  11020.00 |
+| Centrála       | Odměny vedoucích za výkon funkce         |  29820.00 |
 | Centrála       | Provozní výdaje administrativního odboru |  35190.00 |
 | Centrála       | Provozní výdaje mediálního odboru        |   7544.00 |
 | Centrála       | Provozní výdaje předsednictva            |      0.00 |

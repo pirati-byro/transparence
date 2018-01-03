@@ -19,7 +19,7 @@ Období:                  | 2017-12
 |:----------------------------------------|------------------------:|
 | [Tobias Esner](tobias-esner/)           |                34500.00 |
 | [Elizabet Kovačeva](elizabet-kovaceva/) |                  690.00 |
-| [Martin Kučera](martin-kucera/)         |                 8020.00 |
+| [Martin Kučera](martin-kucera/)         |                19820.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
