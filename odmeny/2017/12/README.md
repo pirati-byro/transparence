@@ -36,7 +36,7 @@ Seznam lidí
 | PO    | [Pavel Šrámek](../../tymy/PO/2017/12/pavel-sramek/)               |           0.00 |                17400.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2017/12/jakub-dusanek/)             |          84.00 |                 5888.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2017/12/roman-kucera/)               |          24.00 |                 1656.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2017/12/tobias-esner/)               |         308.00 |                24227.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2017/12/tobias-esner/)               |         308.00 |                34500.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2017/12/elizabet-kovaceva/)     |          10.00 |                  690.00 |
 | AO    | [Martin Kučera](../../tymy/AO/2017/12/martin-kucera/)             |         172.00 |                 8020.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2017/12/viktorie-kalhousova/) |         100.00 |                  880.00 |
@@ -58,7 +58,7 @@ Rozpis podle týmů
 |:---------------|:-----------------------------------------|----------:|
 | Centrála       | Mzdy a odměny                            | 233360.00 |
 | Centrála       | Odměny vedoucích za výkon funkce         |  11020.00 |
-| Centrála       | Provozní výdaje administrativního odboru |  24917.00 |
+| Centrála       | Provozní výdaje administrativního odboru |  35190.00 |
 | Centrála       | Provozní výdaje mediálního odboru        |   7544.00 |
 | Centrála       | Provozní výdaje předsednictva            |      0.00 |
 | Centrála       | Výdaje na právní záležitosti             |    880.00 |
