@@ -18,7 +18,7 @@ Období:                  | 2017-12
 | Jméno a příjmení                      |   Odměna od strany (Kč) |
 |:--------------------------------------|------------------------:|
 | [Romana Klimešová](romana-klimesova/) |                10000.00 |
-| [Adam Zábranský](adam-zabransky/)     |                  250.00 |
+| [Adam Zábranský](adam-zabransky/)     |                 4816.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

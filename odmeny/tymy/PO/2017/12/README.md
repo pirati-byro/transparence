@@ -20,7 +20,7 @@ Období:                  | 2017-12
 | [Daniela Bílá](daniela-bila/)             |                 4000.00 |
 | [Michal Gill](michal-gill/)               |                18464.00 |
 | [Aneta Heidlová](aneta-heidlova/)         |                 9900.00 |
-| [Barbora Hradečná](barbora-hradecna/)     |                 9500.00 |
+| [Barbora Hradečná](barbora-hradecna/)     |                24500.00 |
 | [Michal Jokeš](michal-jokes/)             |                21868.00 |
 | [Michaela Kleslová](michaela-kleslova/)   |                 8364.00 |
 | [Daniela Lakatošová](daniela-lakatosova/) |                    0.00 |
