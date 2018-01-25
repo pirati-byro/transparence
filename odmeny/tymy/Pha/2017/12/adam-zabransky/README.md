@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Adam Zábranský
 -----------------------                | --------------------
 Funkce:                                | zastupitel hl. m. Prahy
 Tým:                                   | Praha
-Smlouva:                               | [smlouva ze dne 1. 11. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 13. 11. 2014][smlouva]
 Období:                                | 2017-12
 
 
