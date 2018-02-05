@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Adam Zábranský
 -----------------------                | --------------------
 Funkce:                                | zastupitel hl. m. Prahy
 Tým:                                   | Praha
-Smlouva:                               | [smlouva ze dne 1. 11. 2017][smlouva]
+Smlouva:                               | [smlouva ze dne 13. 11. 2014][smlouva]
 Období:                                | 2017-12
 
 
@@ -83,10 +83,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  4816.50 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  4000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  4816.50 Kč
+**Celková odměna**                     |  8816.50 Kč
 
 
 ### Odměna od jiných subjektů
