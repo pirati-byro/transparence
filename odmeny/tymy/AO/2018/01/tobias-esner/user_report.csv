@@ -1,23 +1,40 @@
 ,Projekt,Uživatel,Aktivita,Úkol,Hodiny,Refundace,Datum
-15,administrativní odbor,Tobias Esner,Administrativa,Podání #9335: žádost o pirátský mail,0.2,,2018-01-31
-50,administrativní odbor,Tobias Esner,Administrativa,Podání #9307: Zrušení MS Radotín,0.3,,2018-01-29
-51,administrativní odbor,Tobias Esner,Administrativa,Podání #8931: Založení MS Praha 5,0.75,,2018-01-29
-53,administrativní odbor,Tobias Esner,Administrativa,Podání #8355: Hlášení o založení MS Kroměříž a MS Uherské Hradiště/Zlínský kraj,0.3,,2018-01-29
-54,administrativní odbor,Tobias Esner,Administrativa,Podání #9303: Rezignace předsedy MS Žatec-Kadaň,0.2,,2018-01-29
-55,administrativní odbor,Tobias Esner,Administrativa,Podání #8992: vytvoření subfor nově vzniklých MS ,0.5,,2018-01-29
-56,administrativní odbor,Tobias Esner,Administrativa,Podání #9274: Založení MS Třebíčsko (KS Vysočina),0.5,,2018-01-29
-57,administrativní odbor,Tobias Esner,Administrativa,Podání #9319: Práva k zápisu - podatelna PO,0.2,,2018-01-29
-59,administrativní odbor,Tobias Esner,Administrativa,Podání #9206: Založení MS Svitavsko,1.0,,2018-01-29
-109,administrativní odbor,Tobias Esner,Administrativa,Podání #9206: Založení MS Svitavsko,0.1,,2018-01-25
-110,administrativní odbor,Tobias Esner,Administrativa,Podání #9274: Založení MS Třebíčsko (KS Vysočina),0.1,,2018-01-25
-111,administrativní odbor,Tobias Esner,Administrativa,Podání #9169: Žádost o přeřazení členů,0.2,,2018-01-25
-112,administrativní odbor,Tobias Esner,Administrativa,Podání #9165: 4 místopředseda KS JčK,0.3,,2018-01-25
-113,administrativní odbor,Tobias Esner,Administrativa,Podání #9251: Rezignace Petra Tkadlece (místopředseda ZlK) Dovolba předsednictva ZlK,0.2,,2018-01-25
-247,administrativní odbor,Tobias Esner,Administrativa,Podání #9209: přestup Kateřiny Kolešové z UsK do SčK,0.1,,2018-01-15
-299,administrativní odbor,Tobias Esner,Administrativa,Podání #9160: Volba zástupce Olomouckého kraje v RV,0.1,,2018-01-11
-300,administrativní odbor,Tobias Esner,Administrativa,Podání #9171: Krajský zástupce do RV - Praha,0.1,,2018-01-11
-362,administrativní odbor,Tobias Esner,Administrativa,Podání #9153: Krajský zástupce KHK,0.1,,2018-01-08
-363,administrativní odbor,Tobias Esner,Administrativa,Podání #9152: Krajský zástupce RV - KvK,0.1,,2018-01-08
-364,administrativní odbor,Tobias Esner,Administrativa,Podání #9054: Přebytečná legenda,0.2,,2018-01-08
-434,finanční odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #6220: asistent pro FO,5.0,,2018-01-02
-435,administrativní odbor,Tobias Esner,Schůzky,Dlouhodobý úkol #5362: doprovodné činnosti,4.0,,2018-01-02
+0,administrativní odbor,Tobias Esner,Příprava dokumentu,Dlouhodobý úkol #5362: doprovodné činnosti,2.0,,2018-01-31
+1,administrativní odbor,Tobias Esner,Sociální sítě,Dlouhodobý úkol #3179: Pošta,12.0,,2018-01-31
+2,administrativní odbor,Tobias Esner,E-mail,Dlouhodobý úkol #3179: Pošta,25.0,,2018-01-31
+3,administrativní odbor,Tobias Esner,Telefon,Dlouhodobý úkol #5362: doprovodné činnosti,50.0,,2018-01-31
+4,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,3.5,,2018-01-31
+5,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,3.5,,2018-01-31
+6,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #2899: Vedení archivu strany,40.0,,2018-01-31
+9,finanční odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #6220: asistent pro FO,30.0,,2018-01-31
+25,administrativní odbor,Tobias Esner,Administrativa,Podání #9335: žádost o pirátský mail,0.2,,2018-01-31
+50,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,2.75,,2018-01-29
+51,administrativní odbor,Tobias Esner,Příprava dokumentu,Dlouhodobý úkol #5362: doprovodné činnosti,3.0,,2018-01-29
+62,administrativní odbor,Tobias Esner,Administrativa,Podání #9307: Zrušení MS Radotín,0.3,,2018-01-29
+63,administrativní odbor,Tobias Esner,Administrativa,Podání #8931: Založení MS Praha 5,0.75,,2018-01-29
+65,administrativní odbor,Tobias Esner,Administrativa,Podání #8355: Hlášení o založení MS Kroměříž a MS Uherské Hradiště/Zlínský kraj,0.3,,2018-01-29
+66,administrativní odbor,Tobias Esner,Administrativa,Podání #9303: Rezignace předsedy MS Žatec-Kadaň,0.2,,2018-01-29
+67,administrativní odbor,Tobias Esner,Administrativa,Podání #8992: vytvoření subfor nově vzniklých MS ,0.5,,2018-01-29
+68,administrativní odbor,Tobias Esner,Administrativa,Podání #9274: Založení MS Třebíčsko (KS Vysočina),0.5,,2018-01-29
+69,administrativní odbor,Tobias Esner,Administrativa,Podání #9319: Práva k zápisu - podatelna PO,0.2,,2018-01-29
+71,administrativní odbor,Tobias Esner,Administrativa,Podání #9206: Založení MS Svitavsko,1.0,,2018-01-29
+86,administrativní odbor,Tobias Esner,Příprava dokumentu,Dlouhodobý úkol #5362: doprovodné činnosti,7.0,,2018-01-27
+123,administrativní odbor,Tobias Esner,Administrativa,Podání #9206: Založení MS Svitavsko,0.1,,2018-01-25
+124,administrativní odbor,Tobias Esner,Administrativa,Podání #9274: Založení MS Třebíčsko (KS Vysočina),0.1,,2018-01-25
+125,administrativní odbor,Tobias Esner,Administrativa,Podání #9169: Žádost o přeřazení členů,0.2,,2018-01-25
+126,administrativní odbor,Tobias Esner,Administrativa,Podání #9165: 4 místopředseda KS JčK,0.3,,2018-01-25
+127,administrativní odbor,Tobias Esner,Administrativa,Podání #9251: Rezignace Petra Tkadlece (místopředseda ZlK) Dovolba předsednictva ZlK,0.2,,2018-01-25
+162,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,3.0,,2018-01-22
+263,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,3.5,,2018-01-15
+270,administrativní odbor,Tobias Esner,Administrativa,Podání #9209: přestup Kateřiny Kolešové z UsK do SčK,0.1,,2018-01-15
+297,administrativní odbor,Tobias Esner,Vývoj software,Dlouhodobý úkol #2899: Vedení archivu strany,12.0,,2018-01-12
+323,administrativní odbor,Tobias Esner,Administrativa,Podání #9160: Volba zástupce Olomouckého kraje v RV,0.1,,2018-01-11
+324,administrativní odbor,Tobias Esner,Administrativa,Podání #9171: Krajský zástupce do RV - Praha,0.1,,2018-01-11
+365,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #3179: Pošta,3.5,,2018-01-08
+387,administrativní odbor,Tobias Esner,Administrativa,Podání #9153: Krajský zástupce KHK,0.1,,2018-01-08
+388,administrativní odbor,Tobias Esner,Administrativa,Podání #9152: Krajský zástupce RV - KvK,0.1,,2018-01-08
+389,administrativní odbor,Tobias Esner,Administrativa,Podání #9054: Přebytečná legenda,0.2,,2018-01-08
+390,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #5362: doprovodné činnosti,3.0,,2018-01-07
+451,administrativní odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #5362: doprovodné činnosti,5.0,,2018-01-02
+461,finanční odbor,Tobias Esner,Administrativa,Dlouhodobý úkol #6220: asistent pro FO,18.0,,2018-01-02
+462,administrativní odbor,Tobias Esner,Schůzky,Dlouhodobý úkol #5362: doprovodné činnosti,4.0,,2018-01-02

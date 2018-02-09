@@ -19,7 +19,6 @@ Období:                  | 2018-01
 |:----------------------------------------|------------------------:|
 | [Daniela Bílá](daniela-bila/)           |                 4000.00 |
 | [Michal Gill](michal-gill/)             |                23363.00 |
-| [Aneta Heidlová](aneta-heidlova/)       |                 9999.00 |
 | [Michal Jokeš](michal-jokes/)           |                27000.00 |
 | [Michaela Kleslová](michaela-kleslova/) |                12780.00 |
 | [Daniel Lebduška](daniel-lebduska/)     |                22045.00 |
