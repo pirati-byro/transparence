@@ -92,7 +92,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 * [Přehled plněných úkolů v daném období](user_report.csv)
 
-[hodnoceni]: https://redmine.pirati.cz/issues/5235
+[hodnoceni]: https://redmine.pirati.cz/issues/
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
