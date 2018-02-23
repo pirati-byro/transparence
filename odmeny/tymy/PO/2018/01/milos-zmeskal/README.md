@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                        |   Počet hodin |
 |:----------------------------------------------------|--------------:|
-| **[Personální odbor][p54]**                         |          4.00 |
+| **[Personální odbor][p60]**                         |          4.00 |
 | [#5231 Odměňování krajský koordinátor - OlK][t5231] |          4.00 |
 | **Celkem v uvedených projektech**                   |          4.00 |
 
@@ -76,10 +76,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  9000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
-Mimořádná odměna                       |     0.00 Kč
+Úkolová odměna                         |  5000.00 Kč
+Mimořádná odměna                       |  9363.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  9000.00 Kč
+**Celková odměna**                     | 23363.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p54]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-01-01&v[spent_on][]=2018-01-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=54
+[p60]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-01-01&v[spent_on][]=2018-01-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=60
 
 [t5231]: https://redmine.pirati.cz/issues/5231/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-01-01&v[spent_on][]=2018-01-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=2
 

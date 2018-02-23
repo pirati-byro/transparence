@@ -17,9 +17,9 @@ Období:                  | 2018-01
 
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
-| [Jaromír Beránek](jaromir-beranek/) |                10000.00 |
+| [Jaromír Beránek](jaromir-beranek/) |                14000.00 |
 | [Martin Kučera](martin-kucera/)     |                 8000.00 |
-| [Jana Rohová](jana-rohova/)         |                41565.00 |
+| [Jana Rohová](jana-rohova/)         |                45565.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

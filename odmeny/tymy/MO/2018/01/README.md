@@ -17,8 +17,8 @@ Období:                  | 2018-01
 
 | Jméno a příjmení                |   Odměna od strany (Kč) |
 |:--------------------------------|------------------------:|
-| [Jakub Dušánek](jakub-dusanek/) |                14904.00 |
-| [Roman Kučera](roman-kucera/)   |                 9890.00 |
+| [Jakub Dušánek](jakub-dusanek/) |                18904.00 |
+| [Roman Kučera](roman-kucera/)   |                13890.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
