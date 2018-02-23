@@ -36,10 +36,10 @@ Seznam lidí
 | AO    | [Tobias Esner](../../tymy/AO/2018/01/tobias-esner/)               |         269.00 |                28400.00 |
 | AO    | [Elizabet Kovačeva](../../tymy/AO/2018/01/elizabet-kovaceva/)     |           0.00 |                    0.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/01/aneta-heidlova/)          |           0.00 |                 9999.00 |
-| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/01/ondrej-kallasch/)        |           2.00 |                    0.00 |
+| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/01/ondrej-kallasch/)        |           2.00 |                  500.00 |
 | Pha   | [Romana Klimešová](../../tymy/Pha/2018/01/romana-klimesova/)      |         100.00 |                10000.00 |
-| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/01/viktor-mahrik/)            |          23.00 |                 2196.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2018/01/adam-zabransky/)          |          52.00 |                 4992.00 |
+| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/01/viktor-mahrik/)            |          23.00 |                 5030.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2018/01/adam-zabransky/)          |          52.00 |                10888.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/01/viktorie-kalhousova/) |         100.00 |                 1120.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/01/adam-kudrlicka/)           |         100.00 |                    0.00 |
 
@@ -57,7 +57,7 @@ Rozpis podle týmů
 | Centrála   | Provozní výdaje administrativního odboru |  28400.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |  32794.00 |
 | Centrála   | Výdaje na právní záležitosti             |   1120.00 |
-| Praha      | Odměny zastupitelů                       |   7188.00 |
+| Praha      | Odměny zastupitelů                       |  16418.00 |
 
 Strojově čitelná data
 -------------------
