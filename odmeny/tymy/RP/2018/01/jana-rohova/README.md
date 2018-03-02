@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                           |   Počet hodin |
 |:-----------------------------------------------------------------------|--------------:|
-| **[Personální odbor][p60]**                                            |        216.50 |
+| **[Personální odbor][p60]**                                            |        219.50 |
 | [#8748 personalista a asistenti pro sněmovnu][t8748]                   |         63.40 |
 | [#8719 Příprava výběrových řízení - stranické pozice][t8719]           |         25.50 |
 | [#5390 Komunikace s vedoucími a dalšími členy ostatních odborů][t5390] |         20.50 |
@@ -43,9 +43,10 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#4450 Komunikace s ostatními Piráty][t4450]                           |          6.40 |
 | [#8718 Pravidelný newsletter od PO][t8718]                             |          5.00 |
 | [#9050 odměny koordinátorů 12/2017][t9050]                             |          4.00 |
+| [#5699 Stážisti a pod z krajů][t5699]                                  |          3.00 |
 | **[Jihočeský kraj][p82]**                                              |          0.50 |
 | **[Karlovarský kraj][p83]**                                            |          0.10 |
-| **Celkem v uvedených projektech**                                      |        217.10 |
+| **Celkem v uvedených projektech**                                      |        220.13 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -62,9 +63,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    | 217.10 hod
+Skutečně odvedená práce dle smlouvy    | 220.13 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                | 217.10 hod
+**Celkový počet hodin**                | 220.13 hod
 **Procento vytížení**                  |  100 %
 
 Odměna
@@ -88,11 +89,11 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |  3500.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
-Hodinová odměna nad odhadnutý rozsah   | 35821.50 Kč
+Hodinová odměna nad odhadnutý rozsah   | 36321.45 Kč
 Úkolová odměna                         |  4000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 43321.50 Kč
+**Celková odměna**                     | 43821.45 Kč
 
 
 ### Odměna od jiných subjektů
@@ -136,6 +137,8 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [t8718]: https://redmine.pirati.cz/issues/8718/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-01-01&v[spent_on][]=2018-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
 
 [t9050]: https://redmine.pirati.cz/issues/9050/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-01-01&v[spent_on][]=2018-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
+
+[t5699]: https://redmine.pirati.cz/issues/5699/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-01-01&v[spent_on][]=2018-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0
 
 [p82]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-01-01&v[spent_on][]=2018-01-31&v[user_id][]=2&v[user_id][]=2&v[user_id][]=0&f[]=project_id&op[project_id]==&v[project_id][]=82
 
