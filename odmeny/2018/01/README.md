@@ -18,7 +18,7 @@ Seznam lidí
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/01/jaromir-beranek/)         |         100.00 |                14000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/01/martin-kucera/)             |         100.00 |                 8000.00 |
-| RP    | [Jana Rohová](../../tymy/RP/2018/01/jana-rohova/)                 |         100.00 |                45565.00 |
+| RP    | [Jana Rohová](../../tymy/RP/2018/01/jana-rohova/)                 |         100.00 |                43322.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/01/daniela-bila/)               |           0.00 |                 4000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2018/01/michal-gill/)                 |           0.00 |                23363.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2018/01/michal-jokes/)               |           0.00 |                27000.00 |
@@ -53,7 +53,7 @@ Rozpis podle týmů
 | Rozpočet   | Položka                                  |   Náklady |
 |:-----------|:-----------------------------------------|----------:|
 | Centrála   | Mzdy a odměny                            | 227050.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  67565.00 |
+| Centrála   | Odměny vedoucích za výkon funkce         |  65322.00 |
 | Centrála   | Provozní výdaje administrativního odboru |  28400.00 |
 | Centrála   | Provozní výdaje mediálního odboru        |  32794.00 |
 | Centrála   | Výdaje na právní záležitosti             |   1120.00 |

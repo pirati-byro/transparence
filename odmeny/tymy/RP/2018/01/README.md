@@ -19,7 +19,7 @@ Období:                  | 2018-01
 |:------------------------------------|------------------------:|
 | [Jaromír Beránek](jaromir-beranek/) |                14000.00 |
 | [Martin Kučera](martin-kucera/)     |                 8000.00 |
-| [Jana Rohová](jana-rohova/)         |                45565.00 |
+| [Jana Rohová](jana-rohova/)         |                43322.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

@@ -77,8 +77,8 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        |  9000.00 Kč
-Hodinová odměna                        |   150.00 Kč/hod
+Paušální odměna                        |  3500.00 Kč
+Hodinová odměna                        |   165.00 Kč/hod
 Úkolová odměna                         |  5000.00 Kč
 Odpočet                                |     0.00 Kč
 
@@ -86,13 +86,13 @@ Odpočet                                |     0.00 Kč
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        |  9000.00 Kč
+Paušální odměna                        |  3500.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
-Hodinová odměna nad odhadnutý rozsah   | 32565.00 Kč
+Hodinová odměna nad odhadnutý rozsah   | 35821.50 Kč
 Úkolová odměna                         |  4000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 45565.00 Kč
+**Celková odměna**                     | 43321.50 Kč
 
 
 ### Odměna od jiných subjektů
