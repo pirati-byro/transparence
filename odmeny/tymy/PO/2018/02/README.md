@@ -17,17 +17,17 @@ Období:                  | 2018-02
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Daniela Bílá](daniela-bila/)           |                 2700.00 |
-| [Michal Gill](michal-gill/)             |                16000.00 |
-| [Michal Jokeš](michal-jokes/)           |                15000.00 |
-| [Michaela Kleslová](michaela-kleslova/) |                 6300.00 |
-| [Daniel Lebduška](daniel-lebduska/)     |                 9000.00 |
-| [Samuel Machat](samuel-machat/)         |                 6300.00 |
-| [Yveta Matínková](yveta-matinkova/)     |                 9000.00 |
-| [Zuzana Petrůvová](zuzana-petruvova/)   |                 6300.00 |
-| [Barbora Přibylová](barbora-pribylova/) |                 9000.00 |
-| [Michaela Vodová](michaela-vodova/)     |                 9000.00 |
-| [Miloš Zmeškal](milos-zmeskal/)         |                 9000.00 |
+| [Daniela Bílá](daniela-bila/)           |                 4000.00 |
+| [Michal Gill](michal-gill/)             |                24836.00 |
+| [Michal Jokeš](michal-jokes/)           |                27818.00 |
+| [Michaela Kleslová](michaela-kleslova/) |                13500.00 |
+| [Daniel Lebduška](daniel-lebduska/)     |                20781.00 |
+| [Samuel Machat](samuel-machat/)         |                10000.00 |
+| [Yveta Matínková](yveta-matinkova/)     |                23909.00 |
+| [Zuzana Petrůvová](zuzana-petruvova/)   |                10000.00 |
+| [Barbora Přibylová](barbora-pribylova/) |                21218.00 |
+| [Michaela Vodová](michaela-vodova/)     |                25000.00 |
+| [Miloš Zmeškal](milos-zmeskal/)         |                21763.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

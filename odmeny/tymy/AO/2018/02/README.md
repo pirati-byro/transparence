@@ -17,7 +17,7 @@ Období:                  | 2018-02
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Tobias Esner](tobias-esner/)           |                26000.00 |
+| [Tobias Esner](tobias-esner/)           |                44000.00 |
 | [Elizabet Kovačeva](elizabet-kovaceva/) |                    0.00 |
 
 

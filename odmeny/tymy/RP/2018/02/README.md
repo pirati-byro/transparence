@@ -17,8 +17,8 @@ Období:                  | 2018-02
 
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
-| [Jaromír Beránek](jaromir-beranek/) |                10000.00 |
-| [Martin Kučera](martin-kucera/)     |                 8000.00 |
+| [Jaromír Beránek](jaromir-beranek/) |                13000.00 |
+| [Martin Kučera](martin-kucera/)     |                13000.00 |
 | [Jana Rohová](jana-rohova/)         |                41359.00 |
 
 
