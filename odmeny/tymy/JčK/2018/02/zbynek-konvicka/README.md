@@ -1,5 +1,5 @@
 Česká pirátská strana  
-administrativní odbor
+Jihočeský kraj
 
 Osobní výkaz odměňování
 =======================
@@ -13,10 +13,10 @@ stanovených v metodice mohou být některé úkoly v projektovém systému neve
 Odměňovaný
 ----------
 
-Jméno a příjmení:                      | Tobias Esner
+Jméno a příjmení:                      | Zbyněk Konvička
 -----------------------                | --------------------
-Funkce:                                | Administrativní podpora
-Tým:                                   | administrativní odbor
+Funkce:                                | Vedoucí Mediálního odboru JčK
+Tým:                                   | Jihočeský kraj
 Smlouva:                               | [smlouva ze dne 1. 2. 2018][smlouva]
 Období:                                | 2018-02
 
@@ -28,14 +28,14 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                       |   Počet hodin |
-|:-----------------------------------|--------------:|
-| **[Administrativní odbor][p68]**   |         22.80 |
-| [#5362 doprovodné činnosti][t5362] |         19.00 |
-| **[Finanční odbor][p48]**          |          0.00 |
-| **Celkem v uvedených projektech**  |         22.81 |
+| Projekt/úkol                      |   Počet hodin |
+|:----------------------------------|--------------:|
+| **[Mediální odbor jčk][p17]**     |         10.00 |
+| **Celkem v uvedených projektech** |         10.00 |
 
-Smlouva se vztahuje na všechny projekty. 
+
+Smlouva se vztahuje pouze na čas vykázaný v rámci projektu Mediální odbor JčK. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
+
 
 Můžete si zobrazit plný [přehled plněných úkolů][tasklist].
 Slovní hodnocení je ve [zvláštním úkolu][hodnoceni].
@@ -49,11 +49,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |  20.00 hod/týdně =  80.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  22.81 hod
+Odhadnutý rozsah práce                 |  10.00 hod/týdně =  40.00 hod/měs.
+Skutečně odvedená práce dle smlouvy    |  10.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  22.81 hod
-**Procento vytížení**                  |   29 %
+**Celkový počet hodin**                |  10.00 hod
+**Procento vytížení**                  |   25 %
 
 Odměna
 ------
@@ -65,22 +65,22 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        | 26000.00 Kč
-Hodinová odměna                        |     0.00 Kč/hod
-Úkolová odměna                         |  5000.00 Kč
+Paušální odměna                        |  2000.00 Kč
+Hodinová odměna                        |   100.00 Kč/hod
+Úkolová odměna                         |  3000.00 Kč
 Odpočet                                |     0.00 Kč
 
 ### Skutečná odměna podle odvedené práce
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        | 26000.00 Kč
-Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
+Paušální odměna                        |  2000.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  1000.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |  5000.00 Kč
-Mimořádná odměna                       | 13000.00 Kč
+Úkolová odměna                         |  3000.00 Kč
+Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 44000.00 Kč
+**Celková odměna**                     |  6000.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -99,14 +99,10 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p68]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=3&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=68
-
-[t5362]: https://redmine.pirati.cz/issues/5362/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=3&v[user_id][]=3
-
-[p48]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=3&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=48
+[p17]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=3&v[user_id][]=6&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=17
 
 
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=33
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=362
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2017/02/07/AO-esner/
+[smlouva]: nan

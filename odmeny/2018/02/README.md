@@ -22,7 +22,7 @@ Seznam lidí
 | PO    | [Daniela Bílá](../../tymy/PO/2018/02/daniela-bila/)               |           0.00 |                 4000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2018/02/michal-gill/)                 |           0.00 |                24836.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2018/02/michal-jokes/)               |           0.00 |                27818.00 |
-| PO    | [Michaela Kleslová](../../tymy/PO/2018/02/michaela-kleslova/)     |           0.00 |                13500.00 |
+| PO    | [Michaela Kleslová](../../tymy/PO/2018/02/michaela-kleslova/)     |          10.00 |                13500.00 |
 | PO    | [Daniel Lebduška](../../tymy/PO/2018/02/daniel-lebduska/)         |           0.00 |                20781.00 |
 | PO    | [Samuel Machat](../../tymy/PO/2018/02/samuel-machat/)             |           0.00 |                10000.00 |
 | PO    | [Yveta Matínková](../../tymy/PO/2018/02/yveta-matinkova/)         |           0.00 |                23909.00 |
@@ -34,14 +34,14 @@ Seznam lidí
 | MO    | [Roman Kučera](../../tymy/MO/2018/02/roman-kucera/)               |         164.00 |                16098.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/02/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2018/02/tobias-esner/)               |          29.00 |                44000.00 |
-| AO    | [Elizabet Kovačeva](../../tymy/AO/2018/02/elizabet-kovaceva/)     |           0.00 |                    0.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/02/aneta-heidlova/)          |           0.00 |                 9999.00 |
-| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/02/ondrej-kallasch/)        |          15.00 |                  152.00 |
+| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/02/ondrej-kallasch/)        |          15.00 |                  852.00 |
 | Pha   | [Romana Klimešová](../../tymy/Pha/2018/02/romana-klimesova/)      |         100.00 |                10000.00 |
-| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/02/viktor-mahrik/)            |          25.00 |                 1707.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2018/02/adam-zabransky/)          |          79.00 |                 9550.00 |
+| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/02/viktor-mahrik/)            |          25.00 |                 4707.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2018/02/adam-zabransky/)          |          79.00 |                13550.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/02/viktorie-kalhousova/) |         100.00 |                  480.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/02/adam-kudrlicka/)           |         100.00 |                    0.00 |
+| JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/02/zbynek-konvicka/)        |          25.00 |                 6000.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -50,14 +50,15 @@ práce uvádíme 100 %.
 Rozpis podle týmů
 -----------------
 
-| Rozpočet   | Položka                                  |   Náklady |
-|:-----------|:-----------------------------------------|----------:|
-| Centrála   | Mzdy a odměny                            | 202825.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  67359.00 |
-| Centrála   | Provozní výdaje administrativního odboru |  44000.00 |
-| Centrála   | Provozní výdaje mediálního odboru        |  90128.00 |
-| Centrála   | Výdaje na právní záležitosti             |    480.00 |
-| Praha      | Odměny zastupitelů                       |  11409.00 |
+| Rozpočet       | Položka                                  |   Náklady |
+|:---------------|:-----------------------------------------|----------:|
+| Centrála       | Mzdy a odměny                            | 202825.00 |
+| Centrála       | Odměny vedoucích za výkon funkce         |  67359.00 |
+| Centrála       | Provozní výdaje administrativního odboru |  44000.00 |
+| Centrála       | Provozní výdaje mediálního odboru        |  90128.00 |
+| Centrála       | Výdaje na právní záležitosti             |    480.00 |
+| Jihočeský kraj | Mediální odbor Jihočeský kraj            |   3000.00 |
+| Praha          | Odměny zastupitelů                       |  19109.00 |
 
 Strojově čitelná data
 -------------------

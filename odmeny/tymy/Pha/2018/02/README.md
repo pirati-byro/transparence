@@ -18,10 +18,10 @@ Období:                  | 2018-02
 | Jméno a příjmení                      |   Odměna od strany (Kč) |
 |:--------------------------------------|------------------------:|
 | [Aneta Heidlová](aneta-heidlova/)     |                 9999.00 |
-| [Ondřej Kallasch](ondrej-kallasch/)   |                  152.00 |
+| [Ondřej Kallasch](ondrej-kallasch/)   |                  852.00 |
 | [Romana Klimešová](romana-klimesova/) |                10000.00 |
-| [Viktor Mahrik](viktor-mahrik/)       |                 1707.00 |
-| [Adam Zábranský](adam-zabransky/)     |                 9550.00 |
+| [Viktor Mahrik](viktor-mahrik/)       |                 4707.00 |
+| [Adam Zábranský](adam-zabransky/)     |                13550.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
