@@ -88,7 +88,7 @@ Zastupitel hl. m. prahy má dále z titulu své funkce za tento měsíc nárok n
 
 | Typ příjmu                                        | Sazba           |   Měsíční částka (Kč) |
 |:--------------------------------------------------|:----------------|----------------------:|
-| paušální odměna člena Zastupitelstva hl. m. Prahy | 5651 Kč měsíčně |                5651.0 |
+| paušální odměna člena Zastupitelstva hl. m. Prahy | 5716 Kč měsíčně |                5716.0 |
 | náhrada výdělku za dobu výkonu funkce             | 450 Kč hodinově |                7425.0 |
 
 Částky vyplácené jinými subjekty jsou uvedeny v přibližné výši.
