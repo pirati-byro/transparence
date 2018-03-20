@@ -17,8 +17,8 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/02/jaromir-beranek/)         |         100.00 |                13000.00 |
-| RP    | [Martin Kučera](../../tymy/RP/2018/02/martin-kucera/)             |         100.00 |                13000.00 |
-| RP    | [Jana Rohová](../../tymy/RP/2018/02/jana-rohova/)                 |         100.00 |                41359.00 |
+| RP    | [Martin Kučera](../../tymy/RP/2018/02/martin-kucera/)             |         100.00 |                 8000.00 |
+| RP    | [Jana Rohová](../../tymy/RP/2018/02/jana-rohova/)                 |         100.00 |                45859.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/02/daniela-bila/)               |           0.00 |                 4000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2018/02/michal-gill/)                 |           0.00 |                24836.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2018/02/michal-jokes/)               |           0.00 |                27818.00 |
@@ -41,7 +41,7 @@ Seznam lidí
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/02/adam-zabransky/)          |          79.00 |                13550.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/02/viktorie-kalhousova/) |         100.00 |                  480.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/02/adam-kudrlicka/)           |         100.00 |                    0.00 |
-| JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/02/zbynek-konvicka/)        |          25.00 |                 6000.00 |
+| JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/02/zbynek-konvicka/)        |          25.00 |                 3000.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -53,7 +53,7 @@ Rozpis podle týmů
 | Rozpočet       | Položka                                  |   Náklady |
 |:---------------|:-----------------------------------------|----------:|
 | Centrála       | Mzdy a odměny                            | 202825.00 |
-| Centrála       | Odměny vedoucích za výkon funkce         |  67359.00 |
+| Centrála       | Odměny vedoucích za výkon funkce         |  66859.00 |
 | Centrála       | Provozní výdaje administrativního odboru |  44000.00 |
 | Centrála       | Provozní výdaje mediálního odboru        |  90128.00 |
 | Centrála       | Výdaje na právní záležitosti             |    480.00 |
