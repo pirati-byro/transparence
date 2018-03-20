@@ -57,7 +57,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje administrativního odboru |  44000.00 |
 | Centrála       | Provozní výdaje mediálního odboru        |  90128.00 |
 | Centrála       | Výdaje na právní záležitosti             |    480.00 |
-| Jihočeský kraj | Mediální odbor Jihočeský kraj            |   3000.00 |
+| Jihočeský kraj | Mediální odbor Jihočeský kraj            |   6000.00 |
 | Praha          | Odměny zastupitelů                       |  19109.00 |
 
 Strojově čitelná data
