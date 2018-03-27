@@ -17,7 +17,7 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/02/jaromir-beranek/)         |         100.00 |                13000.00 |
-| RP    | [Martin Kučera](../../tymy/RP/2018/02/martin-kucera/)             |         100.00 |                 8000.00 |
+| RP    | [Martin Kučera](../../tymy/RP/2018/02/martin-kucera/)             |         100.00 |                10000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/02/jana-rohova/)                 |         100.00 |                45859.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/02/daniela-bila/)               |           0.00 |                 4000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2018/02/michal-gill/)                 |           0.00 |                24836.00 |
@@ -53,11 +53,11 @@ Rozpis podle týmů
 | Rozpočet       | Položka                                  |   Náklady |
 |:---------------|:-----------------------------------------|----------:|
 | Centrála       | Mzdy a odměny                            | 202825.00 |
-| Centrála       | Odměny vedoucích za výkon funkce         |  66859.00 |
+| Centrála       | Odměny vedoucích za výkon funkce         |  68859.00 |
 | Centrála       | Provozní výdaje administrativního odboru |  44000.00 |
 | Centrála       | Provozní výdaje mediálního odboru        |  90128.00 |
 | Centrála       | Výdaje na právní záležitosti             |    480.00 |
-| Jihočeský kraj | Mediální odbor Jihočeský kraj            |   6000.00 |
+| Jihočeský kraj | Mediální odbor Jihočeský kraj            |   3000.00 |
 | Praha          | Odměny zastupitelů                       |  19109.00 |
 
 Strojově čitelná data

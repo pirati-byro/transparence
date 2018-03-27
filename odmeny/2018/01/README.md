@@ -17,7 +17,7 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/01/jaromir-beranek/)         |         100.00 |                14000.00 |
-| RP    | [Martin Kučera](../../tymy/RP/2018/01/martin-kucera/)             |         100.00 |                 8000.00 |
+| RP    | [Martin Kučera](../../tymy/RP/2018/01/martin-kucera/)             |         100.00 |                11000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/01/jana-rohova/)                 |         100.00 |                43821.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/01/daniela-bila/)               |           0.00 |                 4000.00 |
 | PO    | [Michal Gill](../../tymy/PO/2018/01/michal-gill/)                 |           0.00 |                23363.00 |
@@ -33,8 +33,6 @@ Seznam lidí
 | PO    | [Pavel Šrámek](../../tymy/PO/2018/01/pavel-sramek/)               |           0.00 |                20045.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/01/jakub-dusanek/)             |         184.00 |                18904.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2018/01/roman-kucera/)               |         122.00 |                13890.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2018/01/tobias-esner/)               |         269.00 |                28400.00 |
-| AO    | [Elizabet Kovačeva](../../tymy/AO/2018/01/elizabet-kovaceva/)     |           0.00 |                    0.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/01/aneta-heidlova/)          |           0.00 |                 9999.00 |
 | Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/01/ondrej-kallasch/)        |           2.00 |                  500.00 |
 | Pha   | [Romana Klimešová](../../tymy/Pha/2018/01/romana-klimesova/)      |         100.00 |                10000.00 |
@@ -50,14 +48,13 @@ práce uvádíme 100 %.
 Rozpis podle týmů
 -----------------
 
-| Rozpočet   | Položka                                  |   Náklady |
-|:-----------|:-----------------------------------------|----------:|
-| Centrála   | Mzdy a odměny                            | 227050.00 |
-| Centrála   | Odměny vedoucích za výkon funkce         |  65821.00 |
-| Centrála   | Provozní výdaje administrativního odboru |  28400.00 |
-| Centrála   | Provozní výdaje mediálního odboru        |  32794.00 |
-| Centrála   | Výdaje na právní záležitosti             |   1120.00 |
-| Praha      | Odměny zastupitelů                       |  16418.00 |
+| Rozpočet   | Položka                           |   Náklady |
+|:-----------|:----------------------------------|----------:|
+| Centrála   | Mzdy a odměny                     | 227050.00 |
+| Centrála   | Odměny vedoucích za výkon funkce  |  68821.00 |
+| Centrála   | Provozní výdaje mediálního odboru |  32794.00 |
+| Centrála   | Výdaje na právní záležitosti      |   1120.00 |
+| Praha      | Odměny zastupitelů                |  16418.00 |
 
 Strojově čitelná data
 -------------------
