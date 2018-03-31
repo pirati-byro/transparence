@@ -31,6 +31,7 @@ Seznam lidí
 | PO    | [Miroslav Mašek](../../tymy/PO/2018/03/miroslav-masek/)           |          11.00 |                16545.00 |
 | PO    | [Jan Můčka](../../tymy/PO/2018/03/jan-mucka/)                     |          11.00 |                24290.00 |
 | PO    | [Zuzana Petrůvová](../../tymy/PO/2018/03/zuzana-petruvova/)       |           0.00 |                 2787.00 |
+| PO    | [Barbora Přibylová](../../tymy/PO/2018/03/barbora-pribylova/)     |           0.00 |                20018.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2018/03/michaela-vodova/)         |         125.00 |                34690.00 |
 | PO    | [Libuše Věříšová](../../tymy/PO/2018/03/libuse-verisova/)         |           0.00 |                21000.00 |
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/03/milos-zmeskal/)             |           5.00 |                25781.00 |
@@ -62,6 +63,7 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
+| Centrála       | Mzdy a odměny                             |  20018.00 |
 | Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10010.00 |
 | Centrála       | Provozní výdaje mediálního odboru         |  88562.00 |
