@@ -24,7 +24,6 @@ Období:                  | 2018-03
 | [Ivan Mikoláš](ivan-mikolas/)           |                 3686.00 |
 | [Adam Zábranský](adam-zabransky/)       |                11130.00 |
 | [Vít Šimral](vit-simral/)               |                 3131.00 |
-| [Vít Šimral](vit-simral/)               |                 3131.00 |
 | [Marcela Šroubková](marcela-sroubkova/) |                11363.00 |
 
 

@@ -22,7 +22,6 @@ Období:                  | 2018-03
 | [Filip Dítě](filip-dite/)             |                16654.00 |
 | [Kateřina Hůlková](katerina-hulkova/) |                29000.00 |
 | [Michal Jokeš](michal-jokes/)         |                33745.00 |
-| [Daniel Lebduška](daniel-lebduska/)   |                 9000.00 |
 | [Samuel Machat](samuel-machat/)       |                10000.00 |
 | [Miroslav Mašek](miroslav-masek/)     |                16545.00 |
 | [Jan Můčka](jan-mucka/)               |                24290.00 |

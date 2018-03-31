@@ -30,12 +30,13 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                                                                                                           |   Počet hodin |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p43]**                                                                                                                                 |         33.50 |
+| **[Zastupitelstvo hl. m. prahy][p43]**                                                                                                                                 |         36.50 |
 | [#9953 Zasedání zastupitelstva 22. 3. 2018][t9953]                                                                                                                     |         12.00 |
 | [#9682 Z-6038 k záměru odboru INF MHMP na realizaci veřejné zakázky "Bezpečné sítové prostředí"][t9682]                                                                |          6.00 |
+| [#184 Rada hl. m. Prahy (RHMP)][t184]                                                                                                                                  |          5.00 |
 | [#10058 Z-6153 k záměru odboru INF MHMP na realizaci veřejné zakázky "Zajištění maintenance programového vybavení spisové služby a jejich modulů v rámci HMP"][t10058] |          5.00 |
 | [#1558 Web hlavního města Prahy][t1558]                                                                                                                                |          4.00 |
-| **Celkem v uvedených projektech**                                                                                                                                      |         33.50 |
+| **Celkem v uvedených projektech**                                                                                                                                      |         36.50 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -53,9 +54,9 @@ Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  30.00 hod/týdně = 126.00 hod/měs.
 Skutečně odvedená práce dle smlouvy    |   2.00 hod
-Práce hrazená jinými subjekty          |  31.50 hod
-**Celkový počet hodin**                |  33.50 hod
-**Procento vytížení**                  |   27 %
+Práce hrazená jinými subjekty          |  34.50 hod
+**Celkový počet hodin**                |  36.50 hod
+**Procento vytížení**                  |   29 %
 
 Odměna
 ------
@@ -92,7 +93,7 @@ Zastupitel hl. m. prahy má dále z titulu své funkce za tento měsíc nárok n
 | Typ příjmu                                        | Sazba           |   Měsíční částka (Kč) |
 |:--------------------------------------------------|:----------------|----------------------:|
 | paušální odměna člena Zastupitelstva hl. m. Prahy | 5651 Kč měsíčně |                5651.0 |
-| náhrada výdělku za dobu výkonu funkce             | 450 Kč hodinově |               14175.0 |
+| náhrada výdělku za dobu výkonu funkce             | 450 Kč hodinově |               15525.0 |
 
 Částky vyplácené jinými subjekty jsou uvedeny v přibližné výši.
 
@@ -113,6 +114,8 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [t9953]: https://redmine.pirati.cz/issues/9953/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=8&v[user_id][]=0
 
 [t9682]: https://redmine.pirati.cz/issues/9682/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=8&v[user_id][]=0
+
+[t184]: https://redmine.pirati.cz/issues/184/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=8&v[user_id][]=0
 
 [t10058]: https://redmine.pirati.cz/issues/10058/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=8&v[user_id][]=0
 

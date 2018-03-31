@@ -27,7 +27,6 @@ Seznam lidí
 | PO    | [Filip Dítě](../../tymy/PO/2018/03/filip-dite/)                   |           5.00 |                16654.00 |
 | PO    | [Kateřina Hůlková](../../tymy/PO/2018/03/katerina-hulkova/)       |         100.00 |                29000.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2018/03/michal-jokes/)               |           0.00 |                33745.00 |
-| PO    | [Daniel Lebduška](../../tymy/PO/2018/03/daniel-lebduska/)         |           0.00 |                 9000.00 |
 | PO    | [Samuel Machat](../../tymy/PO/2018/03/samuel-machat/)             |           0.00 |                10000.00 |
 | PO    | [Miroslav Mašek](../../tymy/PO/2018/03/miroslav-masek/)           |          11.00 |                16545.00 |
 | PO    | [Jan Můčka](../../tymy/PO/2018/03/jan-mucka/)                     |          11.00 |                24290.00 |
@@ -42,17 +41,17 @@ Seznam lidí
 | MO    | [Michal Zachar](../../tymy/MO/2018/03/michal-zachar/)             |           0.00 |                18000.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2018/03/tobias-esner/)               |          19.00 |                26000.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/03/aneta-heidlova/)          |          10.00 |                11436.00 |
-| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/03/ondrej-kallasch/)        |          27.00 |                  202.00 |
+| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/03/ondrej-kallasch/)        |          29.00 |                  202.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/03/michaela-kleslova/)    |          58.00 |                14363.00 |
 | Pha   | [Viktor Mahrik](../../tymy/Pha/2018/03/viktor-mahrik/)            |          16.00 |                 1995.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/03/ivan-mikolas/)              |          29.00 |                 3686.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/03/adam-zabransky/)          |          87.00 |                11130.00 |
 | Pha   | [Vít Šimral](../../tymy/Pha/2018/03/vit-simral/)                  |          25.00 |                 3131.00 |
-| Pha   | [Vít Šimral](../../tymy/Pha/2018/03/vit-simral/)                  |          25.00 |                 3131.00 |
 | Pha   | [Marcela Šroubková](../../tymy/Pha/2018/03/marcela-sroubkova/)    |          11.00 |                11363.00 |
-| PT    | [Viktorie Kalhousová](../../tymy/PT/2018/03/viktorie-kalhousova/) |         100.00 |                  640.00 |
-| PT    | [Adam Kudrlička](../../tymy/PT/2018/03/adam-kudrlicka/)           |         100.00 |                  660.00 |
+| PT    | [Viktorie Kalhousová](../../tymy/PT/2018/03/viktorie-kalhousova/) |         100.00 |                  960.00 |
+| PT    | [Adam Kudrlička](../../tymy/PT/2018/03/adam-kudrlicka/)           |         100.00 |                 1100.00 |
 | JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/03/zbynek-konvicka/)        |          44.00 |                 3850.00 |
+| ST    | [Vít Šimral](../../tymy/ST/2018/03/vit-simral/)                   |         100.00 |                 8550.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -61,15 +60,20 @@ práce uvádíme 100 %.
 Rozpis podle týmů
 -----------------
 
-| Rozpočet       | Položka                                  |   Náklady |
-|:---------------|:-----------------------------------------|----------:|
-| Centrála       | Mzdy a odměny                            | 278318.00 |
-| Centrála       | Odměny vedoucích za výkon funkce         |  58922.00 |
-| Centrála       | Provozní výdaje administrativního odboru |  26000.00 |
-| Centrála       | Provozní výdaje mediálního odboru        |  70562.00 |
-| Centrála       | Výdaje na právní záležitosti             |   1300.00 |
-| Jihočeský kraj | Mediální odbor Jihočeský kraj            |   3850.00 |
-| Praha          | Odměny zastupitelů                       |  23275.00 |
+| Rozpočet       | Položka                                   |   Náklady |
+|:---------------|:------------------------------------------|----------:|
+| Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
+| Centrála       | Provozní výdaje finančního odboru         |  10010.00 |
+| Centrála       | Provozní výdaje mediálního odboru         |  88562.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 310240.00 |
+| Centrála       | Provozní výdaje předsednictva             |  30000.00 |
+| Centrála       | Výdaje na právní záležitosti              |   2060.00 |
+| Centrála       | Výdaje transformace                       |  40000.00 |
+| Jihočeský kraj | Mzdové náklady vedoucí MO                 |   3850.00 |
+| Praha          | Koordinace dobrovolníků                   |  37162.00 |
+| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  17013.00 |
+| Praha          | Podpora senátora L. Michálka              |   8550.00 |
+| Praha          | Stínoví zastupitelé                       |   3131.00 |
 
 Strojově čitelná data
 -------------------
