@@ -17,15 +17,15 @@ Období:                  | 2018-03
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Aneta Heidlová](aneta-heidlova/)       |                10000.00 |
+| [Aneta Heidlová](aneta-heidlova/)       |                11436.00 |
 | [Ondřej Kallasch](ondrej-kallasch/)     |                  202.00 |
-| [Michaela Kleslová](michaela-kleslova/) |                10000.00 |
+| [Michaela Kleslová](michaela-kleslova/) |                14363.00 |
 | [Viktor Mahrik](viktor-mahrik/)         |                 1995.00 |
 | [Ivan Mikoláš](ivan-mikolas/)           |                 3686.00 |
 | [Adam Zábranský](adam-zabransky/)       |                11130.00 |
 | [Vít Šimral](vit-simral/)               |                 3131.00 |
 | [Vít Šimral](vit-simral/)               |                 3131.00 |
-| [Marcela Šroubková](marcela-sroubkova/) |                10000.00 |
+| [Marcela Šroubková](marcela-sroubkova/) |                11363.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
