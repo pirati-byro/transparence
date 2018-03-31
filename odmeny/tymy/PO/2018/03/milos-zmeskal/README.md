@@ -30,9 +30,11 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                              |   Počet hodin |
 |:------------------------------------------|--------------:|
+| **[Olomoucký kraj][p52]**                 |        120.00 |
+| [#6426 Krajský koordinátor OlK][t6426]    |        120.00 |
 | **[Personální odbor][p63]**               |          8.00 |
 | [#9761 školení koordinátorů 12.3.][t9761] |          8.00 |
-| **Celkem v uvedených projektech**         |          8.00 |
+| **Celkem v uvedených projektech**         |        128.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,10 +51,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  40.00 hod/týdně = 168.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   8.00 hod
+Skutečně odvedená práce dle smlouvy    | 128.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   8.00 hod
-**Procento vytížení**                  |    5 %
+**Celkový počet hodin**                | 128.00 hod
+**Procento vytížení**                  |   76 %
 
 Odměna
 ------
@@ -97,6 +99,10 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [hodnoceni]: https://redmine.pirati.cz/issues/
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
+
+[p52]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=52
+
+[t6426]: https://redmine.pirati.cz/issues/6426/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=2
 
 [p63]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=2&f[]=project_id&op[project_id]==&v[project_id][]=63
 

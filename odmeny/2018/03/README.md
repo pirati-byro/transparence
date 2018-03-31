@@ -34,7 +34,7 @@ Seznam lidí
 | PO    | [Barbora Přibylová](../../tymy/PO/2018/03/barbora-pribylova/)     |           0.00 |                20018.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2018/03/michaela-vodova/)         |         125.00 |                34690.00 |
 | PO    | [Libuše Věříšová](../../tymy/PO/2018/03/libuse-verisova/)         |           0.00 |                21000.00 |
-| PO    | [Miloš Zmeškal](../../tymy/PO/2018/03/milos-zmeskal/)             |           5.00 |                25781.00 |
+| PO    | [Miloš Zmeškal](../../tymy/PO/2018/03/milos-zmeskal/)             |          76.00 |                25781.00 |
 | PO    | [Pavel Štěpánek](../../tymy/PO/2018/03/pavel-stepanek/)           |          63.00 |                23927.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/03/jakub-dusanek/)             |         168.00 |                13018.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2018/03/roman-kucera/)               |          98.00 |                 7544.00 |
@@ -63,11 +63,10 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Mzdy a odměny                             |  20018.00 |
 | Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10010.00 |
 | Centrála       | Provozní výdaje mediálního odboru         |  88562.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 310240.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 330258.00 |
 | Centrála       | Provozní výdaje předsednictva             |  30000.00 |
 | Centrála       | Výdaje na právní záležitosti              |   2060.00 |
 | Centrála       | Výdaje transformace                       |  40000.00 |
