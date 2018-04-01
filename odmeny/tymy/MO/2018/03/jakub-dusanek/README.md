@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                           |   Počet hodin |
 |:-------------------------------------------------------|--------------:|
-| **[Mediální odbor][p82]**                              |        141.50 |
-| [#6579 Psavec - Mediální odbor - Jakub Dušánek][t6579] |        141.50 |
-| **Celkem v uvedených projektech**                      |        141.50 |
+| **[Mediální odbor][p82]**                              |        143.00 |
+| [#6579 Psavec - Mediální odbor - Jakub Dušánek][t6579] |        143.00 |
+| **Celkem v uvedených projektech**                      |        143.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,10 +49,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  84.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    | 141.50 hod
+Skutečně odvedená práce dle smlouvy    | 143.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                | 141.50 hod
-**Procento vytížení**                  |  168 %
+**Celkový počet hodin**                | 143.00 hod
+**Procento vytížení**                  |  170 %
 
 Odměna
 ------
@@ -75,11 +75,11 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |  7728.00 Kč
-Hodinová odměna nad odhadnutý rozsah   |  5290.00 Kč
+Hodinová odměna nad odhadnutý rozsah   |  5428.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 13018.00 Kč
+**Celková odměna**                     | 13156.00 Kč
 
 
 ### Odměna od jiných subjektů

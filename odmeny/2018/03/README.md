@@ -20,7 +20,7 @@ Seznam lidí
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/03/jaromir-beranek/)         |         100.00 |                10000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/03/martin-kucera/)             |         100.00 |                 8000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/03/michal-novak/)               |           0.00 |                40000.00 |
-| RP    | [Jana Rohová](../../tymy/RP/2018/03/jana-rohova/)                 |         100.00 |                40922.00 |
+| RP    | [Jana Rohová](../../tymy/RP/2018/03/jana-rohova/)                 |         100.00 |                45422.00 |
 | FO    | [Hana Ančincová](../../tymy/FO/2018/03/hana-ancincova/)           |         100.00 |                   10.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/03/daniela-bila/)               |           0.00 |                 6427.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/03/jakub-dedek/)                 |           6.00 |                24472.00 |
@@ -29,22 +29,22 @@ Seznam lidí
 | PO    | [Michal Jokeš](../../tymy/PO/2018/03/michal-jokes/)               |           0.00 |                33745.00 |
 | PO    | [Samuel Machat](../../tymy/PO/2018/03/samuel-machat/)             |           0.00 |                10000.00 |
 | PO    | [Miroslav Mašek](../../tymy/PO/2018/03/miroslav-masek/)           |          11.00 |                16545.00 |
-| PO    | [Jan Můčka](../../tymy/PO/2018/03/jan-mucka/)                     |          11.00 |                24290.00 |
+| PO    | [Jan Můčka](../../tymy/PO/2018/03/jan-mucka/)                     |          14.00 |                24290.00 |
 | PO    | [Zuzana Petrůvová](../../tymy/PO/2018/03/zuzana-petruvova/)       |           0.00 |                 2787.00 |
 | PO    | [Barbora Přibylová](../../tymy/PO/2018/03/barbora-pribylova/)     |           0.00 |                20018.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2018/03/michaela-vodova/)         |         125.00 |                34690.00 |
 | PO    | [Libuše Věříšová](../../tymy/PO/2018/03/libuse-verisova/)         |           0.00 |                21000.00 |
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/03/milos-zmeskal/)             |          76.00 |                25781.00 |
 | PO    | [Pavel Štěpánek](../../tymy/PO/2018/03/pavel-stepanek/)           |          63.00 |                23927.00 |
-| MO    | [Jakub Dušánek](../../tymy/MO/2018/03/jakub-dusanek/)             |         168.00 |                13018.00 |
+| MO    | [Jakub Dušánek](../../tymy/MO/2018/03/jakub-dusanek/)             |         170.00 |                13156.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2018/03/roman-kucera/)               |          98.00 |                 7544.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/03/karolina-sadilkova/)   |         100.00 |                50000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/03/michal-zachar/)             |           0.00 |                18000.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2018/03/tobias-esner/)               |          19.00 |                26000.00 |
-| Pha   | [Aneta Heidlová](../../tymy/Pha/2018/03/aneta-heidlova/)          |          10.00 |                11436.00 |
-| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/03/ondrej-kallasch/)        |          29.00 |                  202.00 |
+| Pha   | [Aneta Heidlová](../../tymy/Pha/2018/03/aneta-heidlova/)          |          70.00 |                11436.00 |
+| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/03/ondrej-kallasch/)        |          29.00 |                 2272.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/03/michaela-kleslova/)    |          58.00 |                14363.00 |
-| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/03/viktor-mahrik/)            |          16.00 |                 1995.00 |
+| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/03/viktor-mahrik/)            |          43.00 |                 5449.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/03/ivan-mikolas/)              |          29.00 |                 3686.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/03/adam-zabransky/)          |          87.00 |                11130.00 |
 | Pha   | [Vít Šimral](../../tymy/Pha/2018/03/vit-simral/)                  |          25.00 |                 3131.00 |
@@ -65,14 +65,14 @@ Rozpis podle týmů
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10010.00 |
-| Centrála       | Provozní výdaje mediálního odboru         |  88562.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 330258.00 |
+| Centrála       | Provozní výdaje mediálního odboru         |  88700.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 334758.00 |
 | Centrála       | Provozní výdaje předsednictva             |  30000.00 |
 | Centrála       | Výdaje na právní záležitosti              |   2060.00 |
 | Centrála       | Výdaje transformace                       |  40000.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   3850.00 |
 | Praha          | Koordinace dobrovolníků                   |  37162.00 |
-| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  17013.00 |
+| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  22537.00 |
 | Praha          | Podpora senátora L. Michálka              |   8550.00 |
 | Praha          | Stínoví zastupitelé                       |   3131.00 |
 
