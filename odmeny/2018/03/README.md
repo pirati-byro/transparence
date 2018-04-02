@@ -41,7 +41,7 @@ Seznam lidí
 | MO    | [Roman Kučera](../../tymy/MO/2018/03/roman-kucera/)               |          98.00 |                 7544.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/03/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/03/michal-zachar/)             |           0.00 |                20000.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2018/03/tobias-esner/)               |          19.00 |                26000.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2018/03/tobias-esner/)               |          19.00 |                30000.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/03/aneta-heidlova/)          |          70.00 |                11436.00 |
 | Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/03/ondrej-kallasch/)        |          29.00 |                 2272.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/03/michaela-kleslova/)    |          58.00 |                14363.00 |
@@ -64,7 +64,7 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  38000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  12410.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 100700.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 344547.00 |

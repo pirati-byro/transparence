@@ -17,7 +17,7 @@ Období:                  | 2018-03
 
 | Jméno a příjmení              |   Odměna od strany (Kč) |
 |:------------------------------|------------------------:|
-| [Tobias Esner](tobias-esner/) |                26000.00 |
+| [Tobias Esner](tobias-esner/) |                30000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
