@@ -17,7 +17,7 @@ Období:                  | 2018-03
 
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
-| [Zbyněk Konvička](zbynek-konvicka/) |                 3850.00 |
+| [Zbyněk Konvička](zbynek-konvicka/) |                 5350.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

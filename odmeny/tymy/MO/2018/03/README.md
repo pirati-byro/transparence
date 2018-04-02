@@ -17,10 +17,10 @@ Období:                  | 2018-03
 
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
-| [Jakub Dušánek](jakub-dusanek/)           |                13156.00 |
+| [Jakub Dušánek](jakub-dusanek/)           |                 9156.00 |
 | [Roman Kučera](roman-kucera/)             |                 7544.00 |
-| [Karolína Sadílková](karolina-sadilkova/) |                50000.00 |
-| [Michal Zachar](michal-zachar/)           |                18000.00 |
+| [Karolína Sadílková](karolina-sadilkova/) |                44000.00 |
+| [Michal Zachar](michal-zachar/)           |                16000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

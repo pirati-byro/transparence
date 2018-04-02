@@ -17,7 +17,7 @@ Období:                  | 2018-03
 
 | Jméno a příjmení                  |   Odměna od strany (Kč) |
 |:----------------------------------|------------------------:|
-| [Hana Ančincová](hana-ancincova/) |                   10.00 |
+| [Hana Ančincová](hana-ancincova/) |                 2410.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
