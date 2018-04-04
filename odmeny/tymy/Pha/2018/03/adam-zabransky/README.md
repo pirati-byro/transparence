@@ -30,16 +30,17 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                               |   Počet hodin |
 |:-----------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p43]**                     |        110.20 |
-| [#8722 Úspěch v pražských komunálních volbách 2018][t8722] |         20.80 |
+| **[Zastupitelstvo hl. m. prahy][p43]**                     |        113.60 |
+| [#8722 Úspěch v pražských komunálních volbách 2018][t8722] |         22.60 |
 | [#9953 Zasedání zastupitelstva 22. 3. 2018][t9953]         |         19.00 |
 | [#597 E-mailová komunikace][t597]                          |         18.60 |
 | [#806 Výbor pro územní rozvoj a územní plán][t806]         |          8.40 |
 | [#1996 Přenášení zkušeností do strany][t1996]              |          5.90 |
 | [#10154 Plán udržitelné mobility][t10154]                  |          5.60 |
 | [#165 Mediální výstupy][t165]                              |          5.10 |
+| [#1973 Vedení zastupitelského klubu][t1973]                |          4.10 |
 | [#8725 Výběrka na stínové zastupitele][t8725]              |          3.40 |
-| **Celkem v uvedených projektech**                          |        110.20 |
+| **Celkem v uvedených projektech**                          |        113.65 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -56,10 +57,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  30.00 hod/týdně = 126.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    | 110.20 hod
+Skutečně odvedená práce dle smlouvy    | 113.65 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                | 110.20 hod
-**Procento vytížení**                  |   87 %
+**Celkový počet hodin**                | 113.65 hod
+**Procento vytížení**                  |   90 %
 
 Odměna
 ------
@@ -81,12 +82,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
-Hodinová odměna do odhadnutého rozsahu | 11130.20 Kč
+Hodinová odměna do odhadnutého rozsahu | 11478.65 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 11130.20 Kč
+**Celková odměna**                     | 11478.65 Kč
 
 
 ### Odměna od jiných subjektů
@@ -127,6 +128,8 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [t10154]: https://redmine.pirati.cz/issues/10154/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=6
 
 [t165]: https://redmine.pirati.cz/issues/165/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=6
+
+[t1973]: https://redmine.pirati.cz/issues/1973/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=6
 
 [t8725]: https://redmine.pirati.cz/issues/8725/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-03-01&v[spent_on][]=2018-03-31&v[user_id][]=1&v[user_id][]=6
 

@@ -22,7 +22,7 @@ Období:                  | 2018-03
 | [Michaela Kleslová](michaela-kleslova/) |                14363.00 |
 | [Viktor Mahrik](viktor-mahrik/)         |                 5449.00 |
 | [Ivan Mikoláš](ivan-mikolas/)           |                11565.00 |
-| [Adam Zábranský](adam-zabransky/)       |                11130.00 |
+| [Adam Zábranský](adam-zabransky/)       |                11479.00 |
 | [Vít Šimral](vit-simral/)               |                 3131.00 |
 | [Marcela Šroubková](marcela-sroubkova/) |                11363.00 |
 
