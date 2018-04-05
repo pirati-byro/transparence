@@ -19,7 +19,7 @@ Období:                  | 2018-03
 |:----------------------------------------|------------------------:|
 | [Daniela Bílá](daniela-bila/)           |                 6427.00 |
 | [Jakub Dedek](jakub-dedek/)             |                24472.00 |
-| [Štěpán Drtina](stepan-drtina/)         |                 9789.00 |
+| [Štěpán Drtina](stepan-drtina/)         |                13789.00 |
 | [Filip Dítě](filip-dite/)               |                16654.00 |
 | [Kateřina Hůlková](katerina-hulkova/)   |                29000.00 |
 | [Michal Jokeš](michal-jokes/)           |                33745.00 |
