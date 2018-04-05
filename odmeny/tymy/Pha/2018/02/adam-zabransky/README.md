@@ -28,19 +28,19 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                                          |   Počet hodin |
-|:------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p43]**                |         94.60 |
-| [#597 E-mailová komunikace][t597]                     |         15.80 |
-| [#9518 Zasedání zastupitelstva 22. února 2018][t9518] |         15.80 |
-| [#806 Výbor pro územní rozvoj a územní plán][t806]    |         11.50 |
-| [#797 Kontrolní výbor][t797]                          |          7.80 |
-| [#8722 Úspěch v pražských volbách 2018][t8722]        |          6.20 |
-| [#165 Mediální výstupy][t165]                         |          5.10 |
-| [#9138 Jednání klubu 2018][t9138]                     |          4.40 |
-| [#184 Rada hl. m. Prahy (RHMP)][t184]                 |          3.40 |
-| [#182 Jednání klubu][t182]                            |          3.40 |
-| **Celkem v uvedených projektech**                     |         94.55 |
+| Projekt/úkol                                               |   Počet hodin |
+|:-----------------------------------------------------------|--------------:|
+| **[Zastupitelstvo hl. m. prahy][p43]**                     |         94.60 |
+| [#597 E-mailová komunikace][t597]                          |         15.80 |
+| [#9518 Zasedání zastupitelstva 22. února 2018][t9518]      |         15.80 |
+| [#806 Výbor pro územní rozvoj a územní plán][t806]         |         11.50 |
+| [#797 Kontrolní výbor][t797]                               |          7.80 |
+| [#8722 Úspěch v pražských komunálních volbách 2018][t8722] |          6.20 |
+| [#165 Mediální výstupy][t165]                              |          5.10 |
+| [#9138 Jednání klubu 2018][t9138]                          |          4.40 |
+| [#184 Rada hl. m. Prahy (RHMP)][t184]                      |          3.40 |
+| [#182 Jednání klubu][t182]                                 |          3.40 |
+| **Celkem v uvedených projektech**                          |         94.55 |
 
 Smlouva se vztahuje na všechny projekty. 
 

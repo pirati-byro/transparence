@@ -18,9 +18,10 @@ Období:                  | 2018-02
 | Jméno a příjmení                      |   Odměna od strany (Kč) |
 |:--------------------------------------|------------------------:|
 | [Aneta Heidlová](aneta-heidlova/)     |                 9999.00 |
-| [Ondřej Kallasch](ondrej-kallasch/)   |                  852.00 |
+| [Ondřej Kallasch](ondrej-kallasch/)   |                 1154.00 |
 | [Romana Klimešová](romana-klimesova/) |                10000.00 |
 | [Viktor Mahrik](viktor-mahrik/)       |                 4707.00 |
+| [Ivan Mikoláš](ivan-mikolas/)         |                13377.00 |
 | [Adam Zábranský](adam-zabransky/)     |                13550.00 |
 
 

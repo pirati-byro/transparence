@@ -18,7 +18,7 @@ Období:                  | 2018-03
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
 | [Jakub Dušánek](jakub-dusanek/)           |                17156.00 |
-| [Jiří Hoskovec](jiri-hoskovec/)           |                 9000.00 |
+| [Jiří Hoskovec](jiri-hoskovec/)           |                12000.00 |
 | [Roman Kučera](roman-kucera/)             |                18628.00 |
 | [Karolína Sadílková](karolina-sadilkova/) |                56000.00 |
 | [Michal Zachar](michal-zachar/)           |                20000.00 |

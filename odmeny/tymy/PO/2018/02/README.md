@@ -23,7 +23,6 @@ Období:                  | 2018-02
 | [Michaela Kleslová](michaela-kleslova/) |                13500.00 |
 | [Daniel Lebduška](daniel-lebduska/)     |                20781.00 |
 | [Samuel Machat](samuel-machat/)         |                10000.00 |
-| [Yveta Matínková](yveta-matinkova/)     |                23909.00 |
 | [Zuzana Petrůvová](zuzana-petruvova/)   |                10000.00 |
 | [Barbora Přibylová](barbora-pribylova/) |                21218.00 |
 | [Michaela Vodová](michaela-vodova/)     |                25000.00 |

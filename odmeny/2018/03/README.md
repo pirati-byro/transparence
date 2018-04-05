@@ -39,7 +39,7 @@ Seznam lidí
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/03/milos-zmeskal/)             |          76.00 |                25781.00 |
 | PO    | [Pavel Štěpánek](../../tymy/PO/2018/03/pavel-stepanek/)           |          63.00 |                23927.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/03/jakub-dusanek/)             |         170.00 |                17156.00 |
-| MO    | [Jiří Hoskovec](../../tymy/MO/2018/03/jiri-hoskovec/)             |         100.00 |                 9000.00 |
+| MO    | [Jiří Hoskovec](../../tymy/MO/2018/03/jiri-hoskovec/)             |         100.00 |                12000.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2018/03/roman-kucera/)               |         189.00 |                18628.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/03/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/03/michal-zachar/)             |           0.00 |                20000.00 |
@@ -55,7 +55,7 @@ Seznam lidí
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/03/viktorie-kalhousova/) |         100.00 |                  960.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/03/adam-kudrlicka/)           |         100.00 |                 1100.00 |
 | JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/03/zbynek-konvicka/)        |          44.00 |                 5350.00 |
-| ST    | [Vít Šimral](../../tymy/ST/2018/03/vit-simral/)                   |         100.00 |                19070.00 |
+| ST    | [Vít Šimral](../../tymy/ST/2018/03/vit-simral/)                   |         100.00 |                 8550.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -68,7 +68,7 @@ Rozpis podle týmů
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  38000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  17410.00 |
-| Centrála       | Provozní výdaje mediálního odboru         | 120784.00 |
+| Centrála       | Provozní výdaje mediálního odboru         | 123784.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 369547.00 |
 | Centrála       | Provozní výdaje předsednictva             |  30000.00 |
 | Centrála       | Výdaje na právní záležitosti              |   2060.00 |
@@ -77,7 +77,7 @@ Rozpis podle týmů
 | Praha          | Koordinace dobrovolníků                   |  37162.00 |
 | Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  30765.00 |
 | Praha          | Podpora senátora L. Michálka              |   8550.00 |
-| Praha          | Stínoví zastupitelé                       |   6650.00 |
+| Praha          | Stínoví zastupitelé                       |   3131.00 |
 
 Strojově čitelná data
 -------------------
