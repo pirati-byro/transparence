@@ -16,9 +16,9 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| RP    | [Šárka Altmanová](../../tymy/RP/2018/03/sarka-altmanova/)         |           7.00 |                30000.00 |
+| RP    | [Šárka Altmanová](../../tymy/RP/2018/03/sarka-altmanova/)         |           7.00 |                16500.00 |
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/03/jaromir-beranek/)         |         100.00 |                15000.00 |
-| RP    | [Martin Kučera](../../tymy/RP/2018/03/martin-kucera/)             |         100.00 |                 8000.00 |
+| RP    | [Martin Kučera](../../tymy/RP/2018/03/martin-kucera/)             |         100.00 |                10000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/03/michal-novak/)               |           0.00 |                40000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/03/jana-rohova/)                 |         100.00 |                45422.00 |
 | FO    | [Hana Ančincová](../../tymy/FO/2018/03/hana-ancincova/)           |         100.00 |                 2410.00 |
@@ -66,11 +66,11 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  38000.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  40000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  17410.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 123784.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 373547.00 |
-| Centrála       | Provozní výdaje předsednictva             |  30000.00 |
+| Centrála       | Provozní výdaje předsednictva             |  16500.00 |
 | Centrála       | Výdaje na právní záležitosti              |   2060.00 |
 | Centrála       | Výdaje transformace                       |  40000.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   5350.00 |
