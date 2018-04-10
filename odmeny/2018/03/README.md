@@ -44,13 +44,13 @@ Seznam lidí
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/03/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/03/michal-zachar/)             |           0.00 |                20000.00 |
 | AO    | [Tobias Esner](../../tymy/AO/2018/03/tobias-esner/)               |          19.00 |                30000.00 |
-| Pha   | [Aneta Heidlová](../../tymy/Pha/2018/03/aneta-heidlova/)          |          70.00 |                11436.00 |
+| Pha   | [Aneta Heidlová](../../tymy/Pha/2018/03/aneta-heidlova/)          |          70.00 |                14436.00 |
 | Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/03/ondrej-kallasch/)        |          29.00 |                 4272.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/03/michaela-kleslova/)    |          58.00 |                14363.00 |
 | Pha   | [Viktor Mahrik](../../tymy/Pha/2018/03/viktor-mahrik/)            |          43.00 |                 6949.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/03/ivan-mikolas/)              |          91.00 |                18564.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/03/adam-zabransky/)          |          90.00 |                16479.00 |
-| Pha   | [Vít Šimral](../../tymy/Pha/2018/03/vit-simral/)                  |          25.00 |                 5131.00 |
+| Pha   | [Vít Šimral](../../tymy/Pha/2018/03/vit-simral/)                  |          25.00 |                 6650.00 |
 | Pha   | [Marcela Šroubková](../../tymy/Pha/2018/03/marcela-sroubkova/)    |          11.00 |                11363.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/03/viktorie-kalhousova/) |         100.00 |                  960.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/03/adam-kudrlicka/)           |         100.00 |                 1100.00 |
@@ -74,10 +74,10 @@ Rozpis podle týmů
 | Centrála       | Výdaje na právní záležitosti              |   2060.00 |
 | Centrála       | Výdaje transformace                       |  40000.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   5350.00 |
-| Praha          | Koordinace dobrovolníků                   |  37162.00 |
+| Praha          | Koordinace dobrovolníků                   |  40162.00 |
 | Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  46264.00 |
 | Praha          | Podpora senátora L. Michálka              |  10550.00 |
-| Praha          | Stínoví zastupitelé                       |   5131.00 |
+| Praha          | Stínoví zastupitelé                       |   6650.00 |
 
 Strojově čitelná data
 -------------------
