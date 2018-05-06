@@ -77,10 +77,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        | 30000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  5000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 30000.00 Kč
+**Celková odměna**                     | 35000.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -109,4 +109,4 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=161
 
-[smlouva]: nan
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2018/03/01/kk-vys/

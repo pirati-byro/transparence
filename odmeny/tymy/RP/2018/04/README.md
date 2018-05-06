@@ -22,6 +22,7 @@ Období:                  | 2018-04
 | [Martin Kučera](martin-kucera/)     |                 8000.00 |
 | [Michal Novák](michal-novak/)       |                40000.00 |
 | [Jana Rohová](jana-rohova/)         |                31550.00 |
+| [Jaroslava Vatay](jaroslava-vatay/) |                  380.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
