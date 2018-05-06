@@ -49,8 +49,8 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   2.00 hod
-Práce hrazená jinými subjekty          |  25.25 hod
+Skutečně odvedená práce dle smlouvy    |  27.25 hod
+Práce hrazená jinými subjekty          |   0.00 hod
 **Celkový počet hodin**                |  27.25 hod
 **Procento vytížení**                  |  100 %
 
@@ -75,11 +75,11 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
-Hodinová odměna nad odhadnutý rozsah   |   380.00 Kč
+Hodinová odměna nad odhadnutý rozsah   |  5177.50 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |   380.00 Kč
+**Celková odměna**                     |  5177.50 Kč
 
 
 ### Odměna od jiných subjektů

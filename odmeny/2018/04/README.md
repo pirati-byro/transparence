@@ -21,7 +21,7 @@ Seznam lidí
 | RP    | [Martin Kučera](../../tymy/RP/2018/04/martin-kucera/)             |         100.00 |                 8000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/04/michal-novak/)               |           0.00 |                40000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/04/jana-rohova/)                 |         100.00 |                31550.00 |
-| RP    | [Jaroslava Vatay](../../tymy/RP/2018/04/jaroslava-vatay/)         |         100.00 |                  380.00 |
+| RP    | [Jaroslava Vatay](../../tymy/RP/2018/04/jaroslava-vatay/)         |         100.00 |                 5178.00 |
 | FO    | [Hana Ančincová](../../tymy/FO/2018/04/hana-ancincova/)           |         100.00 |                  700.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/04/daniela-bila/)               |           0.00 |                 7063.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/04/jakub-dedek/)                 |          82.00 |                24472.00 |
@@ -85,7 +85,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje předsednictva             |  30000.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  12180.00 |
 | Centrála       | Výdaje na právní záležitosti              |    720.00 |
-| Centrála       | Výdaje transformace                       |  40380.00 |
+| Centrála       | Výdaje transformace                       |  45178.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   2525.00 |
 | Kraj Vysočina  | Personální výdaje                         |  20000.00 |
 | Praha          | Koordinace dobrovolníků                   |  44580.00 |
