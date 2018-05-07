@@ -23,7 +23,7 @@ Období:                  | 2018-04
 | [Viktor Mahrik](viktor-mahrik/)         |                 5984.00 |
 | [Ivan Mikoláš](ivan-mikolas/)           |                  252.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 8206.00 |
-| [Vít Šimral](vit-simral/)               |                14700.00 |
+| [Vít Šimral](vit-simral/)               |                16700.00 |
 | [Marcela Šroubková](marcela-sroubkova/) |                15890.00 |
 | [Štěpán Štrébl](stepan-strebl/)         |                40000.00 |
 

@@ -17,7 +17,7 @@ Období:                  | 2018-04
 
 | Jméno a příjmení            |   Odměna od strany (Kč) |
 |:----------------------------|------------------------:|
-| [Ondřej Tůma](ondrej-tuma/) |                20000.00 |
+| [Ondřej Tůma](ondrej-tuma/) |                22300.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
