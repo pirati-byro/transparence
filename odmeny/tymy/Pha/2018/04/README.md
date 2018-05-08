@@ -18,11 +18,11 @@ Období:                  | 2018-04
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Aneta Heidlová](aneta-heidlova/)       |                14290.00 |
-| [Ondřej Kallasch](ondrej-kallasch/)     |                 3282.00 |
+| [Ondřej Kallasch](ondrej-kallasch/)     |                 4782.00 |
 | [Michaela Kleslová](michaela-kleslova/) |                14400.00 |
-| [Viktor Mahrik](viktor-mahrik/)         |                 5984.00 |
-| [Ivan Mikoláš](ivan-mikolas/)           |                  252.00 |
-| [Adam Zábranský](adam-zabransky/)       |                 8206.00 |
+| [Viktor Mahrik](viktor-mahrik/)         |                 8484.00 |
+| [Ivan Mikoláš](ivan-mikolas/)           |                13666.00 |
+| [Adam Zábranský](adam-zabransky/)       |                12706.00 |
 | [Vít Šimral](vit-simral/)               |                16700.00 |
 | [Marcela Šroubková](marcela-sroubkova/) |                15890.00 |
 | [Štěpán Štrébl](stepan-strebl/)         |                40000.00 |

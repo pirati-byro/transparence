@@ -16,7 +16,7 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| RP    | [Šárka Altmanová](../../tymy/RP/2018/04/sarka-altmanova/)         |         102.00 |                30000.00 |
+| RP    | [Šárka Altmanová](../../tymy/RP/2018/04/sarka-altmanova/)         |         102.00 |                34500.00 |
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/04/jaromir-beranek/)         |         100.00 |                10000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/04/martin-kucera/)             |         100.00 |                 8000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/04/michal-novak/)               |           0.00 |                40000.00 |
@@ -52,17 +52,17 @@ Seznam lidí
 | ZO    | [Markéta Gregorová](../../tymy/ZO/2018/04/marketa-gregorova/)     |          38.00 |                12180.00 |
 | ZO    | [Štěpán Štrébl](../../tymy/ZO/2018/04/stepan-strebl/)             |         100.00 |                  150.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/04/aneta-heidlova/)          |         116.00 |                14290.00 |
-| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/04/ondrej-kallasch/)        |          27.00 |                 3282.00 |
+| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/04/ondrej-kallasch/)        |          27.00 |                 4782.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/04/michaela-kleslova/)    |          58.00 |                14400.00 |
-| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/04/viktor-mahrik/)            |          49.00 |                 5984.00 |
-| Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/04/ivan-mikolas/)              |           2.00 |                  252.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2018/04/adam-zabransky/)          |          68.00 |                 8206.00 |
+| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/04/viktor-mahrik/)            |          49.00 |                 8484.00 |
+| Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/04/ivan-mikolas/)              |          55.00 |                13666.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2018/04/adam-zabransky/)          |          68.00 |                12706.00 |
 | Pha   | [Vít Šimral](../../tymy/Pha/2018/04/vit-simral/)                  |          82.00 |                16700.00 |
 | Pha   | [Marcela Šroubková](../../tymy/Pha/2018/04/marcela-sroubkova/)    |           0.00 |                15890.00 |
 | Pha   | [Štěpán Štrébl](../../tymy/Pha/2018/04/stepan-strebl/)            |         100.00 |                40000.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/04/viktorie-kalhousova/) |         100.00 |                  720.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/04/adam-kudrlicka/)           |         100.00 |                    0.00 |
-| JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/04/zbynek-konvicka/)        |          13.00 |                 2525.00 |
+| JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/04/zbynek-konvicka/)        |          13.00 |                 4025.00 |
 | OlK   | [Patrik Kuba](../../tymy/OlK/2018/04/patrik-kuba/)                |         100.00 |                14000.00 |
 | OlK   | [Tomáš Nakládal](../../tymy/OlK/2018/04/tomas-nakladal/)          |         100.00 |                14000.00 |
 | MsK   | [Veronika Murzynová](../../tymy/MsK/2018/04/veronika-murzynova/)  |          29.00 |                15000.00 |
@@ -82,14 +82,14 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje finančního odboru         |  10700.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 188512.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 399094.00 |
-| Centrála       | Provozní výdaje předsednictva             |  30000.00 |
+| Centrála       | Provozní výdaje předsednictva             |  34500.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  12180.00 |
 | Centrála       | Výdaje na právní záležitosti              |    720.00 |
 | Centrála       | Výdaje transformace                       |  45178.00 |
-| Jihočeský kraj | Mzdové náklady vedoucí MO                 |   2525.00 |
+| Jihočeský kraj | Mzdové náklady vedoucí MO                 |   4025.00 |
 | Kraj Vysočina  | Personální výdaje                         |  22300.00 |
 | Praha          | Koordinace dobrovolníků                   |  44580.00 |
-| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  17724.00 |
+| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  39638.00 |
 | Praha          | Podpora senátora L. Michálka              |   8040.00 |
 | Praha          | Stínoví zastupitelé                       |  16700.00 |
 

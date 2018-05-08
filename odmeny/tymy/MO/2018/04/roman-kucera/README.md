@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Roman Kučera
 -----------------------                | --------------------
 Funkce:                                | psavec mediálního odboru
 Tým:                                   | mediální odbor
-Smlouva:                               | [smlouva ze dne 9. 3. 2016][smlouva]
+Smlouva:                               | [smlouva ze dne 7. 4. 2017][smlouva]
 Období:                                | 2018-04
 
 
