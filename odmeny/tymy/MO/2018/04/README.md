@@ -20,7 +20,7 @@ Období:                  | 2018-04
 | [Jakub Dušánek](jakub-dusanek/)           |                38000.00 |
 | [Daniel Galuszka](daniel-galuszka/)       |                12000.00 |
 | [Jiří Hoskovec](jiri-hoskovec/)           |                12000.00 |
-| [Roman Kučera](roman-kucera/)             |                10000.00 |
+| [Roman Kučera](roman-kucera/)             |                 1012.00 |
 | [Karolína Sadílková](karolina-sadilkova/) |                56000.00 |
 | [Jan Vrobel](jan-vrobel/)                 |                50000.00 |
 | [Michal Zachar](michal-zachar/)           |                19500.00 |

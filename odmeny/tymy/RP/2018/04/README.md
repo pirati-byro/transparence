@@ -21,7 +21,7 @@ Období:                  | 2018-04
 | [Jaromír Beránek](jaromir-beranek/) |                10000.00 |
 | [Martin Kučera](martin-kucera/)     |                 8000.00 |
 | [Michal Novák](michal-novak/)       |                40000.00 |
-| [Jana Rohová](jana-rohova/)         |                31550.00 |
+| [Jana Rohová](jana-rohova/)         |                36050.00 |
 | [Jaroslava Vatay](jaroslava-vatay/) |                 5178.00 |
 
 

@@ -20,7 +20,7 @@ Seznam lidí
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/04/jaromir-beranek/)         |         100.00 |                10000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/04/martin-kucera/)             |         100.00 |                 8000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/04/michal-novak/)               |           0.00 |                40000.00 |
-| RP    | [Jana Rohová](../../tymy/RP/2018/04/jana-rohova/)                 |         100.00 |                31550.00 |
+| RP    | [Jana Rohová](../../tymy/RP/2018/04/jana-rohova/)                 |         100.00 |                36050.00 |
 | RP    | [Jaroslava Vatay](../../tymy/RP/2018/04/jaroslava-vatay/)         |         100.00 |                 5178.00 |
 | FO    | [Hana Ančincová](../../tymy/FO/2018/04/hana-ancincova/)           |         100.00 |                  700.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/04/daniela-bila/)               |           0.00 |                 7063.00 |
@@ -44,7 +44,7 @@ Seznam lidí
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/04/jakub-dusanek/)             |         100.00 |                38000.00 |
 | MO    | [Daniel Galuszka](../../tymy/MO/2018/04/daniel-galuszka/)         |         100.00 |                12000.00 |
 | MO    | [Jiří Hoskovec](../../tymy/MO/2018/04/jiri-hoskovec/)             |         100.00 |                12000.00 |
-| MO    | [Roman Kučera](../../tymy/MO/2018/04/roman-kucera/)               |         100.00 |                10000.00 |
+| MO    | [Roman Kučera](../../tymy/MO/2018/04/roman-kucera/)               |          14.00 |                 1012.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/04/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Jan Vrobel](../../tymy/MO/2018/04/jan-vrobel/)                   |           0.00 |                50000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/04/michal-zachar/)             |           0.00 |                19500.00 |
@@ -80,8 +80,8 @@ Rozpis podle týmů
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10700.00 |
-| Centrála       | Provozní výdaje mediálního odboru         | 197500.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 394594.00 |
+| Centrála       | Provozní výdaje mediálního odboru         | 188512.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 399094.00 |
 | Centrála       | Provozní výdaje předsednictva             |  30000.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  12180.00 |
 | Centrála       | Výdaje na právní záležitosti              |    720.00 |

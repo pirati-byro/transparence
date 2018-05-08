@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Roman Kučera
 -----------------------                | --------------------
 Funkce:                                | psavec mediálního odboru
 Tým:                                   | mediální odbor
-Smlouva:                               | [smlouva ze dne 1. 4. 2018][smlouva]
+Smlouva:                               | [smlouva ze dne 9. 3. 2016][smlouva]
 Období:                                | 2018-04
 
 
@@ -50,11 +50,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
+Odhadnutý rozsah práce                 |  20.00 hod/týdně =  80.00 hod/měs.
 Skutečně odvedená práce dle smlouvy    |  11.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
 **Celkový počet hodin**                |  11.00 hod
-**Procento vytížení**                  |  100 %
+**Procento vytížení**                  |   14 %
 
 Odměna
 ------
@@ -66,22 +66,22 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        | 10000.00 Kč
-Hodinová odměna                        |     0.00 Kč/hod
-Úkolová odměna                         |  5000.00 Kč
+Paušální odměna                        |     0.00 Kč
+Hodinová odměna                        |    92.00 Kč/hod
+Úkolová odměna                         |  4000.00 Kč
 Odpočet                                |     0.00 Kč
 
 ### Skutečná odměna podle odvedené práce
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        | 10000.00 Kč
-Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
+Paušální odměna                        |     0.00 Kč
+Hodinová odměna do odhadnutého rozsahu |  1012.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 10000.00 Kč
+**Celková odměna**                     |  1012.00 Kč
 
 
 ### Odměna od jiných subjektů
