@@ -18,7 +18,7 @@ Seznam lidí
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | RP    | [Šárka Altmanová](../../tymy/RP/2018/04/sarka-altmanova/)         |         102.00 |                34500.00 |
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/04/jaromir-beranek/)         |         100.00 |                14000.00 |
-| RP    | [Martin Kučera](../../tymy/RP/2018/04/martin-kucera/)             |         100.00 |                 8000.00 |
+| RP    | [Martin Kučera](../../tymy/RP/2018/04/martin-kucera/)             |         100.00 |                 8800.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/04/michal-novak/)               |           0.00 |                40000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/04/jana-rohova/)                 |         100.00 |                36050.00 |
 | RP    | [Jaroslava Vatay](../../tymy/RP/2018/04/jaroslava-vatay/)         |         100.00 |                 5178.00 |
@@ -78,7 +78,7 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  39000.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  39800.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  14700.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 188512.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 399094.00 |
