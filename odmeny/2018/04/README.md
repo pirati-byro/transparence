@@ -17,7 +17,7 @@ Seznam lidí
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | RP    | [Šárka Altmanová](../../tymy/RP/2018/04/sarka-altmanova/)         |         102.00 |                34500.00 |
-| RP    | [Jaromír Beránek](../../tymy/RP/2018/04/jaromir-beranek/)         |         100.00 |                10000.00 |
+| RP    | [Jaromír Beránek](../../tymy/RP/2018/04/jaromir-beranek/)         |         100.00 |                14000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/04/martin-kucera/)             |         100.00 |                 8000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/04/michal-novak/)               |           0.00 |                40000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/04/jana-rohova/)                 |         100.00 |                36050.00 |
@@ -48,7 +48,7 @@ Seznam lidí
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/04/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Jan Vrobel](../../tymy/MO/2018/04/jan-vrobel/)                   |           0.00 |                50000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/04/michal-zachar/)             |           0.00 |                19500.00 |
-| AO    | [Tobias Esner](../../tymy/AO/2018/04/tobias-esner/)               |          20.00 |                26000.00 |
+| AO    | [Tobias Esner](../../tymy/AO/2018/04/tobias-esner/)               |          20.00 |                31000.00 |
 | ZO    | [Markéta Gregorová](../../tymy/ZO/2018/04/marketa-gregorova/)     |          38.00 |                12180.00 |
 | ZO    | [Štěpán Štrébl](../../tymy/ZO/2018/04/stepan-strebl/)             |         100.00 |                  150.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/04/aneta-heidlova/)          |         116.00 |                14290.00 |
@@ -78,8 +78,8 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
-| Centrála       | Provozní výdaje finančního odboru         |  10700.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  39000.00 |
+| Centrála       | Provozní výdaje finančního odboru         |  14700.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 188512.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 399094.00 |
 | Centrála       | Provozní výdaje předsednictva             |  34500.00 |

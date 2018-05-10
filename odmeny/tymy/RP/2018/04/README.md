@@ -18,7 +18,7 @@ Období:                  | 2018-04
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
 | [Šárka Altmanová](sarka-altmanova/) |                34500.00 |
-| [Jaromír Beránek](jaromir-beranek/) |                10000.00 |
+| [Jaromír Beránek](jaromir-beranek/) |                14000.00 |
 | [Martin Kučera](martin-kucera/)     |                 8000.00 |
 | [Michal Novák](michal-novak/)       |                40000.00 |
 | [Jana Rohová](jana-rohova/)         |                36050.00 |
