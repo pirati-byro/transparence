@@ -43,7 +43,7 @@ Seznam lidí
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/02/viktorie-kalhousova/) |         100.00 |                  480.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/02/adam-kudrlicka/)           |         100.00 |                    0.00 |
 | JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/02/zbynek-konvicka/)        |          25.00 |                 3000.00 |
-| ST    | [Vít Šimral](../../tymy/ST/2018/02/vit-simral/)                   |         100.00 |                 5520.00 |
+| ST    | [Vít Šimral](../../tymy/ST/2018/02/vit-simral/)                   |         100.00 |                 8520.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
 U lidí, kteří nevykazují podle času, může být nulové. U lidí, kteří nemají odhadnutý rozsah
@@ -62,7 +62,7 @@ Rozpis podle týmů
 | Centrála       | Výdaje na právní záležitosti              |    480.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   3000.00 |
 | Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  32788.00 |
-| Praha          | Podpora senátora L. Michálka              |   5520.00 |
+| Praha          | Podpora senátora L. Michálka              |   8520.00 |
 
 Strojově čitelná data
 -------------------

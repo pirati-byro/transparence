@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                              |   Počet hodin |
 |:----------------------------------------------------------|--------------:|
-| **[Senátní tým][p56]**                                    |         46.00 |
+| **[Senátní tým][p62]**                                    |         46.00 |
 | [#3454 Koordinace senátorů a senátních voleb 2018][t3454] |         46.00 |
 | **Celkem v uvedených projektech**                         |         46.00 |
 
@@ -78,10 +78,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |  5520.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  3000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  5520.00 Kč
+**Celková odměna**                     |  8520.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -100,7 +100,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p56]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=56
+[p62]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=62
 
 [t3454]: https://redmine.pirati.cz/issues/3454/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-02-01&v[spent_on][]=2018-02-28&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4
 
