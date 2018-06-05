@@ -17,7 +17,7 @@ Období:                  | 2018-05
 
 | Jméno a příjmení          |   Odměna od strany (Kč) |
 |:--------------------------|------------------------:|
-| [Vít Šimral](vit-simral/) |                 9420.00 |
+| [Vít Šimral](vit-simral/) |                12920.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

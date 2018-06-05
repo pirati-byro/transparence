@@ -18,7 +18,7 @@ Období:                  | 2018-05
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Jakub Dedek](jakub-dedek/)             |                25165.00 |
-| [Štěpán Drtina](stepan-drtina/)         |                10093.00 |
+| [Štěpán Drtina](stepan-drtina/)         |                14093.00 |
 | [Filip Dítě](filip-dite/)               |                23666.00 |
 | [Vendula Glancová](vendula-glancova/)   |                15000.00 |
 | [Kateřina Hůlková](katerina-hulkova/)   |                28232.00 |
