@@ -16,13 +16,13 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| RP    | [Šárka Altmanová](../../tymy/RP/2018/05/sarka-altmanova/)         |         110.00 |                30000.00 |
+| RP    | [Šárka Altmanová](../../tymy/RP/2018/05/sarka-altmanova/)         |         110.00 |                35000.00 |
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/05/jaromir-beranek/)         |         100.00 |                10000.00 |
-| RP    | [Martin Kučera](../../tymy/RP/2018/05/martin-kucera/)             |         100.00 |                 8000.00 |
+| RP    | [Martin Kučera](../../tymy/RP/2018/05/martin-kucera/)             |         100.00 |                12500.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/05/michal-novak/)               |           0.00 |                40000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/05/jana-rohova/)                 |         100.00 |                32449.00 |
 | RP    | [Jaroslava Vatay](../../tymy/RP/2018/05/jaroslava-vatay/)         |         100.00 |                  380.00 |
-| UT    | [Dino Arnautovič](../../tymy/UT/2018/05/dino-arnautovic/)         |         100.00 |                11000.00 |
+| UT    | [Dino Arnautovič](../../tymy/UT/2018/05/dino-arnautovic/)         |         100.00 |                12500.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/05/dino-arnautovic/)         |           0.00 |                 4000.00 |
 | TO    | [Miroslav Brabenec](../../tymy/TO/2018/05/miroslav-brabenec/)     |           0.00 |                20000.00 |
 | TO    | [Andrej Ramašeuski](../../tymy/TO/2018/05/andrej-ramaseuski/)     |          20.00 |                30000.00 |
@@ -82,16 +82,16 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  12000.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  16500.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10000.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 206000.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 417210.00 |
-| Centrála       | Provozní výdaje předsednictva             |  30000.00 |
+| Centrála       | Provozní výdaje předsednictva             |  35000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
 | Centrála       | Provozní výdaje technického odboru        |  77000.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  16480.00 |
 | Centrála       | Výdaje na právní záležitosti              |      0.00 |
-| Centrála       | Výdaje transformace                       |  51380.00 |
+| Centrála       | Výdaje transformace                       |  52880.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   8000.00 |
 | Kraj Vysočina  | Personální výdaje                         |  20000.00 |
 | Praha          | Koordinace dobrovolníků                   |  55805.00 |

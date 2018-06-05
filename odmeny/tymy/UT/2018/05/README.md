@@ -17,7 +17,7 @@ Období:                  | 2018-05
 
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
-| [Dino Arnautovič](dino-arnautovic/) |                11000.00 |
+| [Dino Arnautovič](dino-arnautovic/) |                12500.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
