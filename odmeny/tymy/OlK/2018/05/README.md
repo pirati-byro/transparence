@@ -17,8 +17,8 @@ Období:                  | 2018-05
 
 | Jméno a příjmení                  |   Odměna od strany (Kč) |
 |:----------------------------------|------------------------:|
-| [Patrik Kuba](patrik-kuba/)       |                13000.00 |
-| [Tomáš Nakládal](tomas-nakladal/) |                13000.00 |
+| [Patrik Kuba](patrik-kuba/)       |                14000.00 |
+| [Tomáš Nakládal](tomas-nakladal/) |                14000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
