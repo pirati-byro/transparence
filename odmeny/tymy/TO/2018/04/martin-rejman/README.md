@@ -1,5 +1,5 @@
 Česká pirátská strana  
-personální odbor
+technický odbor
 
 Osobní výkaz odměňování
 =======================
@@ -13,11 +13,11 @@ stanovených v metodice mohou být některé úkoly v projektovém systému neve
 Odměňovaný
 ----------
 
-Jméno a příjmení:                      | Kateřina Hůlková
+Jméno a příjmení:                      | Martin Rejman
 -----------------------                | --------------------
-Funkce:                                | Koordinátor Krajského sdružení - Praha
-Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 3. 2018][smlouva]
+Funkce:                                | Technický administrátor L2
+Tým:                                   | technický odbor
+Smlouva:                               | [smlouva ze dne 9. 4. 2018][smlouva]
 Období:                                | 2018-04
 
 
@@ -28,12 +28,9 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                                   |   Počet hodin |
-|:-----------------------------------------------|--------------:|
-| **[Jihočeský kraj][p91]**                      |         19.50 |
-| [#10464 pravidelný newsletter v kraji][t10464] |          6.00 |
-| [#8135 Pravidelná mumble setkání JčK][t8135]   |          6.00 |
-| **Celkem v uvedených projektech**              |         19.50 |
+| Projekt/úkol                      |   Počet hodin |
+|:----------------------------------|--------------:|
+| **Celkem v uvedených projektech** |          0.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,11 +46,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  19.50 hod
+Odhadnutý rozsah práce                 |  30.00 hod/týdně = 120.00 hod/měs.
+Skutečně odvedená práce dle smlouvy    |   0.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  19.50 hod
-**Procento vytížení**                  |  100 %
+**Celkový počet hodin**                |   0.00 hod
+**Procento vytížení**                  |    0 %
 
 Odměna
 ------
@@ -65,7 +62,7 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        | 25000.00 Kč
+Paušální odměna                        | 27000.00 Kč
 Hodinová odměna                        |     0.00 Kč/hod
 Úkolová odměna                         |  5000.00 Kč
 Odpočet                                |     0.00 Kč
@@ -74,13 +71,13 @@ Odpočet                                |     0.00 Kč
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        | 25000.00 Kč
+Paušální odměna                        | 27000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |  2563.00 Kč
+Úkolová odměna                         |  1024.00 Kč
 Mimořádná odměna                       |     0.00 Kč
-Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 27563.00 Kč
+Odpočet                                |  7200.00 Kč
+**Celková odměna**                     | 20824.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -99,14 +96,8 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p91]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=9&f[]=project_id&op[project_id]==&v[project_id][]=91
-
-[t10464]: https://redmine.pirati.cz/issues/10464/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=9
-
-[t8135]: https://redmine.pirati.cz/issues/8135/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=9
 
 
+[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=176
 
-[tasklist]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=539
-
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2018/03/01/kk-jck/
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2018/04/09/admin-to/

@@ -34,7 +34,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#10616 Akce v JiPiCe][t10616]                                            |         75.50 |
 | [#10744 Úklid centra][t10744]                                             |         23.00 |
 | [#10745 Sebevzdělávání][t10745]                                           |         10.00 |
-| **[Kraj vysočina][p101]**                                                 |         53.50 |
+| **[Kraj vysočina][p102]**                                                 |         53.50 |
 | [#5158 Komunikace se členy, dobrovolníky KS Vysočina a veřejností][t5158] |         27.50 |
 | [#5008 Administrativa kraje][t5008]                                       |         16.00 |
 | [#4832 Akce v kraji][t4832]                                               |         10.00 |
@@ -112,7 +112,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t10745]: https://redmine.pirati.cz/issues/10745/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6
 
-[p101]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=101
+[p102]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=102
 
 [t5158]: https://redmine.pirati.cz/issues/5158/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6
 

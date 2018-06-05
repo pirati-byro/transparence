@@ -28,24 +28,24 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                                                                                       |   Počet hodin |
-|:---------------------------------------------------------------------------------------------------|--------------:|
-| **[Pardubický kraj][p108]**                                                                        |        215.20 |
-| [#5436 administrativa (proplácení, korespondence, tabulky atd.)][t5436]                            |         64.10 |
-| [#5590 Schůze][t5590]                                                                              |         28.50 |
-| [#5487 Komunikace s veřejností/podporovateli/zájmovými sdruženími/RegPříznivci][t5487]             |         23.10 |
-| [#9888 Práce na komunálních volbách][t9888]                                                        |         20.80 |
-| [#5434 Cestování Krajského koordinátora][t5434]                                                    |         19.70 |
-| [#9906 Správa CPICE][t9906]                                                                        |         13.20 |
-| [#5431 Zveřejnění nových příspěvků na FB, úpravy web. stránek, příprava hromadných e-mailů][t5431] |          9.80 |
-| [#10010 Sebevzdělávání][t10010]                                                                    |          8.00 |
-| [#5591 Plánování, příprava a účast na kontaktních akcích][t5591]                                   |          7.80 |
-| [#5410 Mumble PO, KS, PKS][t5410]                                                                  |          7.50 |
-| [#5788 Příprava Tiskových zpráv / Korektury / Kontakt s médii][t5788]                              |          5.80 |
-| [#10079 Práce na senátních volbách][t10079]                                                        |          4.20 |
-| **[Personální odbor][p68]**                                                                        |         11.20 |
-| [#10228 školení 13.4. facebook + mailchimp][t10228]                                                |          4.50 |
-| **Celkem v uvedených projektech**                                                                  |        226.40 |
+| Projekt/úkol                                                                           |   Počet hodin |
+|:---------------------------------------------------------------------------------------|--------------:|
+| **[Pardubický kraj][p109]**                                                            |        215.20 |
+| [#5436 administrativa (proplácení, korespondence, tabulky atd.)][t5436]                |         64.10 |
+| [#5590 Schůze][t5590]                                                                  |         28.50 |
+| [#5487 Komunikace s veřejností/podporovateli/zájmovými sdruženími/RegPříznivci][t5487] |         23.10 |
+| [#9888 Práce na komunálních volbách][t9888]                                            |         20.80 |
+| [#5434 Cestování Krajského koordinátora][t5434]                                        |         19.70 |
+| [#9906 Správa CPICE][t9906]                                                            |         13.20 |
+| [#5431 Příprava hromadných e-mailů][t5431]                                             |          9.80 |
+| [#10010 Sebevzdělávání][t10010]                                                        |          8.00 |
+| [#5591 Plánování, příprava a účast na kontaktních akcích][t5591]                       |          7.80 |
+| [#5410 Mumble PO, KS, PKS][t5410]                                                      |          7.50 |
+| [#5788 Příprava Tiskových zpráv / Korektury / Kontakt s médii][t5788]                  |          5.80 |
+| [#10079 Práce na senátních volbách][t10079]                                            |          4.20 |
+| **[Personální odbor][p69]**                                                            |         11.20 |
+| [#10228 školení 13.4. facebook + mailchimp][t10228]                                    |          4.50 |
+| **Celkem v uvedených projektech**                                                      |        226.40 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -111,7 +111,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p108]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=108
+[p109]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=109
 
 [t5436]: https://redmine.pirati.cz/issues/5436/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5
 
@@ -137,7 +137,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t10079]: https://redmine.pirati.cz/issues/10079/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5
 
-[p68]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=68
+[p69]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=69
 
 [t10228]: https://redmine.pirati.cz/issues/10228/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5
 

@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                             |   Počet hodin |
 |:---------------------------------------------------------|--------------:|
-| **[Personální odbor][p68]**                              |        203.00 |
+| **[Personální odbor][p69]**                              |        203.00 |
 | [#5232 Odměňování krajský koordinátor - Vysočina][t5232] |        202.00 |
-| **[Kraj vysočina][p101]**                                |          6.80 |
+| **[Kraj vysočina][p102]**                                |          6.80 |
 | **Celkem v uvedených projektech**                        |        209.75 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -99,11 +99,11 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p68]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=68
+[p69]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=69
 
 [t5232]: https://redmine.pirati.cz/issues/5232/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[p101]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=101
+[p102]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=102
 
 
 

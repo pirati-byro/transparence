@@ -30,10 +30,10 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                          |   Počet hodin |
 |:--------------------------------------|--------------:|
-| **[2018 msk komunální volby][p33]**   |         23.50 |
-| [#10428 Osobní schůzky][t10428]       |          7.00 |
+| **[2018 msk komunální volby][p33]**   |         32.00 |
+| [#10428 Osobní schůzky][t10428]       |         15.50 |
 | [#10460 Propagace, marketing][t10460] |          4.00 |
-| **Celkem v uvedených projektech**     |         23.50 |
+| **Celkem v uvedených projektech**     |         32.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -50,10 +50,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  80.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  23.50 hod
+Skutečně odvedená práce dle smlouvy    |  32.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  23.50 hod
-**Procento vytížení**                  |   29 %
+**Celkový počet hodin**                |  32.00 hod
+**Procento vytížení**                  |   40 %
 
 Odměna
 ------

@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                        |   Počet hodin |
 |:----------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p48]**              |         59.20 |
+| **[Zastupitelstvo hl. m. prahy][p49]**              |         59.20 |
 | [#10690 Příprava programu pro Dopravu 2018][t10690] |         17.80 |
 | [#658 Administrativa][t658]                         |         12.00 |
 | [#804 Výbor pro dopravu (doprava, dopravní)][t804]  |          5.00 |
@@ -109,7 +109,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p48]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=48
+[p49]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=49
 
 [t10690]: https://redmine.pirati.cz/issues/10690/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5
 

@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                               |   Počet hodin |
 |:-----------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p48]**                     |         66.00 |
+| **[Zastupitelstvo hl. m. prahy][p49]**                     |         66.00 |
 | [#8722 Úspěch v pražských komunálních volbách 2018][t8722] |         13.00 |
 | [#597 E-mailová komunikace][t597]                          |         10.50 |
 | [#10507 Zasedání zastupitelstva 26. 4. 2018][t10507]       |          8.50 |
@@ -112,7 +112,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p48]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=48
+[p49]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=49
 
 [t8722]: https://redmine.pirati.cz/issues/8722/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3
 

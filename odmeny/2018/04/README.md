@@ -22,7 +22,6 @@ Seznam lidí
 | RP    | [Michal Novák](../../tymy/RP/2018/04/michal-novak/)               |           0.00 |                40000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/04/jana-rohova/)                 |         100.00 |                36050.00 |
 | RP    | [Jaroslava Vatay](../../tymy/RP/2018/04/jaroslava-vatay/)         |         100.00 |                 5178.00 |
-| FO    | [Hana Ančincová](../../tymy/FO/2018/04/hana-ancincova/)           |         100.00 |                  700.00 |
 | PO    | [Daniela Bílá](../../tymy/PO/2018/04/daniela-bila/)               |           0.00 |                 7063.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/04/jakub-dedek/)                 |          82.00 |                24472.00 |
 | PO    | [Štěpán Drtina](../../tymy/PO/2018/04/stepan-drtina/)             |          32.00 |                14643.00 |
@@ -65,7 +64,8 @@ Seznam lidí
 | JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/04/zbynek-konvicka/)        |          13.00 |                 4025.00 |
 | OlK   | [Patrik Kuba](../../tymy/OlK/2018/04/patrik-kuba/)                |         100.00 |                14000.00 |
 | OlK   | [Tomáš Nakládal](../../tymy/OlK/2018/04/tomas-nakladal/)          |         100.00 |                14000.00 |
-| MsK   | [Veronika Murzynová](../../tymy/MsK/2018/04/veronika-murzynova/)  |          29.00 |                15000.00 |
+| MsK   | [Veronika Murzynová](../../tymy/MsK/2018/04/veronika-murzynova/)  |          40.00 |                15000.00 |
+| TO    | [Martin Rejman](../../tymy/TO/2018/04/martin-rejman/)             |           0.00 |                20824.00 |
 | Vys   | [Ondřej Tůma](../../tymy/Vys/2018/04/ondrej-tuma/)                |         100.00 |                22300.00 |
 | ST    | [Vít Šimral](../../tymy/ST/2018/04/vit-simral/)                   |         100.00 |                 8040.00 |
 
@@ -79,10 +79,11 @@ Rozpis podle týmů
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  39800.00 |
-| Centrála       | Provozní výdaje finančního odboru         |  14700.00 |
+| Centrála       | Provozní výdaje finančního odboru         |  14000.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 188512.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 399094.00 |
 | Centrála       | Provozní výdaje předsednictva             |  34500.00 |
+| Centrála       | Provozní výdaje technického odboru        |  20824.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  12180.00 |
 | Centrála       | Výdaje na právní záležitosti              |    720.00 |
 | Centrála       | Výdaje transformace                       |  45178.00 |

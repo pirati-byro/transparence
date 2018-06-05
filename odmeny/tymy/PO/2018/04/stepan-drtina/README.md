@@ -30,11 +30,11 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                        |   Počet hodin |
 |:----------------------------------------------------|--------------:|
-| **[Středočeský kraj][p71]**                         |         22.00 |
+| **[Středočeský kraj][p72]**                         |         22.00 |
 | [#10136 Komunikace][t10136]                         |          9.00 |
 | [#10138 Příprava a účast na schůzích][t10138]       |          6.00 |
 | [#10135 Administrativa][t10135]                     |          4.00 |
-| **[Personální odbor][p68]**                         |          4.00 |
+| **[Personální odbor][p69]**                         |          4.00 |
 | [#10228 školení 13.4. facebook + mailchimp][t10228] |          4.00 |
 | **Celkem v uvedených projektech**                   |         26.00 |
 
@@ -102,7 +102,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p71]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=71
+[p72]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=72
 
 [t10136]: https://redmine.pirati.cz/issues/10136/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=7
 
@@ -110,7 +110,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t10135]: https://redmine.pirati.cz/issues/10135/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=7
 
-[p68]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=68
+[p69]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=7&f[]=project_id&op[project_id]==&v[project_id][]=69
 
 [t10228]: https://redmine.pirati.cz/issues/10228/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-04-01&v[spent_on][]=2018-04-30&v[user_id][]=5&v[user_id][]=3&v[user_id][]=7
 
