@@ -16,7 +16,7 @@ Seznam lidí
 
 | Tým   | Jméno a příjmení                                                  |   Nasazení (%) |   Odměna od strany (Kč) |
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
-| RP    | [Šárka Altmanová](../../tymy/RP/2018/05/sarka-altmanova/)         |         110.00 |                35000.00 |
+| RP    | [Šárka Altmanová](../../tymy/RP/2018/05/sarka-altmanova/)         |         110.00 |                40000.00 |
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/05/jaromir-beranek/)         |         100.00 |                10000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/05/martin-kucera/)             |         100.00 |                12500.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/05/michal-novak/)               |           0.00 |                40000.00 |
@@ -87,7 +87,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje finančního odboru         |  10000.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 206000.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 439331.00 |
-| Centrála       | Provozní výdaje předsednictva             |  35000.00 |
+| Centrála       | Provozní výdaje předsednictva             |  40000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
 | Centrála       | Provozní výdaje technického odboru        |  77000.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  16480.00 |
