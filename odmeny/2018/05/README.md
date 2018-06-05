@@ -22,8 +22,8 @@ Seznam lidí
 | RP    | [Michal Novák](../../tymy/RP/2018/05/michal-novak/)               |           0.00 |                40000.00 |
 | RP    | [Jana Rohová](../../tymy/RP/2018/05/jana-rohova/)                 |         100.00 |                32449.00 |
 | RP    | [Jaroslava Vatay](../../tymy/RP/2018/05/jaroslava-vatay/)         |         100.00 |                  380.00 |
-| UT    | [Dino Arnautovič](../../tymy/UT/2018/05/dino-arnautovic/)         |         100.00 |                12500.00 |
-| AO    | [Dino Arnautovič](../../tymy/AO/2018/05/dino-arnautovic/)         |           0.00 |                 4000.00 |
+| UT    | [Dino Arnautovič](../../tymy/UT/2018/05/dino-arnautovic/)         |         100.00 |                10500.00 |
+| AO    | [Dino Arnautovič](../../tymy/AO/2018/05/dino-arnautovic/)         |           0.00 |                 1000.00 |
 | TO    | [Miroslav Brabenec](../../tymy/TO/2018/05/miroslav-brabenec/)     |           0.00 |                20000.00 |
 | TO    | [Andrej Ramašeuski](../../tymy/TO/2018/05/andrej-ramaseuski/)     |          20.00 |                30000.00 |
 | TO    | [Martin Rejman](../../tymy/TO/2018/05/martin-rejman/)             |           0.00 |                27000.00 |
@@ -44,7 +44,7 @@ Seznam lidí
 | PO    | [Libuše Věříšová](../../tymy/PO/2018/05/libuse-verisova/)         |           0.00 |                29272.00 |
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/05/milos-zmeskal/)             |           0.00 |                26665.00 |
 | PO    | [Pavel Štěpánek](../../tymy/PO/2018/05/pavel-stepanek/)           |         150.00 |                23636.00 |
-| PO    | [Václav Žídek](../../tymy/PO/2018/05/vaclav-zidek/)               |           0.00 |                13121.00 |
+| PO    | [Václav Žídek](../../tymy/PO/2018/05/vaclav-zidek/)               |           0.00 |                18121.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/05/jakub-dusanek/)             |         100.00 |                32000.00 |
 | MO    | [Daniel Galuszka](../../tymy/MO/2018/05/daniel-galuszka/)         |         100.00 |                10000.00 |
 | MO    | [Jiří Hoskovec](../../tymy/MO/2018/05/jiri-hoskovec/)             |         100.00 |                 9000.00 |
@@ -83,16 +83,16 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  16500.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  13500.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10000.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 206000.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 434331.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 439331.00 |
 | Centrála       | Provozní výdaje předsednictva             |  35000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
 | Centrála       | Provozní výdaje technického odboru        |  77000.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  16480.00 |
 | Centrála       | Výdaje na právní záležitosti              |      0.00 |
-| Centrála       | Výdaje transformace                       |  52880.00 |
+| Centrála       | Výdaje transformace                       |  50880.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   8000.00 |
 | Kraj Vysočina  | Personální výdaje                         |  20000.00 |
 | Praha          | Koordinace dobrovolníků                   |  55805.00 |
