@@ -34,6 +34,7 @@ Období:                  | 2018-05
 | [Libuše Věříšová](libuse-verisova/)     |                29272.00 |
 | [Miloš Zmeškal](milos-zmeskal/)         |                26665.00 |
 | [Pavel Štěpánek](pavel-stepanek/)       |                23636.00 |
+| [Václav Žídek](vaclav-zidek/)           |                13121.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

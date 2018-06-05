@@ -44,6 +44,7 @@ Seznam lidí
 | PO    | [Libuše Věříšová](../../tymy/PO/2018/05/libuse-verisova/)         |           0.00 |                29272.00 |
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/05/milos-zmeskal/)             |           0.00 |                26665.00 |
 | PO    | [Pavel Štěpánek](../../tymy/PO/2018/05/pavel-stepanek/)           |         150.00 |                23636.00 |
+| PO    | [Václav Žídek](../../tymy/PO/2018/05/vaclav-zidek/)               |           0.00 |                13121.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/05/jakub-dusanek/)             |         100.00 |                32000.00 |
 | MO    | [Daniel Galuszka](../../tymy/MO/2018/05/daniel-galuszka/)         |         100.00 |                10000.00 |
 | MO    | [Jiří Hoskovec](../../tymy/MO/2018/05/jiri-hoskovec/)             |         100.00 |                 9000.00 |
@@ -85,7 +86,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje administrativního odboru  |  16500.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10000.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 206000.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 421210.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 434331.00 |
 | Centrála       | Provozní výdaje předsednictva             |  35000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
 | Centrála       | Provozní výdaje technického odboru        |  77000.00 |
