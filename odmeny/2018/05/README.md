@@ -56,11 +56,12 @@ Seznam lidí
 | ZO    | [Markéta Gregorová](../../tymy/ZO/2018/05/marketa-gregorova/)     |          49.00 |                16480.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/05/aneta-heidlova/)          |           0.00 |                17000.00 |
 | Pha   | [Zdeněk Hřib](../../tymy/Pha/2018/05/zdenek-hrib/)                |           0.00 |                    0.00 |
-| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/05/ondrej-kallasch/)        |          36.00 |                 4545.00 |
+| Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/05/ondrej-kallasch/)        |          36.00 |                 7545.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/05/michaela-kleslova/)    |           0.00 |                19060.00 |
 | Pha   | [Viktor Mahrik](../../tymy/Pha/2018/05/viktor-mahrik/)            |          82.00 |                10000.00 |
-| Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/05/ivan-mikolas/)              |           1.00 |                  152.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2018/05/adam-zabransky/)          |          53.00 |                 6757.00 |
+| Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/05/ivan-mikolas/)              |          41.00 |                10402.00 |
+| Pha   | [Jaroslava Vatay](../../tymy/Pha/2018/05/jaroslava-vatay/)        |           1.00 |                 6000.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2018/05/adam-zabransky/)          |          53.00 |                 9257.00 |
 | Pha   | [Vít Šimral](../../tymy/Pha/2018/05/vit-simral/)                  |          68.00 |                15362.00 |
 | Pha   | [Marcela Šroubková](../../tymy/Pha/2018/05/marcela-sroubkova/)    |           0.00 |                19745.00 |
 | Pha   | [Štěpán Štrébl](../../tymy/Pha/2018/05/stepan-strebl/)            |         100.00 |                40000.00 |
@@ -71,7 +72,7 @@ Seznam lidí
 | OlK   | [Patrik Kuba](../../tymy/OlK/2018/05/patrik-kuba/)                |         100.00 |                14000.00 |
 | OlK   | [Tomáš Nakládal](../../tymy/OlK/2018/05/tomas-nakladal/)          |         100.00 |                14000.00 |
 | MsK   | [Veronika Murzynová](../../tymy/MsK/2018/05/veronika-murzynova/)  |          65.00 |                15000.00 |
-| Vys   | [Ondřej Tůma](../../tymy/Vys/2018/05/ondrej-tuma/)                |         100.00 |                20000.00 |
+| Vys   | [Ondřej Tůma](../../tymy/Vys/2018/05/ondrej-tuma/)                |         100.00 |                22500.00 |
 | ST    | [Vít Šimral](../../tymy/ST/2018/05/vit-simral/)                   |         100.00 |                12920.00 |
 
 Procento nasazení udává skutečně odvedenou práci proti odhadnutému rozsahu. 
@@ -94,11 +95,12 @@ Rozpis podle týmů
 | Centrála       | Výdaje na právní záležitosti              |      0.00 |
 | Centrála       | Výdaje transformace                       |  50880.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   8000.00 |
-| Kraj Vysočina  | Personální výdaje                         |  20000.00 |
+| Kraj Vysočina  | Personální výdaje                         |  22500.00 |
 | Praha          | Koordinace dobrovolníků                   |  55805.00 |
-| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  21454.00 |
+| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  37204.00 |
 | Praha          | Podpora senátora L. Michálka              |  12920.00 |
 | Praha          | Stínoví zastupitelé                       |  15362.00 |
+| Praha          | Volební výdaje na volby do ZHMP           |   6000.00 |
 
 Strojově čitelná data
 -------------------
