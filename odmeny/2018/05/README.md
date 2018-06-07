@@ -58,7 +58,7 @@ Seznam lidí
 | Pha   | [Zdeněk Hřib](../../tymy/Pha/2018/05/zdenek-hrib/)                |           0.00 |                    0.00 |
 | Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/05/ondrej-kallasch/)        |          36.00 |                 7545.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/05/michaela-kleslova/)    |           0.00 |                19060.00 |
-| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/05/viktor-mahrik/)            |          82.00 |                10000.00 |
+| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/05/viktor-mahrik/)            |          82.00 |                12918.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/05/ivan-mikolas/)              |          41.00 |                10402.00 |
 | Pha   | [Jaroslava Vatay](../../tymy/Pha/2018/05/jaroslava-vatay/)        |           1.00 |                 6000.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/05/adam-zabransky/)          |          53.00 |                 9257.00 |
@@ -97,7 +97,7 @@ Rozpis podle týmů
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |  10000.00 |
 | Kraj Vysočina  | Personální výdaje                         |  22500.00 |
 | Praha          | Koordinace dobrovolníků                   |  55805.00 |
-| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  37204.00 |
+| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  40122.00 |
 | Praha          | Podpora senátora L. Michálka              |  12920.00 |
 | Praha          | Stínoví zastupitelé                       |  15362.00 |
 | Praha          | Volební výdaje na volby do ZHMP           |   6000.00 |

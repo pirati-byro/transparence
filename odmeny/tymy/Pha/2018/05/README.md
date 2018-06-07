@@ -21,7 +21,7 @@ Období:                  | 2018-05
 | [Zdeněk Hřib](zdenek-hrib/)             |                    0.00 |
 | [Ondřej Kallasch](ondrej-kallasch/)     |                 7545.00 |
 | [Michaela Kleslová](michaela-kleslova/) |                19060.00 |
-| [Viktor Mahrik](viktor-mahrik/)         |                10000.00 |
+| [Viktor Mahrik](viktor-mahrik/)         |                12918.00 |
 | [Ivan Mikoláš](ivan-mikolas/)           |                10402.00 |
 | [Jaroslava Vatay](jaroslava-vatay/)     |                 6000.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 9257.00 |
