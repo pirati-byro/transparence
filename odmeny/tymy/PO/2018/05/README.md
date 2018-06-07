@@ -23,7 +23,7 @@ Období:                  | 2018-05
 | [Vendula Glancová](vendula-glancova/)   |                15000.00 |
 | [Kateřina Hůlková](katerina-hulkova/)   |                28232.00 |
 | [Michal Jokeš](michal-jokes/)           |                33727.00 |
-| [Kateřina Jínová](katerina-jinova/)     |                10581.00 |
+| [Kateřina Jínová](katerina-jinova/)     |                15581.00 |
 | [Adam Komenda](adam-komenda/)           |                 9090.00 |
 | [Yveta Matinková](yveta-matinkova/)     |                30330.00 |
 | [Miroslav Mašek](miroslav-masek/)       |                24181.00 |

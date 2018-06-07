@@ -30,15 +30,15 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                              |   Počet hodin |
 |:----------------------------------------------------------|--------------:|
-| **[2018 msk komunální volby][p33]**                       |         54.50 |
-| [#10428 Osobní schůzky][t10428]                           |         13.50 |
+| **[2018 msk komunální volby][p33]**                       |         58.50 |
+| [#10428 Osobní schůzky][t10428]                           |         17.50 |
 | [#10536 Prohlídky nemovitostí][t10536]                    |          6.00 |
 | [#10459 Program - Magistrát][t10459]                      |          5.00 |
 | [#10531 formuláře pro komunální volby][t10531]            |          4.00 |
 | [#11215 Kulatý stůl - bezdoplatkové zóny Karviná][t11215] |          4.00 |
 | [#11386 Focení lídrů a čel kadidátek][t11386]             |          4.00 |
 | [#11387 Triboardy][t11387]                                |          4.00 |
-| **Celkem v uvedených projektech**                         |         54.50 |
+| **Celkem v uvedených projektech**                         |         58.50 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -55,10 +55,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  84.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  54.50 hod
+Skutečně odvedená práce dle smlouvy    |  58.50 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  54.50 hod
-**Procento vytížení**                  |   65 %
+**Celkový počet hodin**                |  58.50 hod
+**Procento vytížení**                  |   70 %
 
 Odměna
 ------

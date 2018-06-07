@@ -20,20 +20,20 @@ Seznam lidí
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/05/jaromir-beranek/)         |         100.00 |                10000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/05/martin-kucera/)             |         100.00 |                12500.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/05/michal-novak/)               |           0.00 |                40000.00 |
-| RP    | [Jana Rohová](../../tymy/RP/2018/05/jana-rohova/)                 |         100.00 |                32449.00 |
+| RP    | [Jana Rohová](../../tymy/RP/2018/05/jana-rohova/)                 |         100.00 |                36949.00 |
 | RP    | [Jaroslava Vatay](../../tymy/RP/2018/05/jaroslava-vatay/)         |         100.00 |                  380.00 |
 | UT    | [Dino Arnautovič](../../tymy/UT/2018/05/dino-arnautovic/)         |         100.00 |                10500.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/05/dino-arnautovic/)         |           0.00 |                 1000.00 |
 | TO    | [Miroslav Brabenec](../../tymy/TO/2018/05/miroslav-brabenec/)     |           0.00 |                20000.00 |
 | TO    | [Andrej Ramašeuski](../../tymy/TO/2018/05/andrej-ramaseuski/)     |          20.00 |                30000.00 |
-| TO    | [Martin Rejman](../../tymy/TO/2018/05/martin-rejman/)             |           0.00 |                27000.00 |
+| TO    | [Martin Rejman](../../tymy/TO/2018/05/martin-rejman/)             |           0.00 |                28024.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/05/jakub-dedek/)                 |          16.00 |                25165.00 |
 | PO    | [Štěpán Drtina](../../tymy/PO/2018/05/stepan-drtina/)             |           0.00 |                14093.00 |
 | PO    | [Filip Dítě](../../tymy/PO/2018/05/filip-dite/)                   |          70.00 |                23666.00 |
 | PO    | [Vendula Glancová](../../tymy/PO/2018/05/vendula-glancova/)       |           0.00 |                15000.00 |
 | PO    | [Kateřina Hůlková](../../tymy/PO/2018/05/katerina-hulkova/)       |         100.00 |                28232.00 |
 | PO    | [Michal Jokeš](../../tymy/PO/2018/05/michal-jokes/)               |           0.00 |                33727.00 |
-| PO    | [Kateřina Jínová](../../tymy/PO/2018/05/katerina-jinova/)         |         100.00 |                10581.00 |
+| PO    | [Kateřina Jínová](../../tymy/PO/2018/05/katerina-jinova/)         |         100.00 |                15581.00 |
 | PO    | [Adam Komenda](../../tymy/PO/2018/05/adam-komenda/)               |         159.00 |                 9090.00 |
 | PO    | [Yveta Matinková](../../tymy/PO/2018/05/yveta-matinkova/)         |           0.00 |                30330.00 |
 | PO    | [Miroslav Mašek](../../tymy/PO/2018/05/miroslav-masek/)           |          79.00 |                24181.00 |
@@ -45,14 +45,14 @@ Seznam lidí
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/05/milos-zmeskal/)             |           0.00 |                26665.00 |
 | PO    | [Pavel Štěpánek](../../tymy/PO/2018/05/pavel-stepanek/)           |         150.00 |                23636.00 |
 | PO    | [Václav Žídek](../../tymy/PO/2018/05/vaclav-zidek/)               |           0.00 |                18121.00 |
-| MO    | [Jakub Dušánek](../../tymy/MO/2018/05/jakub-dusanek/)             |         100.00 |                32000.00 |
-| MO    | [Daniel Galuszka](../../tymy/MO/2018/05/daniel-galuszka/)         |         100.00 |                10000.00 |
-| MO    | [Jiří Hoskovec](../../tymy/MO/2018/05/jiri-hoskovec/)             |         100.00 |                 9000.00 |
+| MO    | [Jakub Dušánek](../../tymy/MO/2018/05/jakub-dusanek/)             |         100.00 |                38000.00 |
+| MO    | [Daniel Galuszka](../../tymy/MO/2018/05/daniel-galuszka/)         |         100.00 |                18000.00 |
+| MO    | [Jiří Hoskovec](../../tymy/MO/2018/05/jiri-hoskovec/)             |         100.00 |                12000.00 |
 | MO    | [Roman Kučera](../../tymy/MO/2018/05/roman-kucera/)               |         100.00 |                10000.00 |
-| MO    | [Andrea Mádlová](../../tymy/MO/2018/05/andrea-madlova/)           |         100.00 |                32000.00 |
+| MO    | [Andrea Mádlová](../../tymy/MO/2018/05/andrea-madlova/)           |         100.00 |                38000.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/05/karolina-sadilkova/)   |         100.00 |                50000.00 |
-| MO    | [Jan Vrobel](../../tymy/MO/2018/05/jan-vrobel/)                   |           0.00 |                45000.00 |
-| MO    | [Michal Zachar](../../tymy/MO/2018/05/michal-zachar/)             |           0.00 |                18000.00 |
+| MO    | [Jan Vrobel](../../tymy/MO/2018/05/jan-vrobel/)                   |           0.00 |                50000.00 |
+| MO    | [Michal Zachar](../../tymy/MO/2018/05/michal-zachar/)             |           0.00 |                19500.00 |
 | ZO    | [Markéta Gregorová](../../tymy/ZO/2018/05/marketa-gregorova/)     |          49.00 |                16480.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/05/aneta-heidlova/)          |           0.00 |                17000.00 |
 | Pha   | [Zdeněk Hřib](../../tymy/Pha/2018/05/zdenek-hrib/)                |           0.00 |                    0.00 |
@@ -67,11 +67,11 @@ Seznam lidí
 | Pha   | [Štěpán Štrébl](../../tymy/Pha/2018/05/stepan-strebl/)            |         100.00 |                40000.00 |
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/05/viktorie-kalhousova/) |         100.00 |                    0.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/05/adam-kudrlicka/)           |         100.00 |                    0.00 |
-| JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/05/zbynek-konvicka/)        |         143.00 |                 8000.00 |
+| JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/05/zbynek-konvicka/)        |         143.00 |                10000.00 |
 | RV    | [Elizabet Kovačeva](../../tymy/RV/2018/05/elizabet-kovaceva/)     |           0.00 |                 8000.00 |
 | OlK   | [Patrik Kuba](../../tymy/OlK/2018/05/patrik-kuba/)                |         100.00 |                14000.00 |
 | OlK   | [Tomáš Nakládal](../../tymy/OlK/2018/05/tomas-nakladal/)          |         100.00 |                14000.00 |
-| MsK   | [Veronika Murzynová](../../tymy/MsK/2018/05/veronika-murzynova/)  |          65.00 |                15000.00 |
+| MsK   | [Veronika Murzynová](../../tymy/MsK/2018/05/veronika-murzynova/)  |          70.00 |                15000.00 |
 | Vys   | [Ondřej Tůma](../../tymy/Vys/2018/05/ondrej-tuma/)                |         100.00 |                22500.00 |
 | ST    | [Vít Šimral](../../tymy/ST/2018/05/vit-simral/)                   |         100.00 |                12920.00 |
 
@@ -86,15 +86,15 @@ Rozpis podle týmů
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  13500.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10000.00 |
-| Centrála       | Provozní výdaje mediálního odboru         | 206000.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 439331.00 |
+| Centrála       | Provozní výdaje mediálního odboru         | 235500.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 448831.00 |
 | Centrála       | Provozní výdaje předsednictva             |  40000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
-| Centrála       | Provozní výdaje technického odboru        |  77000.00 |
+| Centrála       | Provozní výdaje technického odboru        |  78024.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  16480.00 |
 | Centrála       | Výdaje na právní záležitosti              |      0.00 |
 | Centrála       | Výdaje transformace                       |  50880.00 |
-| Jihočeský kraj | Mzdové náklady vedoucí MO                 |   8000.00 |
+| Jihočeský kraj | Mzdové náklady vedoucí MO                 |  10000.00 |
 | Kraj Vysočina  | Personální výdaje                         |  22500.00 |
 | Praha          | Koordinace dobrovolníků                   |  55805.00 |
 | Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  37204.00 |

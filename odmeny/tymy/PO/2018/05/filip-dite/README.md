@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                                    |   Počet hodin |
 |:------------------------------------------------------------------------------------------------|--------------:|
-| **[Středočeský kraj][p72]**                                                                     |        118.00 |
+| **[Středočeský kraj][p73]**                                                                     |        118.00 |
 | [#11015 KoKs- Běžná korespondence, plánování schůzí, odpovídání na mejly telefony atd.][t11015] |        118.00 |
 | **Celkem v uvedených projektech**                                                               |        118.00 |
 
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p72]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=5&v[user_id][]=3&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=72
+[p73]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=5&v[user_id][]=3&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=73
 
 [t11015]: https://redmine.pirati.cz/issues/11015/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=5&v[user_id][]=3&v[user_id][]=8
 

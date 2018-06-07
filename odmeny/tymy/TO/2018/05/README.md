@@ -19,7 +19,7 @@ Období:                  | 2018-05
 |:----------------------------------------|------------------------:|
 | [Miroslav Brabenec](miroslav-brabenec/) |                20000.00 |
 | [Andrej Ramašeuski](andrej-ramaseuski/) |                30000.00 |
-| [Martin Rejman](martin-rejman/)         |                27000.00 |
+| [Martin Rejman](martin-rejman/)         |                28024.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
