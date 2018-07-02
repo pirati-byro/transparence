@@ -30,13 +30,13 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Jihlavské pirátské centrum][p47]**                                     |        168.00 |
-| [#10616 Akce v JiPiCe][t10616]                                            |        106.00 |
-| [#10745 Sebevzdělávání][t10745]                                           |         46.00 |
-| [#10744 Úklid centra][t10744]                                             |         16.00 |
-| **[Kraj vysočina][p103]**                                                 |         27.00 |
-| [#5008 Administrativa kraje][t5008]                                       |         19.00 |
-| [#5158 Komunikace se členy, dobrovolníky KS Vysočina a veřejností][t5158] |          5.00 |
+| **[Jihlavské pirátské centrum][p47]**                                     |        150.00 |
+| [#10616 Akce v JiPiCe][t10616]                                            |        110.50 |
+| [#10745 Sebevzdělávání JiPICe][t10745]                                    |         24.00 |
+| [#10744 Úklid centra][t10744]                                             |         15.50 |
+| **[Kraj vysočina][p109]**                                                 |         45.00 |
+| [#5008 Administrativa kraje][t5008]                                       |         32.00 |
+| [#5158 Komunikace se členy, dobrovolníky KS Vysočina a veřejností][t5158] |         12.00 |
 | **Celkem v uvedených projektech**                                         |        195.00 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -111,7 +111,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t10744]: https://redmine.pirati.cz/issues/10744/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6
 
-[p103]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=103
+[p109]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=109
 
 [t5008]: https://redmine.pirati.cz/issues/5008/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=3&v[user_id][]=2&v[user_id][]=6
 

@@ -28,14 +28,11 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                                               |   Počet hodin |
-|:-----------------------------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p49]**                     |         51.50 |
-| [#11021 Zasedání zastupitelstva 17. 5. 2018][t11021]       |         17.00 |
-| [#8722 Úspěch v pražských komunálních volbách 2018][t8722] |         14.50 |
-| [#658 Administrativa][t658]                                |         10.00 |
-| [#597 E-mailová komunikace][t597]                          |          7.50 |
-| **Celkem v uvedených projektech**                          |         51.50 |
+| Projekt/úkol                           |   Počet hodin |
+|:---------------------------------------|--------------:|
+| **[Zastupitelstvo hl. m. prahy][p49]** |          7.50 |
+| [#658 Administrativa][t658]            |          6.00 |
+| **Celkem v uvedených projektech**      |          7.50 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -52,10 +49,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  30.00 hod/týdně = 126.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  51.50 hod
+Skutečně odvedená práce dle smlouvy    |   7.50 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  51.50 hod
-**Procento vytížení**                  |   41 %
+**Celkový počet hodin**                |   7.50 hod
+**Procento vytížení**                  |    6 %
 
 Odměna
 ------
@@ -77,12 +74,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
-Hodinová odměna do odhadnutého rozsahu |  5201.50 Kč
+Hodinová odměna do odhadnutého rozsahu |   757.50 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  5201.50 Kč
+**Celková odměna**                     |   757.50 Kč
 
 
 ### Odměna od jiných subjektů
@@ -110,13 +107,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [p49]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=49
 
-[t11021]: https://redmine.pirati.cz/issues/11021/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3
-
-[t8722]: https://redmine.pirati.cz/issues/8722/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3
-
 [t658]: https://redmine.pirati.cz/issues/658/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3
-
-[t597]: https://redmine.pirati.cz/issues/597/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=4&v[user_id][]=8&v[user_id][]=3
 
 
 

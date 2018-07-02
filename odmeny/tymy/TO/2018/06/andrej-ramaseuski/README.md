@@ -28,14 +28,12 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                                                          |   Počet hodin |
-|:----------------------------------------------------------------------|--------------:|
-| **[Technický odbor][p85]**                                            |         85.00 |
-| [#11226 Ansible pro SSO a LDAP][t11226]                               |         40.00 |
-| [#10835 vyhodnoceni 4 pouzivanych systemu][t10835]                    |         23.00 |
-| [#10839 nasazeni 2 vybranych reseni k porovnani a otestovani][t10839] |         14.00 |
-| [#10850 vytvoreni zakladni konfigurace][t10850]                       |          8.00 |
-| **Celkem v uvedených projektech**                                     |         85.00 |
+| Projekt/úkol                                             |   Počet hodin |
+|:---------------------------------------------------------|--------------:|
+| **[Technický odbor][p91]**                               |         33.00 |
+| [#10299 IMAP poštovní server][t10299]                    |         20.00 |
+| [#4258 Agregátor transparentních bankovních účtů][t4258] |         10.00 |
+| **Celkem v uvedených projektech**                        |         33.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -52,10 +50,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 | 102.00 hod/týdně = 428.40 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  85.00 hod
+Skutečně odvedená práce dle smlouvy    |  33.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  85.00 hod
-**Procento vytížení**                  |   20 %
+**Celkový počet hodin**                |  33.00 hod
+**Procento vytížení**                  |    8 %
 
 Odměna
 ------
@@ -101,15 +99,11 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p85]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=85
+[p91]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=91
 
-[t11226]: https://redmine.pirati.cz/issues/11226/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8
+[t10299]: https://redmine.pirati.cz/issues/10299/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8
 
-[t10835]: https://redmine.pirati.cz/issues/10835/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8
-
-[t10839]: https://redmine.pirati.cz/issues/10839/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8
-
-[t10850]: https://redmine.pirati.cz/issues/10850/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8
+[t4258]: https://redmine.pirati.cz/issues/4258/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8
 
 
 

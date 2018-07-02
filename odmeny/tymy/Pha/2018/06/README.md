@@ -19,13 +19,13 @@ Období:                  | 2018-06
 |:----------------------------------------|------------------------:|
 | [Aneta Heidlová](aneta-heidlova/)       |                10000.00 |
 | [Zdeněk Hřib](zdenek-hrib/)             |                    0.00 |
-| [Ondřej Kallasch](ondrej-kallasch/)     |                 4545.00 |
+| [Ondřej Kallasch](ondrej-kallasch/)     |                 5100.00 |
 | [Michaela Kleslová](michaela-kleslova/) |                10000.00 |
-| [Viktor Mahrik](viktor-mahrik/)         |                10418.00 |
-| [Ivan Mikoláš](ivan-mikolas/)           |                 5202.00 |
+| [Viktor Mahrik](viktor-mahrik/)         |                 4535.00 |
+| [Ivan Mikoláš](ivan-mikolas/)           |                  758.00 |
 | [Jaroslava Vatay](jaroslava-vatay/)     |                29000.00 |
-| [Adam Zábranský](adam-zabransky/)       |                 6757.00 |
-| [Vít Šimral](vit-simral/)               |                12862.00 |
+| [Adam Zábranský](adam-zabransky/)       |                10413.00 |
+| [Vít Šimral](vit-simral/)               |                12225.00 |
 | [Marcela Šroubková](marcela-sroubkova/) |                10000.00 |
 | [Štěpán Štrébl](stepan-strebl/)         |                40000.00 |
 

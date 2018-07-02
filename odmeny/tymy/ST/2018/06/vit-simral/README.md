@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                              |   Počet hodin |
 |:----------------------------------------------------------|--------------:|
-| **[Senátní tým][p63]**                                    |         78.50 |
-| [#3454 Koordinace senátorů a senátních voleb 2018][t3454] |         78.50 |
-| **Celkem v uvedených projektech**                         |         78.50 |
+| **[Senátní tým][p69]**                                    |         87.50 |
+| [#3454 Koordinace senátorů a senátních voleb 2018][t3454] |         87.50 |
+| **Celkem v uvedených projektech**                         |         87.50 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu Senátní tým. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -51,9 +51,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  78.50 hod
+Skutečně odvedená práce dle smlouvy    |  87.50 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  78.50 hod
+**Celkový počet hodin**                |  87.50 hod
 **Procento vytížení**                  |  100 %
 
 Odměna
@@ -77,11 +77,11 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
-Hodinová odměna nad odhadnutý rozsah   |  9420.00 Kč
+Hodinová odměna nad odhadnutý rozsah   | 10500.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  9420.00 Kč
+**Celková odměna**                     | 10500.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -100,7 +100,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p63]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=63
+[p69]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=69
 
 [t3454]: https://redmine.pirati.cz/issues/3454/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=1&v[user_id][]=6&v[user_id][]=4
 
