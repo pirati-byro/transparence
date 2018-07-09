@@ -20,9 +20,10 @@ Seznam lidí
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/06/jaromir-beranek/)         |         100.00 |                10000.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/06/martin-kucera/)             |         100.00 |                 8000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/06/michal-novak/)               |           0.00 |                40000.00 |
-| RP    | [Jana Rohová](../../tymy/RP/2018/06/jana-rohova/)                 |         100.00 |                29867.00 |
-| UT    | [Dino Arnautovič](../../tymy/UT/2018/06/dino-arnautovic/)         |         100.00 |                11000.00 |
+| RP    | [Jana Rohová](../../tymy/RP/2018/06/jana-rohova/)                 |         100.00 |                 3500.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/06/dino-arnautovic/)         |           0.00 |                 4000.00 |
+| AO    | [Lucie Spáčilová](../../tymy/AO/2018/06/lucie-spacilova/)         |           0.00 |                22000.00 |
+| UT    | [Dino Arnautovič](../../tymy/UT/2018/06/dino-arnautovic/)         |         100.00 |                11000.00 |
 | TO    | [Miroslav Brabenec](../../tymy/TO/2018/06/miroslav-brabenec/)     |           0.00 |                20000.00 |
 | TO    | [Andrej Ramašeuski](../../tymy/TO/2018/06/andrej-ramaseuski/)     |           8.00 |                30000.00 |
 | TO    | [Martin Rejman](../../tymy/TO/2018/06/martin-rejman/)             |           6.00 |                27000.00 |
@@ -51,12 +52,14 @@ Seznam lidí
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/06/karolina-sadilkova/)   |         100.00 |                50000.00 |
 | MO    | [Jan Vrobel](../../tymy/MO/2018/06/jan-vrobel/)                   |           0.00 |                45000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/06/michal-zachar/)             |           0.00 |                18000.00 |
+| PK    | [Petr Fojtík](../../tymy/PK/2018/06/petr-fojtik/)                 |           0.00 |                45000.00 |
+| PK    | [Janusz Konieczný](../../tymy/PK/2018/06/janusz-konieczny/)       |           0.00 |                42000.00 |
 | ZO    | [Markéta Gregorová](../../tymy/ZO/2018/06/marketa-gregorova/)     |          51.00 |                17290.00 |
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/06/aneta-heidlova/)          |           0.00 |                10000.00 |
 | Pha   | [Zdeněk Hřib](../../tymy/Pha/2018/06/zdenek-hrib/)                |           0.00 |                    0.00 |
 | Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/06/ondrej-kallasch/)        |          40.00 |                 5100.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/06/michaela-kleslova/)    |           0.00 |                10000.00 |
-| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/06/viktor-mahrik/)            |          36.00 |                 4535.00 |
+| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/06/viktor-mahrik/)            |          70.00 |                 6959.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/06/ivan-mikolas/)              |           6.00 |                  758.00 |
 | Pha   | [Jaroslava Vatay](../../tymy/Pha/2018/06/jaroslava-vatay/)        |           0.00 |                29000.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/06/adam-zabransky/)          |          82.00 |                10413.00 |
@@ -66,10 +69,11 @@ Seznam lidí
 | PT    | [Viktorie Kalhousová](../../tymy/PT/2018/06/viktorie-kalhousova/) |         100.00 |                 1920.00 |
 | PT    | [Adam Kudrlička](../../tymy/PT/2018/06/adam-kudrlicka/)           |         100.00 |                    0.00 |
 | JčK   | [Zbyněk Konvička](../../tymy/JčK/2018/06/zbynek-konvicka/)        |          18.00 |                 2750.00 |
-| RV    | [Elizabet Kovačeva](../../tymy/RV/2018/06/elizabet-kovaceva/)     |           0.00 |                 8000.00 |
+| RV    | [Elizabet Kovačeva](../../tymy/RV/2018/06/elizabet-kovaceva/)     |         149.00 |                 8000.00 |
 | OlK   | [Patrik Kuba](../../tymy/OlK/2018/06/patrik-kuba/)                |         100.00 |                13000.00 |
 | OlK   | [Tomáš Nakládal](../../tymy/OlK/2018/06/tomas-nakladal/)          |         100.00 |                13000.00 |
 | MsK   | [Veronika Murzynová](../../tymy/MsK/2018/06/veronika-murzynova/)  |          58.00 |                15000.00 |
+| FO    | [Denisa Puldová](../../tymy/FO/2018/06/denisa-puldova/)           |         100.00 |                    0.00 |
 | Vys   | [Ondřej Tůma](../../tymy/Vys/2018/06/ondrej-tuma/)                |         100.00 |                20000.00 |
 | ST    | [Vít Šimral](../../tymy/ST/2018/06/vit-simral/)                   |         100.00 |                10500.00 |
 
@@ -82,20 +86,21 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  12000.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  34000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  10000.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 196000.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 361867.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 335500.00 |
 | Centrála       | Provozní výdaje předsednictva             |  30000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
 | Centrála       | Provozní výdaje technického odboru        |  77000.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  17290.00 |
 | Centrála       | Výdaje na právní záležitosti              |   1920.00 |
 | Centrála       | Výdaje transformace                       |  51000.00 |
+| Centrála       | Činnost poslaneckého klubu                |  87000.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   2750.00 |
 | Kraj Vysočina  | Personální výdaje                         |  20000.00 |
 | Praha          | Koordinace dobrovolníků                   |  30000.00 |
-| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  20806.00 |
+| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  23230.00 |
 | Praha          | Podpora senátora L. Michálka              |  10500.00 |
 | Praha          | Stínoví zastupitelé                       |  12225.00 |
 | Praha          | Volební výdaje na volby do ZHMP           |  29000.00 |
