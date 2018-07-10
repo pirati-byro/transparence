@@ -24,7 +24,7 @@ Seznam lidí
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/06/dino-arnautovic/)         |           0.00 |                 4000.00 |
 | AO    | [Lucie Spáčilová](../../tymy/AO/2018/06/lucie-spacilova/)         |           0.00 |                22000.00 |
 | UT    | [Dino Arnautovič](../../tymy/UT/2018/06/dino-arnautovic/)         |         100.00 |                12000.00 |
-| TO    | [Miroslav Brabenec](../../tymy/TO/2018/06/miroslav-brabenec/)     |           0.00 |                20000.00 |
+| TO    | [Miroslav Brabenec](../../tymy/TO/2018/06/miroslav-brabenec/)     |           0.00 |                10000.00 |
 | TO    | [Andrej Ramašeuski](../../tymy/TO/2018/06/andrej-ramaseuski/)     |           8.00 |                30000.00 |
 | TO    | [Martin Rejman](../../tymy/TO/2018/06/martin-rejman/)             |           6.00 |                31200.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/06/jakub-dedek/)                 |           0.00 |                24181.00 |
@@ -92,7 +92,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje personálního odboru       | 401271.00 |
 | Centrála       | Provozní výdaje předsednictva             |  34000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
-| Centrála       | Provozní výdaje technického odboru        |  81200.00 |
+| Centrála       | Provozní výdaje technického odboru        |  71200.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  17290.00 |
 | Centrála       | Výdaje na právní záležitosti              |   1920.00 |
 | Centrála       | Výdaje transformace                       |  52000.00 |
