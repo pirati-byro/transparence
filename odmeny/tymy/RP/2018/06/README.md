@@ -19,9 +19,9 @@ Období:                  | 2018-06
 |:------------------------------------|------------------------:|
 | [Šárka Altmanová](sarka-altmanova/) |                34000.00 |
 | [Jaromír Beránek](jaromir-beranek/) |                14100.00 |
+| [Jana Koláříková](jana-kolarikova/) |                29867.00 |
 | [Martin Kučera](martin-kucera/)     |                11500.00 |
 | [Michal Novák](michal-novak/)       |                40000.00 |
-| [Jana Rohová](jana-rohova/)         |                 8000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
