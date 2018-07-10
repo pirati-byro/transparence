@@ -45,13 +45,13 @@ Seznam lidí
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/06/milos-zmeskal/)             |           0.00 |                25985.00 |
 | PO    | [Pavel Štěpánek](../../tymy/PO/2018/06/pavel-stepanek/)           |         140.00 |                24803.00 |
 | PO    | [Václav Žídek](../../tymy/PO/2018/06/vaclav-zidek/)               |           0.00 |                19058.00 |
-| MO    | [Jakub Dušánek](../../tymy/MO/2018/06/jakub-dusanek/)             |         100.00 |                32000.00 |
+| MO    | [Jakub Dušánek](../../tymy/MO/2018/06/jakub-dusanek/)             |         100.00 |                36000.00 |
 | MO    | [Daniel Galuszka](../../tymy/MO/2018/06/daniel-galuszka/)         |         100.00 |                10000.00 |
-| MO    | [Jiří Hoskovec](../../tymy/MO/2018/06/jiri-hoskovec/)             |         100.00 |                 9000.00 |
-| MO    | [Andrea Mádlová](../../tymy/MO/2018/06/andrea-madlova/)           |         100.00 |                32000.00 |
-| MO    | [Karolína Sadílková](../../tymy/MO/2018/06/karolina-sadilkova/)   |         100.00 |                50000.00 |
-| MO    | [Jan Vrobel](../../tymy/MO/2018/06/jan-vrobel/)                   |           0.00 |                45000.00 |
-| MO    | [Michal Zachar](../../tymy/MO/2018/06/michal-zachar/)             |           0.00 |                18000.00 |
+| MO    | [Jiří Hoskovec](../../tymy/MO/2018/06/jiri-hoskovec/)             |         100.00 |                12000.00 |
+| MO    | [Andrea Mádlová](../../tymy/MO/2018/06/andrea-madlova/)           |         100.00 |                38000.00 |
+| MO    | [Karolína Sadílková](../../tymy/MO/2018/06/karolina-sadilkova/)   |         100.00 |                56000.00 |
+| MO    | [Jan Vrobel](../../tymy/MO/2018/06/jan-vrobel/)                   |           0.00 |                50000.00 |
+| MO    | [Michal Zachar](../../tymy/MO/2018/06/michal-zachar/)             |           0.00 |                19500.00 |
 | PK    | [Petr Fojtík](../../tymy/PK/2018/06/petr-fojtik/)                 |           0.00 |                45000.00 |
 | PK    | [Janusz Konieczný](../../tymy/PK/2018/06/janusz-konieczny/)       |           0.00 |                42000.00 |
 | ZO    | [Markéta Gregorová](../../tymy/ZO/2018/06/marketa-gregorova/)     |          51.00 |                17290.00 |
@@ -88,7 +88,7 @@ Rozpis podle týmů
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  37500.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  14100.00 |
-| Centrála       | Provozní výdaje mediálního odboru         | 196000.00 |
+| Centrála       | Provozní výdaje mediálního odboru         | 221500.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 423138.00 |
 | Centrála       | Provozní výdaje předsednictva             |  34000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |

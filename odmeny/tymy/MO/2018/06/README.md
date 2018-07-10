@@ -17,13 +17,13 @@ Období:                  | 2018-06
 
 | Jméno a příjmení                          |   Odměna od strany (Kč) |
 |:------------------------------------------|------------------------:|
-| [Jakub Dušánek](jakub-dusanek/)           |                32000.00 |
+| [Jakub Dušánek](jakub-dusanek/)           |                36000.00 |
 | [Daniel Galuszka](daniel-galuszka/)       |                10000.00 |
-| [Jiří Hoskovec](jiri-hoskovec/)           |                 9000.00 |
-| [Andrea Mádlová](andrea-madlova/)         |                32000.00 |
-| [Karolína Sadílková](karolina-sadilkova/) |                50000.00 |
-| [Jan Vrobel](jan-vrobel/)                 |                45000.00 |
-| [Michal Zachar](michal-zachar/)           |                18000.00 |
+| [Jiří Hoskovec](jiri-hoskovec/)           |                12000.00 |
+| [Andrea Mádlová](andrea-madlova/)         |                38000.00 |
+| [Karolína Sadílková](karolina-sadilkova/) |                56000.00 |
+| [Jan Vrobel](jan-vrobel/)                 |                50000.00 |
+| [Michal Zachar](michal-zachar/)           |                19500.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
