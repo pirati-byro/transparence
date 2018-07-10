@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                       |   Počet hodin |
 |:-------------------------------------------------------------------|--------------:|
-| **[Strategický tým][p24]**                                         |         49.80 |
-| [#10907 Dino Arnautovič - úkoly spojené s tématem Upgrade][t10907] |         49.80 |
-| **Celkem v uvedených projektech**                                  |         49.80 |
+| **[Strategický tým][p24]**                                         |         57.40 |
+| [#10907 Dino Arnautovič - úkoly spojené s tématem Upgrade][t10907] |         55.40 |
+| **Celkem v uvedených projektech**                                  |         57.40 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu Strategický tým. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -51,9 +51,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  49.80 hod
+Skutečně odvedená práce dle smlouvy    |  57.40 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  49.80 hod
+**Celkový počet hodin**                |  57.40 hod
 **Procento vytížení**                  |  100 %
 
 Odměna
@@ -78,10 +78,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        | 11000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  1000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 11000.00 Kč
+**Celková odměna**                     | 12000.00 Kč
 
 
 ### Odměna od jiných subjektů

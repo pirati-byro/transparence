@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                  |   Počet hodin |
 |:----------------------------------------------|--------------:|
-| **[Mediální odbor][p95]**                     |         11.00 |
-| [#9725 Vykazování práce Jiří Hoskovec][t9725] |         11.00 |
-| **Celkem v uvedených projektech**             |         11.00 |
+| **[Mediální odbor][p95]**                     |         46.00 |
+| [#9725 Vykazování práce Jiří Hoskovec][t9725] |         46.00 |
+| **Celkem v uvedených projektech**             |         46.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,9 +49,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  11.00 hod
+Skutečně odvedená práce dle smlouvy    |  46.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  11.00 hod
+**Celkový počet hodin**                |  46.00 hod
 **Procento vytížení**                  |  100 %
 
 Odměna
