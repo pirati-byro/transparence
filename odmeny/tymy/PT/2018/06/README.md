@@ -17,7 +17,7 @@ Období:                  | 2018-06
 
 | Jméno a příjmení                            |   Odměna od strany (Kč) |
 |:--------------------------------------------|------------------------:|
-| [Viktorie Kalhousová](viktorie-kalhousova/) |                    0.00 |
+| [Viktorie Kalhousová](viktorie-kalhousova/) |                 1920.00 |
 | [Adam Kudrlička](adam-kudrlicka/)           |                    0.00 |
 
 

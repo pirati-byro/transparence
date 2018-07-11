@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                  |   Počet hodin |
 |:----------------------------------------------|--------------:|
-| **[Mediální odbor][p89]**                     |         36.00 |
-| [#9725 Vykazování práce Jiří Hoskovec][t9725] |         36.00 |
-| **Celkem v uvedených projektech**             |         36.00 |
+| **[Mediální odbor][p95]**                     |         46.00 |
+| [#9725 Vykazování práce Jiří Hoskovec][t9725] |         46.00 |
+| **Celkem v uvedených projektech**             |         46.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -49,9 +49,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  36.00 hod
+Skutečně odvedená práce dle smlouvy    |  46.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  36.00 hod
+**Celkový počet hodin**                |  46.00 hod
 **Procento vytížení**                  |  100 %
 
 Odměna
@@ -76,10 +76,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        |  9000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  3000.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     |  9000.00 Kč
+**Celková odměna**                     | 12000.00 Kč
 
 
 ### Odměna od jiných subjektů
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p89]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=3&v[user_id][]=1&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=89
+[p95]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=3&v[user_id][]=1&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=95
 
 [t9725]: https://redmine.pirati.cz/issues/9725/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-06-01&v[spent_on][]=2018-06-30&v[user_id][]=3&v[user_id][]=1&v[user_id][]=3
 

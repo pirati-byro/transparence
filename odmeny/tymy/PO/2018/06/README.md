@@ -17,24 +17,24 @@ Období:                  | 2018-06
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Jakub Dedek](jakub-dedek/)             |                20000.00 |
-| [Štěpán Drtina](stepan-drtina/)         |                 8000.00 |
-| [Filip Dítě](filip-dite/)               |                20000.00 |
+| [Jakub Dedek](jakub-dedek/)             |                24181.00 |
+| [Štěpán Drtina](stepan-drtina/)         |                14172.00 |
+| [Filip Dítě](filip-dite/)               |                22425.00 |
 | [Vendula Glancová](vendula-glancova/)   |                15000.00 |
-| [Kateřina Hůlková](katerina-hulkova/)   |                25000.00 |
-| [Michal Jokeš](michal-jokes/)           |                30000.00 |
-| [Kateřina Jínová](katerina-jinova/)     |                 8000.00 |
-| [Adam Komenda](adam-komenda/)           |                 8000.00 |
-| [Yveta Matinková](yveta-matinkova/)     |                25000.00 |
-| [Miroslav Mašek](miroslav-masek/)       |                20000.00 |
+| [Kateřina Hůlková](katerina-hulkova/)   |                28134.00 |
+| [Michal Jokeš](michal-jokes/)           |                33363.00 |
+| [Kateřina Jínová](katerina-jinova/)     |                10618.00 |
+| [Adam Komenda](adam-komenda/)           |                 9528.00 |
+| [Yveta Matinková](yveta-matinkova/)     |                29014.00 |
+| [Miroslav Mašek](miroslav-masek/)       |                24181.00 |
 | [Jan Můčka](jan-mucka/)                 |                20000.00 |
-| [Lucie Trčková](lucie-trckova/)         |                 8000.00 |
-| [Michaela Vodová](michaela-vodova/)     |                30000.00 |
-| [Helena Vondráková](helena-vondrakova/) |                13000.00 |
-| [Libuše Věříšová](libuse-verisova/)     |                25000.00 |
-| [Miloš Zmeškal](milos-zmeskal/)         |                22000.00 |
-| [Pavel Štěpánek](pavel-stepanek/)       |                20000.00 |
-| [Václav Žídek](vaclav-zidek/)           |                15000.00 |
+| [Lucie Trčková](lucie-trckova/)         |                11981.00 |
+| [Michaela Vodová](michaela-vodova/)     |                34949.00 |
+| [Helena Vondráková](helena-vondrakova/) |                17181.00 |
+| [Libuše Věříšová](libuse-verisova/)     |                28698.00 |
+| [Miloš Zmeškal](milos-zmeskal/)         |                25985.00 |
+| [Pavel Štěpánek](pavel-stepanek/)       |                24803.00 |
+| [Václav Žídek](vaclav-zidek/)           |                19058.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
