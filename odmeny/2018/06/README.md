@@ -73,8 +73,8 @@ Seznam lidí
 | RV    | [Elizabet Kovačeva](../../tymy/RV/2018/06/elizabet-kovaceva/)     |         149.00 |                 8000.00 |
 | OlK   | [Patrik Kuba](../../tymy/OlK/2018/06/patrik-kuba/)                |         100.00 |                13000.00 |
 | OlK   | [Tomáš Nakládal](../../tymy/OlK/2018/06/tomas-nakladal/)          |         100.00 |                13000.00 |
-| MsK   | [Veronika Murzynová](../../tymy/MsK/2018/06/veronika-murzynova/)  |          58.00 |                15000.00 |
-| FO    | [Denisa Puldová](../../tymy/FO/2018/06/denisa-puldova/)           |         100.00 |                    0.00 |
+| MsK   | [Veronika Murzynová](../../tymy/MsK/2018/06/veronika-murzynova/)  |          64.00 |                15000.00 |
+| FO    | [Denisa Puldová](../../tymy/FO/2018/06/denisa-puldova/)           |         100.00 |                 6425.00 |
 | Vys   | [Ondřej Tůma](../../tymy/Vys/2018/06/ondrej-tuma/)                |         100.00 |                23000.00 |
 | ST    | [Vít Šimral](../../tymy/ST/2018/06/vit-simral/)                   |         100.00 |                14500.00 |
 
@@ -88,7 +88,7 @@ Rozpis podle týmů
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  37500.00 |
-| Centrála       | Provozní výdaje finančního odboru         |  14100.00 |
+| Centrála       | Provozní výdaje finančního odboru         |  20525.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 252500.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 423138.00 |
 | Centrála       | Provozní výdaje předsednictva             |  34500.00 |
