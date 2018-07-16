@@ -22,7 +22,7 @@ Seznam lidí
 | RP    | [Martin Kučera](../../tymy/RP/2018/06/martin-kucera/)             |         100.00 |                11500.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/06/michal-novak/)               |           0.00 |                40000.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/06/dino-arnautovic/)         |           0.00 |                 4000.00 |
-| AO    | [Lucie Spáčilová](../../tymy/AO/2018/06/lucie-spacilova/)         |           0.00 |                22000.00 |
+| AO    | [Lucie Spáčilová](../../tymy/AO/2018/06/lucie-spacilova/)         |           0.00 |                23000.00 |
 | UT    | [Dino Arnautovič](../../tymy/UT/2018/06/dino-arnautovic/)         |         100.00 |                12000.00 |
 | TO    | [Miroslav Brabenec](../../tymy/TO/2018/06/miroslav-brabenec/)     |           0.00 |                10000.00 |
 | TO    | [Andrej Ramašeuski](../../tymy/TO/2018/06/andrej-ramaseuski/)     |           8.00 |                30000.00 |
@@ -87,7 +87,7 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  37500.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  38500.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  20525.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 252500.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 423138.00 |
