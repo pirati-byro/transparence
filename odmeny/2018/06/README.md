@@ -20,7 +20,7 @@ Seznam lidí
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/06/jaromir-beranek/)         |         100.00 |                14100.00 |
 | RP    | [Jana Koláříková](../../tymy/RP/2018/06/jana-kolarikova/)         |         100.00 |                29867.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/06/martin-kucera/)             |         100.00 |                11500.00 |
-| RP    | [Michal Novák](../../tymy/RP/2018/06/michal-novak/)               |           0.00 |                40000.00 |
+| RP    | [Michal Novák](../../tymy/RP/2018/06/michal-novak/)               |           0.00 |                48400.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/06/dino-arnautovic/)         |           0.00 |                 4000.00 |
 | AO    | [Lucie Spáčilová](../../tymy/AO/2018/06/lucie-spacilova/)         |           0.00 |                23000.00 |
 | UT    | [Dino Arnautovič](../../tymy/UT/2018/06/dino-arnautovic/)         |         100.00 |                12000.00 |
@@ -96,7 +96,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje technického odboru        |  71200.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  17290.00 |
 | Centrála       | Výdaje na právní záležitosti              |   1920.00 |
-| Centrála       | Výdaje transformace                       |  52000.00 |
+| Centrála       | Výdaje transformace                       |  60400.00 |
 | Centrála       | Činnost poslaneckého klubu                |  87000.00 |
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   4750.00 |
 | Kraj Vysočina  | Personální výdaje                         |  23000.00 |
