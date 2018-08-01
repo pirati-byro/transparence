@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                       |   Počet hodin |
 |:-------------------------------------------------------------------|--------------:|
-| **[Strategický tým][p24]**                                         |         36.00 |
-| [#10907 Dino Arnautovič - úkoly spojené s tématem Upgrade][t10907] |         33.50 |
-| **Celkem v uvedených projektech**                                  |         36.00 |
+| **[Strategický tým][p24]**                                         |         42.20 |
+| [#10907 Dino Arnautovič - úkoly spojené s tématem Upgrade][t10907] |         39.80 |
+| **Celkem v uvedených projektech**                                  |         42.25 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu Strategický tým. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -51,9 +51,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  36.00 hod
+Skutečně odvedená práce dle smlouvy    |  42.25 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  36.00 hod
+**Celkový počet hodin**                |  42.25 hod
 **Procento vytížení**                  |  100 %
 
 Odměna

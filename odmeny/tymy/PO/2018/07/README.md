@@ -24,6 +24,7 @@ Období:                  | 2018-07
 | [Kateřina Hůlková](katerina-hulkova/)   |                25000.00 |
 | [Michal Jokeš](michal-jokes/)           |                30000.00 |
 | [Kateřina Jínová](katerina-jinova/)     |                 8000.00 |
+| [Michaela Kleslová](michaela-kleslova/) |                 8000.00 |
 | [Adam Komenda](adam-komenda/)           |                 8000.00 |
 | [Yveta Matinková](yveta-matinkova/)     |                25000.00 |
 | [Miroslav Mašek](miroslav-masek/)       |                20000.00 |

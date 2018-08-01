@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                |   Počet hodin |
 |:--------------------------------------------|--------------:|
-| **[Mediální odbor][p89]**                   |          5.00 |
-| [#6459 Psaní pro mediální odbor Roj][t6459] |          5.00 |
-| **Celkem v uvedených projektech**           |          5.00 |
+| **[Mediální odbor][p95]**                   |         43.00 |
+| [#6459 Psaní pro mediální odbor Roj][t6459] |         43.00 |
+| **Celkem v uvedených projektech**           |         43.00 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu mediální odbor. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -51,9 +51,9 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |   5.00 hod
+Skutečně odvedená práce dle smlouvy    |  43.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |   5.00 hod
+**Celkový počet hodin**                |  43.00 hod
 **Procento vytížení**                  |  100 %
 
 Odměna
@@ -100,7 +100,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p89]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=1&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=89
+[p95]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=1&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=95
 
 [t6459]: https://redmine.pirati.cz/issues/6459/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=1&v[user_id][]=8
 

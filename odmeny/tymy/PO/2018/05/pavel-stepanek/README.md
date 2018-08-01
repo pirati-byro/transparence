@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                           |   Počet hodin |
 |:---------------------------------------------------------------------------------------|--------------:|
-| **[Pardubický kraj][p110]**                                                            |        223.00 |
+| **[Pardubický kraj][p116]**                                                            |        223.00 |
 | [#5436 administrativa (proplácení, korespondence, tabulky atd.)][t5436]                |         78.90 |
 | [#5487 Komunikace s veřejností/podporovateli/zájmovými sdruženími/RegPříznivci][t5487] |         26.10 |
 | [#9888 Práce na komunálních volbách][t9888]                                            |         25.90 |
@@ -43,7 +43,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#10010 Sebevzdělávání][t10010]                                                        |          6.50 |
 | [#10143 svolání a organizace krajské schůze - květen 2018][t10143]                     |          5.30 |
 | [#5410 Mumble PO, KS, PKS][t5410]                                                      |          3.50 |
-| **[Personální odbor][p70]**                                                            |         28.20 |
+| **[Personální odbor][p76]**                                                            |         28.20 |
 | [#5605 Vyslání na služební cestu][t5605]                                               |         11.00 |
 | [#10790 brainstorming a školení (nejen) koordinátorů středa 9.5. ][t10790]             |         10.00 |
 | [#10874 Povinné školení na Archív][t10874]                                             |          4.00 |
@@ -113,7 +113,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p110]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=110
+[p116]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=116
 
 [t5436]: https://redmine.pirati.cz/issues/5436/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5
 
@@ -139,7 +139,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t5410]: https://redmine.pirati.cz/issues/5410/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5
 
-[p70]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=70
+[p76]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=76
 
 [t5605]: https://redmine.pirati.cz/issues/5605/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=3&v[user_id][]=5
 

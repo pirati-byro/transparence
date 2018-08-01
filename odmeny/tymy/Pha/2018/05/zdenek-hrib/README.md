@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                      |   Počet hodin |
 |:----------------------------------|--------------:|
-| **Celkem v uvedených projektech** |          0.00 |
+| **Celkem v uvedených projektech** |             0 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu zastupitelstvo hl. m. Prahy. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 

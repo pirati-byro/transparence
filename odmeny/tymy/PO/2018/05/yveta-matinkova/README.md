@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                      |   Počet hodin |
 |:----------------------------------|--------------:|
-| **Celkem v uvedených projektech** |          0.00 |
+| **Celkem v uvedených projektech** |             0 |
 
 Smlouva se vztahuje na všechny projekty. 
 

@@ -17,7 +17,7 @@ Období:                  | 2018-05
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Elizabet Kovačeva](elizabet-kovaceva/) |                 8000.00 |
+| [Elizabet Kovačeva](elizabet-kovaceva/) |                10000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

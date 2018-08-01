@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Republikové předsednictvo][p58]**                                      |        185.50 |
+| **[Republikové předsednictvo][p64]**                                      |        185.50 |
 | [#10192 Vyřizování e-mailů][t10192]                                       |         56.80 |
 | [#10226 Doprovodné aktivity][t10226]                                      |         48.00 |
 | [#10194 Příprava jednání RP + zápisy z RP ][t10194]                       |         27.80 |
@@ -106,7 +106,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p58]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=58
+[p64]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=64
 
 [t10192]: https://redmine.pirati.cz/issues/10192/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6
 

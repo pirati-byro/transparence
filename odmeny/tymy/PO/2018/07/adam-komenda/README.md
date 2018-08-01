@@ -30,12 +30,11 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                                                                                                                                                                                                                     |   Počet hodin |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------:|
-| **[Ústecký kraj][p94]**                                                                                                                                                                                                                                                          |         71.00 |
-| [#10713 Dlouhodobý úkol KoKS: administrativní činnost: podávání příkazů k proplacení, vyřizování přihlášek, příprava zpracování smluv správa evidenčních tabulek.][t10713]                                                                                                       |         41.00 |
-| [#10716 Dlouhodobý úkol KoKS: Organizace schůzí, setkání se zájemci o členství, agitační akce sloužící k propagaci strany, cesta na schůze či na agitační akce, rozvoz pirátského merche, rozesílání pirátského merche, příprava a rozesílání newsletterů a fb událostí][t10716] |         30.00 |
-| **[Personální odbor][p70]**                                                                                                                                                                                                                                                      |          9.00 |
-| [#10375 mediální školení pro krajské mediální odbory a koordinátory][t10375]                                                                                                                                                                                                     |          5.00 |
-| **Celkem v uvedených projektech**                                                                                                                                                                                                                                                |         80.00 |
+| **[Ústecký kraj][p101]**                                                                                                                                                                                                                                                         |         79.20 |
+| [#10713 Dlouhodobý úkol KoKS: administrativní činnost: podávání příkazů k proplacení, vyřizování přihlášek, příprava zpracování smluv správa evidenčních tabulek.][t10713]                                                                                                       |         50.00 |
+| [#10716 Dlouhodobý úkol KoKS: Organizace schůzí, setkání se zájemci o členství, agitační akce sloužící k propagaci strany, cesta na schůze či na agitační akce, rozvoz pirátského merche, rozesílání pirátského merche, příprava a rozesílání newsletterů a fb událostí][t10716] |         29.00 |
+| **[Personální odbor][p77]**                                                                                                                                                                                                                                                      |          1.20 |
+| **Celkem v uvedených projektech**                                                                                                                                                                                                                                                |         80.42 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -52,10 +51,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  12.00 hod/týdně =  48.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  80.00 hod
+Skutečně odvedená práce dle smlouvy    |  80.42 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  80.00 hod
-**Procento vytížení**                  |  167 %
+**Celkový počet hodin**                |  80.42 hod
+**Procento vytížení**                  |  168 %
 
 Odměna
 ------
@@ -101,15 +100,13 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p94]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=94
+[p101]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=101
 
 [t10713]: https://redmine.pirati.cz/issues/10713/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5
 
 [t10716]: https://redmine.pirati.cz/issues/10716/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5
 
-[p70]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=70
-
-[t10375]: https://redmine.pirati.cz/issues/10375/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5
+[p77]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=77
 
 
 

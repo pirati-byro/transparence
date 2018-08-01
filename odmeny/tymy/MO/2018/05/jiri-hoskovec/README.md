@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                  |   Počet hodin |
 |:----------------------------------------------|--------------:|
-| **[Mediální odbor][p89]**                     |         36.00 |
+| **[Mediální odbor][p95]**                     |         36.00 |
 | [#9725 Vykazování práce Jiří Hoskovec][t9725] |         36.00 |
 | **Celkem v uvedených projektech**             |         36.00 |
 
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p89]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=3&v[user_id][]=1&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=89
+[p95]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=3&v[user_id][]=1&v[user_id][]=3&f[]=project_id&op[project_id]==&v[project_id][]=95
 
 [t9725]: https://redmine.pirati.cz/issues/9725/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=3&v[user_id][]=1&v[user_id][]=3
 

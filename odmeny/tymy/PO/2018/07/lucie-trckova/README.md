@@ -28,13 +28,13 @@ Odvedená práce
 
 Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodiny.
 
-| Projekt/úkol                                                               |   Počet hodin |
-|:---------------------------------------------------------------------------|--------------:|
-| **[Karlovarský kraj][p93]**                                                |         71.50 |
-| [#10630 Administrativa koordinátor KvK 2018][t10630]                       |         68.50 |
-| **[Personální odbor][p70]**                                                |         10.50 |
-| [#10790 brainstorming a školení (nejen) koordinátorů středa 9.5. ][t10790] |         10.00 |
-| **Celkem v uvedených projektech**                                          |         82.00 |
+| Projekt/úkol                                         |   Počet hodin |
+|:-----------------------------------------------------|--------------:|
+| **[Karlovarský kraj][p100]**                         |         95.50 |
+| [#10630 Administrativa koordinátor KvK 2018][t10630] |         90.00 |
+| [#10631 Zajištění ePIC pirátské centrum KvK][t10631] |          4.50 |
+| **[Personální odbor][p77]**                          |          2.00 |
+| **Celkem v uvedených projektech**                    |         97.50 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -51,10 +51,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  20.00 hod/týdně =  80.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  82.00 hod
+Skutečně odvedená práce dle smlouvy    |  97.50 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  82.00 hod
-**Procento vytížení**                  |  102 %
+**Celkový počet hodin**                |  97.50 hod
+**Procento vytížení**                  |  122 %
 
 Odměna
 ------
@@ -100,13 +100,13 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p93]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=9&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=93
+[p100]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=9&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=100
 
 [t10630]: https://redmine.pirati.cz/issues/10630/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=9&v[user_id][]=4
 
-[p70]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=9&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=70
+[t10631]: https://redmine.pirati.cz/issues/10631/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=9&v[user_id][]=4
 
-[t10790]: https://redmine.pirati.cz/issues/10790/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=9&v[user_id][]=4
+[p77]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=9&v[user_id][]=4&f[]=project_id&op[project_id]==&v[project_id][]=77
 
 
 

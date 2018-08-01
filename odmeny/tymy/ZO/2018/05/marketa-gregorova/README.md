@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                            |   Počet hodin |
 |:----------------------------------------|--------------:|
-| **[Zahraniční odbor][p91]**             |         82.40 |
+| **[Zahraniční odbor][p97]**             |         82.40 |
 | [#9466 Vedoucí ZO - výkaz práce][t9466] |         82.40 |
 | **Celkem v uvedených projektech**       |         82.40 |
 
@@ -98,7 +98,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p91]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=91
+[p97]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=97
 
 [t9466]: https://redmine.pirati.cz/issues/9466/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=1&v[user_id][]=5&v[user_id][]=5
 

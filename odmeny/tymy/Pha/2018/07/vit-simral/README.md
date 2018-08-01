@@ -30,9 +30,9 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                           |   Počet hodin |
 |:---------------------------------------|--------------:|
-| **[Zastupitelstvo hl. m. prahy][p49]** |         85.80 |
-| [#9961 Stínové zástupcování][t9961]    |         85.80 |
-| **Celkem v uvedených projektech**      |         85.75 |
+| **[Zastupitelstvo hl. m. prahy][p49]** |         92.50 |
+| [#9961 Stínové zástupcování][t9961]    |         92.50 |
+| **Celkem v uvedených projektech**      |         92.50 |
 
 
 Smlouva se vztahuje pouze na čas vykázaný v rámci projektu zastupitelstvo hl. m. Prahy. Čas vykázaný v jiných projektech není v tomto výkazu zahrnut, ale může být ve výkazu daného týmu. 
@@ -51,10 +51,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  30.00 hod/týdně = 120.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    |  85.75 hod
+Skutečně odvedená práce dle smlouvy    |  92.50 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                |  85.75 hod
-**Procento vytížení**                  |   71 %
+**Celkový počet hodin**                |  92.50 hod
+**Procento vytížení**                  |   77 %
 
 Odměna
 ------
@@ -76,12 +76,12 @@ Odpočet                                |     0.00 Kč
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
 Paušální odměna                        |     0.00 Kč
-Hodinová odměna do odhadnutého rozsahu | 12862.50 Kč
+Hodinová odměna do odhadnutého rozsahu | 13875.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |     0.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 12862.50 Kč
+**Celková odměna**                     | 13875.00 Kč
 
 
 ### Odměna od jiných subjektů

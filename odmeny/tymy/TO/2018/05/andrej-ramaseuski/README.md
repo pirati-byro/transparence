@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                          |   Počet hodin |
 |:----------------------------------------------------------------------|--------------:|
-| **[Technický odbor][p85]**                                            |         85.00 |
+| **[Technický odbor][p91]**                                            |         85.00 |
 | [#11226 Ansible pro SSO a LDAP][t11226]                               |         40.00 |
 | [#10835 vyhodnoceni 4 pouzivanych systemu][t10835]                    |         23.00 |
 | [#10839 nasazeni 2 vybranych reseni k porovnani a otestovani][t10839] |         14.00 |
@@ -101,7 +101,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p85]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=85
+[p91]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8&f[]=project_id&op[project_id]==&v[project_id][]=91
 
 [t11226]: https://redmine.pirati.cz/issues/11226/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-05-01&v[spent_on][]=2018-05-31&v[user_id][]=2&v[user_id][]=8&v[user_id][]=8
 
