@@ -25,9 +25,6 @@ Seznam lidí
 | AO    | [Lucie Spáčilová](../../tymy/AO/2018/07/lucie-spacilova/)         |           0.00 |                22000.00 |
 | AO    | [Lucie Spáčilová](../../tymy/AO/2018/07/lucie-spacilova/)         |           0.00 |                22000.00 |
 | UT    | [Dino Arnautovič](../../tymy/UT/2018/07/dino-arnautovic/)         |         100.00 |                11000.00 |
-| TO    | [Miroslav Brabenec](../../tymy/TO/2018/07/miroslav-brabenec/)     |           0.00 |                20000.00 |
-| TO    | [Andrej Ramašeuski](../../tymy/TO/2018/07/andrej-ramaseuski/)     |           1.00 |                30000.00 |
-| TO    | [Martin Rejman](../../tymy/TO/2018/07/martin-rejman/)             |           0.00 |                27000.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/07/jakub-dedek/)                 |           4.00 |                20000.00 |
 | PO    | [Štěpán Drtina](../../tymy/PO/2018/07/stepan-drtina/)             |           0.00 |                 8000.00 |
 | PO    | [Filip Dítě](../../tymy/PO/2018/07/filip-dite/)                   |          84.00 |                20000.00 |
@@ -78,6 +75,8 @@ Seznam lidí
 | OlK   | [Tomáš Nakládal](../../tymy/OlK/2018/07/tomas-nakladal/)          |         100.00 |                13000.00 |
 | MsK   | [Veronika Murzynová](../../tymy/MsK/2018/07/veronika-murzynova/)  |          19.00 |                30000.00 |
 | FO    | [Denisa Puldová](../../tymy/FO/2018/07/denisa-puldova/)           |         100.00 |                    0.00 |
+| TO    | [Andrej Ramašeuski](../../tymy/TO/2018/07/andrej-ramaseuski/)     |           1.00 |                30000.00 |
+| TO    | [Martin Rejman](../../tymy/TO/2018/07/martin-rejman/)             |           0.00 |                27000.00 |
 | Vys   | [Ondřej Tůma](../../tymy/Vys/2018/07/ondrej-tuma/)                |         100.00 |                20000.00 |
 | ST    | [Vít Šimral](../../tymy/ST/2018/07/vit-simral/)                   |         100.00 |                10260.00 |
 
@@ -96,7 +95,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje personálního odboru       | 375098.00 |
 | Centrála       | Provozní výdaje předsednictva             |  30000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
-| Centrála       | Provozní výdaje technického odboru        |  77000.00 |
+| Centrála       | Provozní výdaje technického odboru        |  57000.00 |
 | Centrála       | Provozní výdaje zahraničního odboru       |  16800.00 |
 | Centrála       | Výdaje na právní záležitosti              |      0.00 |
 | Centrála       | Výdaje transformace                       |  59400.00 |

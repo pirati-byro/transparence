@@ -17,7 +17,6 @@ Období:                  | 2018-07
 
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
-| [Miroslav Brabenec](miroslav-brabenec/) |                20000.00 |
 | [Andrej Ramašeuski](andrej-ramaseuski/) |                30000.00 |
 | [Martin Rejman](martin-rejman/)         |                27000.00 |
 
