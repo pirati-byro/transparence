@@ -24,7 +24,7 @@ Seznam lidí
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/07/dino-arnautovic/)         |           0.00 |                 4000.00 |
 | AO    | [Lucie Spáčilová](../../tymy/AO/2018/07/lucie-spacilova/)         |           0.00 |                22000.00 |
 | UT    | [Dino Arnautovič](../../tymy/UT/2018/07/dino-arnautovic/)         |         100.00 |                12500.00 |
-| PO    | [Jakub Dedek](../../tymy/PO/2018/07/jakub-dedek/)                 |           4.00 |                24138.00 |
+| PO    | [Jakub Dedek](../../tymy/PO/2018/07/jakub-dedek/)                 |           4.00 |                29138.00 |
 | PO    | [Štěpán Drtina](../../tymy/PO/2018/07/stepan-drtina/)             |           0.00 |                19818.00 |
 | PO    | [Filip Dítě](../../tymy/PO/2018/07/filip-dite/)                   |         106.00 |                23145.00 |
 | PO    | [Vendula Glancová](../../tymy/PO/2018/07/vendula-glancova/)       |           0.00 |                15000.00 |
@@ -34,7 +34,7 @@ Seznam lidí
 | PO    | [Michaela Kleslová](../../tymy/PO/2018/07/michaela-kleslova/)     |          54.00 |                 8000.00 |
 | PO    | [Adam Komenda](../../tymy/PO/2018/07/adam-komenda/)               |         168.00 |                 9387.00 |
 | PO    | [Yveta Matinková](../../tymy/PO/2018/07/yveta-matinkova/)         |           0.00 |                28687.00 |
-| PO    | [Miroslav Mašek](../../tymy/PO/2018/07/miroslav-masek/)           |          84.00 |                24585.00 |
+| PO    | [Miroslav Mašek](../../tymy/PO/2018/07/miroslav-masek/)           |          84.00 |                26585.00 |
 | PO    | [Jan Můčka](../../tymy/PO/2018/07/jan-mucka/)                     |           0.00 |                20000.00 |
 | PO    | [Lucie Trčková](../../tymy/PO/2018/07/lucie-trckova/)             |         122.00 |                14618.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2018/07/michaela-vodova/)         |         125.00 |                34818.00 |
@@ -42,11 +42,13 @@ Seznam lidí
 | PO    | [Libuše Věříšová](../../tymy/PO/2018/07/libuse-verisova/)         |           0.00 |                28890.00 |
 | PO    | [Miloš Zmeškal](../../tymy/PO/2018/07/milos-zmeskal/)             |           0.00 |                25938.00 |
 | PO    | [Magdalena Škapová](../../tymy/PO/2018/07/magdalena-skapova/)     |           0.00 |                 6000.00 |
-| PO    | [Pavel Štěpánek](../../tymy/PO/2018/07/pavel-stepanek/)           |         123.00 |                24669.00 |
+| PO    | [Pavel Štěpánek](../../tymy/PO/2018/07/pavel-stepanek/)           |         123.00 |                29669.00 |
 | PO    | [Václav Žídek](../../tymy/PO/2018/07/vaclav-zidek/)               |           0.00 |                19396.00 |
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/07/jakub-dusanek/)             |         100.00 |                38000.00 |
 | MO    | [Daniel Galuszka](../../tymy/MO/2018/07/daniel-galuszka/)         |         100.00 |                14500.00 |
 | MO    | [Jiří Hoskovec](../../tymy/MO/2018/07/jiri-hoskovec/)             |         100.00 |                12000.00 |
+| MO    | [Martina Kavanová](../../tymy/MO/2018/07/martina-kavanova/)       |         100.00 |                    0.00 |
+| MO    | [Aneta Kernová](../../tymy/MO/2018/07/aneta-kernova/)             |         100.00 |                    0.00 |
 | MO    | [Andrea Mádlová](../../tymy/MO/2018/07/andrea-madlova/)           |         100.00 |                36000.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/07/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Jan Vrobel](../../tymy/MO/2018/07/jan-vrobel/)                   |           0.00 |                50000.00 |
@@ -91,7 +93,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje administrativního odboru  |  37000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  13450.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 253000.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 450637.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 462637.00 |
 | Centrála       | Provozní výdaje předsednictva             |  35000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
 | Centrála       | Provozní výdaje technického odboru        |  57000.00 |

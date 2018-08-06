@@ -17,7 +17,7 @@ Jméno a příjmení:                      | Jakub Dedek
 -----------------------                | --------------------
 Funkce:                                | Koordinátor Krajského sdružení - MsK
 Tým:                                   | personální odbor
-Smlouva:                               | [smlouva ze dne 1. 3. 2018][smlouva]
+Smlouva:                               | [smlouva ze dne 1. 7. 2018][smlouva]
 Období:                                | 2018-07
 
 
@@ -63,7 +63,7 @@ příjem zdanil a zaplatil zákonné pojištění, pokud je nehradí plátce.
 
 Složka smluvní odměny                  | Dohodnutá částka
 ----------------                       | ------------------:
-Paušální odměna                        | 20000.00 Kč
+Paušální odměna                        | 25000.00 Kč
 Hodinová odměna                        |     0.00 Kč/hod
 Úkolová odměna                         |  5000.00 Kč
 Odpočet                                |     0.00 Kč
@@ -72,13 +72,13 @@ Odpočet                                |     0.00 Kč
 
 Složka skutečné odměny                 | Skutečná odměna (Kč)
 ---------------------                  | ---------------------:
-Paušální odměna                        | 20000.00 Kč
+Paušální odměna                        | 25000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
 Úkolová odměna                         |  4138.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 24138.00 Kč
+**Celková odměna**                     | 29138.00 Kč
 
 
 ### Odměna od jiných subjektů

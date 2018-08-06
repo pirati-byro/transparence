@@ -20,6 +20,8 @@ Období:                  | 2018-07
 | [Jakub Dušánek](jakub-dusanek/)           |                38000.00 |
 | [Daniel Galuszka](daniel-galuszka/)       |                14500.00 |
 | [Jiří Hoskovec](jiri-hoskovec/)           |                12000.00 |
+| [Martina Kavanová](martina-kavanova/)     |                    0.00 |
+| [Aneta Kernová](aneta-kernova/)           |                    0.00 |
 | [Andrea Mádlová](andrea-madlova/)         |                36000.00 |
 | [Karolína Sadílková](karolina-sadilkova/) |                56000.00 |
 | [Jan Vrobel](jan-vrobel/)                 |                50000.00 |
