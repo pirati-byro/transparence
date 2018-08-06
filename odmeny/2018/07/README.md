@@ -52,7 +52,7 @@ Seznam lidí
 | MO    | [Andrea Mádlová](../../tymy/MO/2018/07/andrea-madlova/)           |         100.00 |                36000.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/07/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Jan Vrobel](../../tymy/MO/2018/07/jan-vrobel/)                   |           0.00 |                50000.00 |
-| MO    | [Šárka Václavíková](../../tymy/MO/2018/07/sarka-vaclavikova/)     |           0.00 |                27000.00 |
+| MO    | [Šárka Václavíková](../../tymy/MO/2018/07/sarka-vaclavikova/)     |           0.00 |                32000.00 |
 | MO    | [Michal Zachar](../../tymy/MO/2018/07/michal-zachar/)             |           0.00 |                19500.00 |
 | PK    | [Petr Fojtík](../../tymy/PK/2018/07/petr-fojtik/)                 |           0.00 |                45000.00 |
 | PK    | [Janusz Konieczný](../../tymy/PK/2018/07/janusz-konieczny/)       |           0.00 |                42000.00 |
@@ -92,7 +92,7 @@ Rozpis podle týmů
 |:---------------|:------------------------------------------|----------:|
 | Centrála       | Provozní výdaje administrativního odboru  |  37000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  13450.00 |
-| Centrála       | Provozní výdaje mediálního odboru         | 253000.00 |
+| Centrála       | Provozní výdaje mediálního odboru         | 258000.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 462637.00 |
 | Centrála       | Provozní výdaje předsednictva             |  35000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |

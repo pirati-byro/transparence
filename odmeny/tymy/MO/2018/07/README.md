@@ -25,7 +25,7 @@ Období:                  | 2018-07
 | [Andrea Mádlová](andrea-madlova/)         |                36000.00 |
 | [Karolína Sadílková](karolina-sadilkova/) |                56000.00 |
 | [Jan Vrobel](jan-vrobel/)                 |                50000.00 |
-| [Šárka Václavíková](sarka-vaclavikova/)   |                27000.00 |
+| [Šárka Václavíková](sarka-vaclavikova/)   |                32000.00 |
 | [Michal Zachar](michal-zachar/)           |                19500.00 |
 
 
