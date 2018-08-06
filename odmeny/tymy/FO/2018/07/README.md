@@ -17,7 +17,7 @@ Období:                  | 2018-07
 
 | Jméno a příjmení                  |   Odměna od strany (Kč) |
 |:----------------------------------|------------------------:|
-| [Denisa Puldová](denisa-puldova/) |                    0.00 |
+| [Denisa Puldová](denisa-puldova/) |                 3450.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

@@ -15,7 +15,7 @@ Odměňovaný
 
 Jméno a příjmení:                      | Šárka Václavíková
 -----------------------                | --------------------
-Funkce:                                | asistent volebního výboru
+Funkce:                                | Asistentka volebního výboru
 Tým:                                   | mediální odbor
 Smlouva:                               | [smlouva ze dne 1. 6. 2018][smlouva]
 Období:                                | 2018-07
@@ -46,11 +46,11 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-Odhadnutý rozsah práce                 |   0.00 hod/týdně =   0.00 hod/měs.
+Odhadnutý rozsah práce                 |  20.00 hod/týdně =  80.00 hod/měs.
 Skutečně odvedená práce dle smlouvy    |   0.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
 **Celkový počet hodin**                |   0.00 hod
-**Procento vytížení**                  |  100 %
+**Procento vytížení**                  |    0 %
 
 Odměna
 ------

@@ -30,10 +30,10 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Kraj vysočina][p110]**                                                 |        168.50 |
+| **[Kraj vysočina][p110]**                                                 |        177.50 |
 | [#11370 Komunální volby 2018][t11370]                                     |         76.60 |
-| [#5008 Administrativa kraje][t5008]                                       |         32.10 |
-| [#10755 Pracovní cesty po Vysočině][t10755]                               |         16.80 |
+| [#5008 Administrativa kraje][t5008]                                       |         40.10 |
+| [#10755 Pracovní cesty po Vysočině][t10755]                               |         17.80 |
 | [#5161 Jednání na Mumble][t5161]                                          |         12.50 |
 | [#5782 Krajský web][t5782]                                                |          6.20 |
 | [#5158 Komunikace se členy, dobrovolníky KS Vysočina a veřejností][t5158] |          5.80 |
@@ -41,7 +41,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#12084 1.7.2018 zasedání KF JiPiCe][t12084]                              |          5.00 |
 | **[Personální odbor][p77]**                                               |         22.60 |
 | [#5232 Odměňování krajský koordinátor - Vysočina][t5232]                  |         16.80 |
-| **Celkem v uvedených projektech**                                         |        191.13 |
+| **Celkem v uvedených projektech**                                         |        200.13 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -58,10 +58,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  40.00 hod/týdně = 160.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    | 191.13 hod
+Skutečně odvedená práce dle smlouvy    | 200.13 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                | 191.13 hod
-**Procento vytížení**                  |  119 %
+**Celkový počet hodin**                | 200.13 hod
+**Procento vytížení**                  |  125 %
 
 Odměna
 ------
@@ -85,10 +85,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        | 30000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  4818.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 30000.00 Kč
+**Celková odměna**                     | 34818.00 Kč
 
 
 ### Odměna od jiných subjektů

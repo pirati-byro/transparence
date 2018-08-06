@@ -19,7 +19,6 @@ Období:                  | 2018-07
 |:------------------------------------|------------------------:|
 | [Dino Arnautovič](dino-arnautovic/) |                 4000.00 |
 | [Lucie Spáčilová](lucie-spacilova/) |                22000.00 |
-| [Lucie Spáčilová](lucie-spacilova/) |                22000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

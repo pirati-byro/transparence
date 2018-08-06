@@ -30,10 +30,10 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                                    |   Počet hodin |
 |:------------------------------------------------------------------------------------------------|--------------:|
-| **[Středočeský kraj][p80]**                                                                     |        135.00 |
-| [#12406 KoKs- Výkaz práce červenec][t12406]                                                     |         98.00 |
+| **[Středočeský kraj][p80]**                                                                     |        170.00 |
+| [#12406 KoKs- Výkaz práce červenec][t12406]                                                     |        133.00 |
 | [#11714 KoKs- Běžná korespondence, plánování schůzí, odpovídání na mejly telefony atd.][t11714] |         37.00 |
-| **Celkem v uvedených projektech**                                                               |        135.00 |
+| **Celkem v uvedených projektech**                                                               |        170.00 |
 
 Smlouva se vztahuje na všechny projekty. 
 
@@ -50,10 +50,10 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 Odhadnutý rozsah práce                 |  40.00 hod/týdně = 160.00 hod/měs.
-Skutečně odvedená práce dle smlouvy    | 135.00 hod
+Skutečně odvedená práce dle smlouvy    | 170.00 hod
 Práce hrazená jinými subjekty          |   0.00 hod
-**Celkový počet hodin**                | 135.00 hod
-**Procento vytížení**                  |   84 %
+**Celkový počet hodin**                | 170.00 hod
+**Procento vytížení**                  |  106 %
 
 Odměna
 ------
@@ -77,10 +77,10 @@ Složka skutečné odměny                 | Skutečná odměna (Kč)
 Paušální odměna                        | 20000.00 Kč
 Hodinová odměna do odhadnutého rozsahu |     0.00 Kč
 Hodinová odměna nad odhadnutý rozsah   |     0.00 Kč
-Úkolová odměna                         |     0.00 Kč
+Úkolová odměna                         |  3145.00 Kč
 Mimořádná odměna                       |     0.00 Kč
 Odpočet                                |     0.00 Kč
-**Celková odměna**                     | 20000.00 Kč
+**Celková odměna**                     | 23145.00 Kč
 
 
 ### Odměna od jiných subjektů
