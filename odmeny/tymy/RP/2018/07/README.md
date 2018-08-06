@@ -19,7 +19,7 @@ Období:                  | 2018-07
 |:------------------------------------|------------------------:|
 | [Šárka Altmanová](sarka-altmanova/) |                35000.00 |
 | [Jaromír Beránek](jaromir-beranek/) |                10000.00 |
-| [Jana Koláříková](jana-kolarikova/) |                35098.00 |
+| [Jana Koláříková](jana-kolarikova/) |                39598.00 |
 | [Martin Kučera](martin-kucera/)     |                11000.00 |
 | [Michal Novák](michal-novak/)       |                48400.00 |
 

@@ -18,7 +18,7 @@ Seznam lidí
 |:------|:------------------------------------------------------------------|---------------:|------------------------:|
 | RP    | [Šárka Altmanová](../../tymy/RP/2018/07/sarka-altmanova/)         |         103.00 |                35000.00 |
 | RP    | [Jaromír Beránek](../../tymy/RP/2018/07/jaromir-beranek/)         |         100.00 |                10000.00 |
-| RP    | [Jana Koláříková](../../tymy/RP/2018/07/jana-kolarikova/)         |         100.00 |                35098.00 |
+| RP    | [Jana Koláříková](../../tymy/RP/2018/07/jana-kolarikova/)         |         100.00 |                39598.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/07/martin-kucera/)             |         100.00 |                11000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/07/michal-novak/)               |           0.00 |                48400.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/07/dino-arnautovic/)         |           0.00 |                 4000.00 |
@@ -91,7 +91,7 @@ Rozpis podle týmů
 | Centrála       | Provozní výdaje administrativního odboru  |  37000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  13450.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 253000.00 |
-| Centrála       | Provozní výdaje personálního odboru       | 446137.00 |
+| Centrála       | Provozní výdaje personálního odboru       | 450637.00 |
 | Centrála       | Provozní výdaje předsednictva             |  35000.00 |
 | Centrála       | Provozní výdaje republikového výboru      |   8000.00 |
 | Centrála       | Provozní výdaje technického odboru        |  57000.00 |
