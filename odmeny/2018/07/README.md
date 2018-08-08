@@ -21,9 +21,9 @@ Seznam lidí
 | RP    | [Jana Koláříková](../../tymy/RP/2018/07/jana-kolarikova/)         |         100.00 |                39598.00 |
 | RP    | [Martin Kučera](../../tymy/RP/2018/07/martin-kucera/)             |         100.00 |                11000.00 |
 | RP    | [Michal Novák](../../tymy/RP/2018/07/michal-novak/)               |           0.00 |                48400.00 |
+| UT    | [Dino Arnautovič](../../tymy/UT/2018/07/dino-arnautovic/)         |         100.00 |                12500.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/07/dino-arnautovic/)         |           0.00 |                 4000.00 |
 | AO    | [Lucie Spáčilová](../../tymy/AO/2018/07/lucie-spacilova/)         |           0.00 |                22000.00 |
-| UT    | [Dino Arnautovič](../../tymy/UT/2018/07/dino-arnautovic/)         |         100.00 |                12500.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/07/jakub-dedek/)                 |           4.00 |                29138.00 |
 | PO    | [Štěpán Drtina](../../tymy/PO/2018/07/stepan-drtina/)             |           0.00 |                19818.00 |
 | PO    | [Filip Dítě](../../tymy/PO/2018/07/filip-dite/)                   |         106.00 |                23145.00 |
@@ -47,8 +47,6 @@ Seznam lidí
 | MO    | [Jakub Dušánek](../../tymy/MO/2018/07/jakub-dusanek/)             |         100.00 |                38000.00 |
 | MO    | [Daniel Galuszka](../../tymy/MO/2018/07/daniel-galuszka/)         |         100.00 |                14500.00 |
 | MO    | [Jiří Hoskovec](../../tymy/MO/2018/07/jiri-hoskovec/)             |         100.00 |                12000.00 |
-| MO    | [Martina Kavanová](../../tymy/MO/2018/07/martina-kavanova/)       |         100.00 |                    0.00 |
-| MO    | [Aneta Kernová](../../tymy/MO/2018/07/aneta-kernova/)             |         100.00 |                    0.00 |
 | MO    | [Andrea Mádlová](../../tymy/MO/2018/07/andrea-madlova/)           |         100.00 |                36000.00 |
 | MO    | [Karolína Sadílková](../../tymy/MO/2018/07/karolina-sadilkova/)   |         100.00 |                56000.00 |
 | MO    | [Jan Vrobel](../../tymy/MO/2018/07/jan-vrobel/)                   |           0.00 |                50000.00 |
@@ -60,9 +58,13 @@ Seznam lidí
 | Pha   | [Aneta Heidlová](../../tymy/Pha/2018/07/aneta-heidlova/)          |           0.00 |                13520.00 |
 | Pha   | [Zdeněk Hřib](../../tymy/Pha/2018/07/zdenek-hrib/)                |           0.00 |                    0.00 |
 | Pha   | [Ondřej Kallasch](../../tymy/Pha/2018/07/ondrej-kallasch/)        |           0.00 |                    0.00 |
+| Pha   | [Martina Kavanová](../../tymy/Pha/2018/07/martina-kavanova/)      |         100.00 |                  300.00 |
+| Pha   | [Aneta Kernová](../../tymy/Pha/2018/07/aneta-kernova/)            |         100.00 |                 7200.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/07/michaela-kleslova/)    |          32.00 |                14429.00 |
+| Pha   | [Kristina Králová](../../tymy/Pha/2018/07/kristina-kralova/)      |           0.00 |                10000.00 |
 | Pha   | [Viktor Mahrik](../../tymy/Pha/2018/07/viktor-mahrik/)            |          26.00 |                 3182.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/07/ivan-mikolas/)              |           0.00 |                    0.00 |
+| Pha   | [Martina Kavanová](../../tymy/Pha/2018/07/martina-kavanova/)      |         100.00 |                  300.00 |
 | Pha   | [Jaroslava Vatay](../../tymy/Pha/2018/07/jaroslava-vatay/)        |           0.00 |                29000.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/07/adam-zabransky/)          |          47.00 |                 5747.00 |
 | Pha   | [Vít Šimral](../../tymy/Pha/2018/07/vit-simral/)                  |          77.00 |                17375.00 |
@@ -106,6 +108,7 @@ Rozpis podle týmů
 | Praha          | Koordinace dobrovolníků                   |  42949.00 |
 | Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |   8929.00 |
 | Praha          | Podpora senátora L. Michálka              |  14760.00 |
+| Praha          | Provozní výdaje zahraničního odboru       |   7200.00 |
 | Praha          | Stínoví zastupitelé                       |  17375.00 |
 | Praha          | Volební výdaje na volby do ZHMP           |  29000.00 |
 

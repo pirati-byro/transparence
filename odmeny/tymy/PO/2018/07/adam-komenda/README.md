@@ -30,10 +30,10 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                                                                                                                                                                                                                                     |   Počet hodin |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------:|
-| **[Ústecký kraj][p101]**                                                                                                                                                                                                                                                         |         79.20 |
+| **[Ústecký kraj][p102]**                                                                                                                                                                                                                                                         |         79.20 |
 | [#10713 Dlouhodobý úkol KoKS: administrativní činnost: podávání příkazů k proplacení, vyřizování přihlášek, příprava zpracování smluv správa evidenčních tabulek.][t10713]                                                                                                       |         50.00 |
 | [#10716 Dlouhodobý úkol KoKS: Organizace schůzí, setkání se zájemci o členství, agitační akce sloužící k propagaci strany, cesta na schůze či na agitační akce, rozvoz pirátského merche, rozesílání pirátského merche, příprava a rozesílání newsletterů a fb událostí][t10716] |         29.00 |
-| **[Personální odbor][p77]**                                                                                                                                                                                                                                                      |          1.20 |
+| **[Personální odbor][p78]**                                                                                                                                                                                                                                                      |          1.20 |
 | **Celkem v uvedených projektech**                                                                                                                                                                                                                                                |         80.42 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -100,13 +100,13 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p101]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=101
+[p102]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=102
 
 [t10713]: https://redmine.pirati.cz/issues/10713/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5
 
 [t10716]: https://redmine.pirati.cz/issues/10716/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5
 
-[p77]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=77
+[p78]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=4&v[user_id][]=0&v[user_id][]=5&f[]=project_id&op[project_id]==&v[project_id][]=78
 
 
 

@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Republikové předsednictvo][p65]**                                      |        163.20 |
+| **[Republikové předsednictvo][p66]**                                      |        163.20 |
 | [#10192 Vyřizování e-mailů][t10192]                                       |         50.50 |
 | [#11120 Nahodilé denní úkoly, urgentní úkoly, úkoly sekretariátu][t11120] |         24.80 |
 | [#11885 1. Pirátská][t11885]                                              |         23.50 |
@@ -40,7 +40,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#11273 Vodafone - správa stranických + poslaneckých telefonů][t11273]    |          8.80 |
 | [#10289 Faktury, přípravy proplácení, role hospodáře atd.][t10289]        |          6.50 |
 | [#10585 Jednání, schůzky][t10585]                                         |          5.00 |
-| **[Personální odbor][p77]**                                               |          1.00 |
+| **[Personální odbor][p78]**                                               |          1.00 |
 | **Celkem v uvedených projektech**                                         |        164.25 |
 
 Smlouva se vztahuje na všechny projekty. 
@@ -107,7 +107,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p65]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=65
+[p66]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=66
 
 [t10192]: https://redmine.pirati.cz/issues/10192/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6
 
@@ -127,7 +127,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t10585]: https://redmine.pirati.cz/issues/10585/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6
 
-[p77]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=77
+[p78]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=5&v[user_id][]=4&v[user_id][]=6&f[]=project_id&op[project_id]==&v[project_id][]=78
 
 
 

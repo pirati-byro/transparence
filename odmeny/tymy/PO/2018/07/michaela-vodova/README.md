@@ -30,7 +30,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 
 | Projekt/úkol                                                              |   Počet hodin |
 |:--------------------------------------------------------------------------|--------------:|
-| **[Kraj vysočina][p110]**                                                 |        177.50 |
+| **[Kraj vysočina][p111]**                                                 |        177.50 |
 | [#11370 Komunální volby 2018][t11370]                                     |         76.60 |
 | [#5008 Administrativa kraje][t5008]                                       |         40.10 |
 | [#10755 Pracovní cesty po Vysočině][t10755]                               |         17.80 |
@@ -39,7 +39,7 @@ Následující seznam zahrnuje všechny úkoly, které zabraly déle než 3 hodi
 | [#5158 Komunikace se členy, dobrovolníky KS Vysočina a veřejností][t5158] |          5.80 |
 | [#10617 Senátní volby 2018][t10617]                                       |          5.20 |
 | [#12084 1.7.2018 zasedání KF JiPiCe][t12084]                              |          5.00 |
-| **[Personální odbor][p77]**                                               |         22.60 |
+| **[Personální odbor][p78]**                                               |         22.60 |
 | [#5232 Odměňování krajský koordinátor - Vysočina][t5232]                  |         16.80 |
 | **Celkem v uvedených projektech**                                         |        200.13 |
 
@@ -107,7 +107,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
 
 
-[p110]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=110
+[p111]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=111
 
 [t11370]: https://redmine.pirati.cz/issues/11370/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
@@ -125,7 +125,7 @@ Tento výkaz byl vygenerován na základě následujících dat, které jsou jeh
 
 [t12084]: https://redmine.pirati.cz/issues/12084/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
-[p77]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=77
+[p78]: https://redmine.pirati.cz/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1&f[]=project_id&op[project_id]==&v[project_id][]=78
 
 [t5232]: https://redmine.pirati.cz/issues/5232/time_entries?c[]=project&c[]=user&c[]=activity&c[]=issue&c[]=hours&c[]=cf_16&c[]=spent_on&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=%E2%9C%93&v[spent_on][]=2018-07-01&v[spent_on][]=2018-07-31&v[user_id][]=1&v[user_id][]=6&v[user_id][]=1
 
