@@ -24,11 +24,11 @@ Období:                  | 2018-07
 | [Aneta Kernová](aneta-kernova/)         |                 7200.00 |
 | [Michaela Kleslová](michaela-kleslova/) |                14429.00 |
 | [Kristina Králová](kristina-kralova/)   |                10000.00 |
-| [Viktor Mahrik](viktor-mahrik/)         |                 3182.00 |
+| [Viktor Mahrik](viktor-mahrik/)         |                 3682.00 |
 | [Ivan Mikoláš](ivan-mikolas/)           |                    0.00 |
 | [Martina Kavanová](martina-kavanova/)   |                  300.00 |
 | [Jaroslava Vatay](jaroslava-vatay/)     |                29000.00 |
-| [Adam Zábranský](adam-zabransky/)       |                 5747.00 |
+| [Adam Zábranský](adam-zabransky/)       |                10747.00 |
 | [Vít Šimral](vit-simral/)               |                17375.00 |
 | [Marcela Šroubková](marcela-sroubkova/) |                15000.00 |
 | [Štěpán Štrébl](stepan-strebl/)         |                40000.00 |

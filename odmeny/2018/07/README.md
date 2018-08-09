@@ -23,7 +23,7 @@ Seznam lidí
 | RP    | [Michal Novák](../../tymy/RP/2018/07/michal-novak/)               |           0.00 |                48400.00 |
 | UT    | [Dino Arnautovič](../../tymy/UT/2018/07/dino-arnautovic/)         |         100.00 |                12500.00 |
 | AO    | [Dino Arnautovič](../../tymy/AO/2018/07/dino-arnautovic/)         |           0.00 |                 4000.00 |
-| AO    | [Lucie Spáčilová](../../tymy/AO/2018/07/lucie-spacilova/)         |           0.00 |                22000.00 |
+| AO    | [Lucie Spáčilová](../../tymy/AO/2018/07/lucie-spacilova/)         |           0.00 |                25000.00 |
 | PO    | [Jakub Dedek](../../tymy/PO/2018/07/jakub-dedek/)                 |           4.00 |                29138.00 |
 | PO    | [Štěpán Drtina](../../tymy/PO/2018/07/stepan-drtina/)             |           0.00 |                19818.00 |
 | PO    | [Filip Dítě](../../tymy/PO/2018/07/filip-dite/)                   |         106.00 |                23145.00 |
@@ -62,11 +62,11 @@ Seznam lidí
 | Pha   | [Aneta Kernová](../../tymy/Pha/2018/07/aneta-kernova/)            |         100.00 |                 7200.00 |
 | Pha   | [Michaela Kleslová](../../tymy/Pha/2018/07/michaela-kleslova/)    |          32.00 |                14429.00 |
 | Pha   | [Kristina Králová](../../tymy/Pha/2018/07/kristina-kralova/)      |           0.00 |                10000.00 |
-| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/07/viktor-mahrik/)            |          26.00 |                 3182.00 |
+| Pha   | [Viktor Mahrik](../../tymy/Pha/2018/07/viktor-mahrik/)            |          26.00 |                 3682.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/07/ivan-mikolas/)              |           0.00 |                    0.00 |
 | Pha   | [Martina Kavanová](../../tymy/Pha/2018/07/martina-kavanova/)      |         100.00 |                  300.00 |
 | Pha   | [Jaroslava Vatay](../../tymy/Pha/2018/07/jaroslava-vatay/)        |           0.00 |                29000.00 |
-| Pha   | [Adam Zábranský](../../tymy/Pha/2018/07/adam-zabransky/)          |          47.00 |                 5747.00 |
+| Pha   | [Adam Zábranský](../../tymy/Pha/2018/07/adam-zabransky/)          |          47.00 |                10747.00 |
 | Pha   | [Vít Šimral](../../tymy/Pha/2018/07/vit-simral/)                  |          77.00 |                17375.00 |
 | Pha   | [Marcela Šroubková](../../tymy/Pha/2018/07/marcela-sroubkova/)    |           0.00 |                15000.00 |
 | Pha   | [Štěpán Štrébl](../../tymy/Pha/2018/07/stepan-strebl/)            |         100.00 |                40000.00 |
@@ -92,7 +92,7 @@ Rozpis podle týmů
 
 | Rozpočet       | Položka                                   |   Náklady |
 |:---------------|:------------------------------------------|----------:|
-| Centrála       | Provozní výdaje administrativního odboru  |  37000.00 |
+| Centrála       | Provozní výdaje administrativního odboru  |  40000.00 |
 | Centrála       | Provozní výdaje finančního odboru         |  13450.00 |
 | Centrála       | Provozní výdaje mediálního odboru         | 258000.00 |
 | Centrála       | Provozní výdaje personálního odboru       | 462637.00 |
@@ -106,7 +106,7 @@ Rozpis podle týmů
 | Jihočeský kraj | Mzdové náklady vedoucí MO                 |   8950.00 |
 | Kraj Vysočina  | Personální výdaje                         |  23590.00 |
 | Praha          | Koordinace dobrovolníků                   |  42949.00 |
-| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |   8929.00 |
+| Praha          | Odměny zastupitelů hl. m. Prahy za Piráty |  14429.00 |
 | Praha          | Podpora senátora L. Michálka              |  14760.00 |
 | Praha          | Provozní výdaje zahraničního odboru       |   7200.00 |
 | Praha          | Stínoví zastupitelé                       |  17375.00 |
