@@ -66,7 +66,7 @@ Seznam lidí
 | Pha   | [Viktor Mahrik](../../tymy/Pha/2018/08/viktor-mahrik/)            |           4.00 |                  571.00 |
 | Pha   | [Ivan Mikoláš](../../tymy/Pha/2018/08/ivan-mikolas/)              |           0.00 |                    0.00 |
 | Pha   | [Martina Kavanová](../../tymy/Pha/2018/08/martina-kavanova/)      |         100.00 |                    0.00 |
-| Pha   | [Jaroslava Vatay](../../tymy/Pha/2018/08/jaroslava-vatay/)        |           0.00 |                29000.00 |
+| Pha   | [Jaroslava Vatay](../../tymy/Pha/2018/08/jaroslava-vatay/)        |           0.00 |                    0.00 |
 | Pha   | [Adam Zábranský](../../tymy/Pha/2018/08/adam-zabransky/)          |          55.00 |                 7666.00 |
 | Pha   | [Vít Šimral](../../tymy/Pha/2018/08/vit-simral/)                  |          49.00 |                10050.00 |
 | Pha   | [Marcela Šroubková](../../tymy/Pha/2018/08/marcela-sroubkova/)    |           0.00 |                14781.00 |
