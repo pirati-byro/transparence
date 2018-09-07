@@ -36,7 +36,7 @@ Seznam lidí
 | PO    | [Yveta Matinková](../../tymy/PO/2018/08/yveta-matinkova/)         |           0.00 |                29658.00 |
 | PO    | [Miroslav Mašek](../../tymy/PO/2018/08/miroslav-masek/)           |          96.00 |                26309.00 |
 | PO    | [Jan Můčka](../../tymy/PO/2018/08/jan-mucka/)                     |           0.00 |                20000.00 |
-| PO    | [Anežka Pulkrtová](../../tymy/PO/2018/08/anezka-pulkrtova/)       |           0.00 |                10000.00 |
+| PO    | [Anežka Pulkrtová](../../tymy/PO/2018/08/anezka-pulkrtova/)       |           0.00 |                 8000.00 |
 | PO    | [Lucie Trčková](../../tymy/PO/2018/08/lucie-trckova/)             |         104.00 |                17818.00 |
 | PO    | [Michaela Vodová](../../tymy/PO/2018/08/michaela-vodova/)         |          89.00 |                34981.00 |
 | PO    | [Helena Vondráková](../../tymy/PO/2018/08/helena-vondrakova/)     |         100.00 |                17636.00 |
