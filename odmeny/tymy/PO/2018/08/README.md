@@ -29,7 +29,8 @@ Období:                  | 2018-08
 | [Yveta Matinková](yveta-matinkova/)     |                29658.00 |
 | [Miroslav Mašek](miroslav-masek/)       |                26309.00 |
 | [Jan Můčka](jan-mucka/)                 |                20000.00 |
-| [Lucie Trčková](lucie-trckova/)         |                12818.00 |
+| [Anežka Pulkrtová](anezka-pulkrtova/)   |                10000.00 |
+| [Lucie Trčková](lucie-trckova/)         |                17818.00 |
 | [Michaela Vodová](michaela-vodova/)     |                34981.00 |
 | [Helena Vondráková](helena-vondrakova/) |                17636.00 |
 | [Libuše Věříšová](libuse-verisova/)     |                29527.00 |

@@ -18,7 +18,7 @@ Období:                  | 2018-08
 | Jméno a příjmení                        |   Odměna od strany (Kč) |
 |:----------------------------------------|------------------------:|
 | [Andrej Ramašeuski](andrej-ramaseuski/) |                30000.00 |
-| [Martin Rejman](martin-rejman/)         |                27000.00 |
+| [Martin Rejman](martin-rejman/)         |                31900.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani

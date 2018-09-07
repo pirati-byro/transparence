@@ -18,7 +18,7 @@ Období:                  | 2018-08
 | Jméno a příjmení                    |   Odměna od strany (Kč) |
 |:------------------------------------|------------------------:|
 | [Dino Arnautovič](dino-arnautovic/) |                 4000.00 |
-| [Lucie Spáčilová](lucie-spacilova/) |                22000.00 |
+| [Lucie Spáčilová](lucie-spacilova/) |                26000.00 |
 
 
 [metodika]: https://redmine.pirati.cz/projects/po/wiki/Odmenovani
