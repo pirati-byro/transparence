@@ -24,12 +24,12 @@ Období:                  | 2018-09
 | [Aneta Kernová](aneta-kernova/)         |                    0.00 |
 | [Michaela Kleslová](michaela-kleslova/) |                10000.00 |
 | [Kristina Králová](kristina-kralova/)   |                    0.00 |
-| [Viktor Mahrik](viktor-mahrik/)         |                 8560.00 |
+| [Viktor Mahrik](viktor-mahrik/)         |                12560.00 |
 | [Ivan Mikoláš](ivan-mikolas/)           |                    0.00 |
 | [Martina Kavanová](martina-kavanova/)   |                    0.00 |
 | [Jaroslava Vatay](jaroslava-vatay/)     |                29000.00 |
 | [Adam Zábranský](adam-zabransky/)       |                 6924.00 |
-| [Vít Šimral](vit-simral/)               |                16500.00 |
+| [Vít Šimral](vit-simral/)               |                20500.00 |
 | [Marcela Šroubková](marcela-sroubkova/) |                10000.00 |
 | [Štěpán Štrébl](stepan-strebl/)         |                40000.00 |
 
